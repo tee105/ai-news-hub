@@ -1,0 +1,126 @@
+{
+  "sample": true,
+  "generatedAt": "2026-08-06T08:00:00.000Z",
+  "items": [
+    {
+      "id": "sample-0001",
+      "title": "OpenAI 发布新一代推理模型，Agent 任务性能提升明显",
+      "url": "https://example.com/news/openai-frontier-model",
+      "source": "示例 · TechCrunch AI",
+      "sourceType": "media",
+      "category": "agent",
+      "publishedAt": "2026-08-06T07:30:00.000Z",
+      "summary": "新模型在长程规划与工具调用基准上大幅领先，官方称将优先开放给开发者构建智能体应用。",
+      "thumbnail": null,
+      "sample": true
+    },
+    {
+      "id": "sample-0002",
+      "title": "Anthropic 更新 Claude 智能体 SDK，支持多步骤浏览器操作",
+      "url": "https://example.com/news/anthropic-agent-sdk",
+      "source": "示例 · VentureBeat AI",
+      "sourceType": "media",
+      "category": "agent",
+      "publishedAt": "2026-08-06T06:15:00.000Z",
+      "summary": "新版本加入计算机使用与表单自动填写能力，开发者可在沙箱环境中安全运行复杂工作流。",
+      "thumbnail": null,
+      "sample": true
+    },
+    {
+      "id": "sample-0003",
+      "title": "多智能体框架报告：MCP 协议成 2026 年主流集成标准",
+      "url": "https://example.com/news/mcp-standard-report",
+      "source": "示例 · The Verge AI",
+      "sourceType": "media",
+      "category": "agent",
+      "publishedAt": "2026-08-06T05:00:00.000Z",
+      "summary": "多家主流厂商宣布支持 MCP，智能体工具调用生态进入标准化阶段，报告预测年底渗透率将过半。",
+      "thumbnail": null,
+      "sample": true
+    },
+    {
+      "id": "sample-0004",
+      "title": "Google 开源轻量级视觉语言模型，边缘设备推理提速 3 倍",
+      "url": "https://example.com/news/google-edge-vlm",
+      "source": "示例 · Google News",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T04:20:00.000Z",
+      "summary": "新模型在保持精度的同时大幅降低内存占用，可运行于手机与嵌入式设备。",
+      "thumbnail": null,
+      "sample": true
+    },
+    {
+      "id": "sample-0005",
+      "title": "Two Minute Papers: 智能体自主训练新算法解析",
+      "url": "https://www.youtube.com/watch?v=sample-video-1",
+      "source": "示例 · Two Minute Papers",
+      "sourceType": "youtube",
+      "category": "ai",
+      "publishedAt": "2026-08-06T03:00:00.000Z",
+      "summary": "本期视频用 12 分钟讲解最新自主训练算法，以及它对 Agent 泛化能力的潜在影响。",
+      "thumbnail": null,
+      "sample": true
+    },
+    {
+      "id": "sample-0006",
+      "title": "AI Explained: 从大模型到 Agentic Workflow 的演化",
+      "url": "https://www.youtube.com/watch?v=sample-video-2",
+      "source": "示例 · AI Explained",
+      "sourceType": "youtube",
+      "category": "agent",
+      "publishedAt": "2026-08-05T20:00:00.000Z",
+      "summary": "梳理 2025-2026 年 Agentic 方向的关键技术路线，包括规划、反思与工具使用。",
+      "thumbnail": null,
+      "sample": true
+    },
+    {
+      "id": "sample-0007",
+      "title": "TED Talk: 人与智能体共生的下一章",
+      "url": "https://www.ted.com/talks/sample-ai-talk",
+      "source": "示例 · TED Talks",
+      "sourceType": "talk",
+      "category": "agent",
+      "publishedAt": "2026-08-05T12:00:00.000Z",
+      "summary": "演讲者讨论自主智能体进入日常工作后，人类角色与协作方式的变化。",
+      "thumbnail": null,
+      "sample": true
+    },
+    {
+      "id": "sample-0008",
+      "title": "TikTok 热门：#AI 挑战最新 Agent 演示",
+      "url": "https://www.tiktok.com/tag/ai",
+      "source": "示例 · TikTok #AI",
+      "sourceType": "tiktok",
+      "category": "ai",
+      "publishedAt": "2026-08-05T09:00:00.000Z",
+      "summary": "短视频创作者分享 AI 工具实测与 Agent 自动化演示，播放量持续攀升。",
+      "thumbnail": null,
+      "sample": true
+    },
+    {
+      "id": "sample-0009",
+      "title": "智能体安全研究：越狱攻击与防护新进展",
+      "url": "https://example.com/news/agent-safety-research",
+      "source": "示例 · MIT Tech Review",
+      "sourceType": "media",
+      "category": "agent",
+      "publishedAt": "2026-08-05T02:00:00.000Z",
+      "summary": "研究团队提出针对多智能体协作场景的攻防基准，帮助开发者评估风险。",
+      "thumbnail": null,
+      "sample": true
+    },
+    {
+      "id": "sample-0010",
+      "title": "开源社区发布 Agent 评测排行榜，中文场景单独成榜",
+      "url": "https://example.com/news/agent-benchmark-leaderboard",
+      "source": "示例 · Google News 中文",
+      "sourceType": "google",
+      "category": "agent",
+      "publishedAt": "2026-08-04T15:00:00.000Z",
+      "summary": "新评测涵盖网页操作、代码生成与多步工具调用，中文场景榜单受到开发者关注。",
+      "thumbnail": null,
+      "sample": true
+    }
+  ]
+}

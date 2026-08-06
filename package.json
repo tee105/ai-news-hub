@@ -1,0 +1,24 @@
+{
+  "name": "ai-news-hub",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@11.16.0",
+  "type": "module",
+  "description": "AI 与智能体 Agent 每日新闻聚合站",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "sync": "node scripts/sync.mjs",
+    "sync:dry": "node scripts/sync.mjs --dry-run",
+    "sync:force": "node scripts/sync.mjs --force"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "note": "每个源可独立配置刷新间隔(cadence, 天)。类型: media=科技媒体, google=Google News, youtube=YouTube, talk=会议演讲, tiktok=TikTok(经 RSSHub 桥接)。category: ai|agent|auto(auto=按关键词自动归类)。失效源会被自动跳过并记录。",
+  "agentKeywords": ["ai agent", "ai agents", "agentic", "multi-agent", "multiagent", "autonomous agent", "agent framework", "agentic ai", "computer use", "mcp ", "tool use", "agent platform", "deep research", "coding agent", "智能体", "智能代理", "体智能"],
+  "sources": [
+    { "id": "techcrunch-ai", "name": "TechCrunch AI", "type": "media", "category": "auto", "cadence": 1, "url": "https://techcrunch.com/category/artificial-intelligence/feed/" },
+    { "id": "venturebeat-ai", "name": "VentureBeat AI", "type": "media", "category": "auto", "cadence": 1, "url": "https://venturebeat.com/category/ai/feed/" },
+    { "id": "theverge-ai", "name": "The Verge AI", "type": "media", "category": "auto", "cadence": 1, "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" },
+    { "id": "mit-tr-ai", "name": "MIT Tech Review AI", "type": "media", "category": "auto", "cadence": 1, "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed" },
+    { "id": "wired-ai", "name": "Wired AI", "type": "media", "category": "auto", "cadence": 1, "url": "https://www.wired.com/feed/tag/ai/latest/rss" },
+    { "id": "arstechnica-ai", "name": "Ars Technica AI", "type": "media", "category": "auto", "cadence": 1, "url": "https://arstechnica.com/tag/ai/feed/" },
+    { "id": "openai-blog", "name": "OpenAI Blog", "type": "media", "category": "auto", "cadence": 1, "url": "https://openai.com/news/rss.xml" },
+    { "id": "google-ai-blog", "name": "Google AI Blog", "type": "media", "category": "auto", "cadence": 1, "url": "https://blog.google/innovation-and-ai/technology/ai/rss/" },
+    { "id": "google-news-ai", "name": "Google News · AI", "type": "google", "category": "auto", "cadence": 1, "url": "https://news.google.com/rss/search?q=artificial+intelligence&hl=en-US&gl=US&ceid=US:en" },
+    { "id": "google-news-agent", "name": "Google News · AI Agent", "type": "google", "category": "auto", "cadence": 1, "url": "https://news.google.com/rss/search?q=AI+agent&hl=en-US&gl=US&ceid=US:en" },
+    { "id": "google-news-zh", "name": "Google News · 人工智能", "type": "google", "category": "auto", "cadence": 1, "url": "https://news.google.com/rss/search?q=人工智能&hl=zh-CN&gl=CN&ceid=CN:zh-Hans" },
+    { "id": "yt-two-minute-papers", "name": "YouTube · Two Minute Papers", "type": "youtube", "category": "auto", "cadence": 1, "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg" },
+    { "id": "yt-ai-explained", "name": "YouTube · AI Explained", "type": "youtube", "category": "auto", "cadence": 1, "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw" },
+    { "id": "yt-karpathy", "name": "YouTube · Andrej Karpathy", "type": "youtube", "category": "auto", "cadence": 3, "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ" },
+    { "id": "yt-yannic", "name": "YouTube · Yannic Kilcher", "type": "youtube", "category": "auto", "cadence": 3, "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew" },
+    { "id": "talk-icml", "name": "演讲 · ICML Conf", "type": "talk", "category": "auto", "cadence": 3, "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_JtgG9jWCnd9fU5upXboGQ" },
+    { "id": "talk-ted", "name": "演讲 · TED Talks", "type": "talk", "category": "auto", "cadence": 3, "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSrdt0-Iu8qVEiJyzhrfdQ" },
+    { "id": "tiktok-ai", "name": "TikTok #AI", "type": "tiktok", "category": "auto", "cadence": 1, "url": "https://rsshub.app/tiktok/hashtag/ai", "fallbackUrl": "https://www.tiktok.com/tag/ai" },
+    { "id": "tiktok-agent", "name": "TikTok #AI Agent", "type": "tiktok", "category": "auto", "cadence": 1, "url": "https://rsshub.app/tiktok/hashtag/aiagent", "fallbackUrl": "https://www.tiktok.com/tag/aiagent" }
+  ]
+}
