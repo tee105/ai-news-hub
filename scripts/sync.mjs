@@ -51,6 +51,22 @@ function decodeEntities(str = '') {
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)));
 }
 
+/**
+ * ?????? latin1 ??? UTF-8 ???mojibake??
+ * ??????????? latin1 ???????????? UTF-8 ?????
+ */
+function repairMojibake(str = '') {
+  if (!str) return str;
+  try {
+    const bytes = Buffer.from(str, 'latin1');
+    const fixed = bytes.toString('utf8');
+    if (fixed.includes('\uFFFD')) return str; // ?????????
+    return fixed;
+  } catch (e) {
+    return str;
+  }
+}
+
 function stripHtml(str = '') {
   return str
     .replace(/<[^>]*>/g, ' ')
@@ -107,17 +123,19 @@ function classify(category, title, summary, keywords) {
 
 function makeItem(raw, source, keywords) {
   const publishedAt = raw.publishedAt || new Date().toISOString();
-  const category = classify(source.category, raw.title, raw.summary, keywords);
-  const id = hashId(`${source.id}:${raw.url}:${raw.title}`);
+  const title = repairMojibake(raw.title);
+  const summary = repairMojibake(raw.summary || '');
+  const category = classify(source.category, title, summary, keywords);
+  const id = hashId(`${source.id}:${raw.url}:${title}`);
   return {
     id,
-    title: raw.title,
+    title,
     url: raw.url,
-    source: source.name,
+    source: repairMojibake(source.name),
     sourceType: source.type,
     category,
     publishedAt,
-    summary: raw.summary,
+    summary,
     thumbnail: raw.thumbnail,
     fetchedAt: new Date().toISOString(),
   };
@@ -322,6 +340,11 @@ async function main() {
     }
   }
 
+  for (const it of freshItems) {
+    it.title = repairMojibake(it.title);
+    it.summary = repairMojibake(it.summary || '');
+    it.source = repairMojibake(it.source);
+  }
   const allItems = [...freshItems, ...newItems]
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
     .slice(0, MAX_ITEMS);

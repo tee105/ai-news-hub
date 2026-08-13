@@ -1,7 +1,679 @@
 {
-  "generatedAt": "2026-08-06T13:51:39.338Z",
-  "fetchedSources": 11,
+  "generatedAt": "2026-08-13T00:58:32.400Z",
+  "fetchedSources": 7,
   "items": [
+    {
+      "id": "68cd2814f27430eb",
+      "title": "Some Claude users are mad that Anthropic\u0019s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T22:26:37.000Z",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "5f0c1a5276b167a4",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "source": "Ars Technica AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T21:43:21.000Z",
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach-500x500.jpeg",
+      "fetchedAt": "2026-08-13T00:58:48.922Z"
+    },
+    {
+      "id": "c005c417c4bb3956",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "source": "Ars Technica AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T21:00:30.000Z",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-500x500.jpg",
+      "fetchedAt": "2026-08-13T00:58:48.922Z"
+    },
+    {
+      "id": "f891f6a56a7bc906",
+      "title": "The White House Is Going to Expand Its AI Policy",
+      "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+      "source": "Wired AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T21:00:00.000Z",
+      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+      "thumbnail": "https://media.wired.com/photos/6a7bbf68f5d2df0bb3e19f91/master/pass/politics_white_house_ai_policy.jpg",
+      "fetchedAt": "2026-08-13T00:58:46.545Z"
+    },
+    {
+      "id": "d8d4ecb452845b98",
+      "title": "Amazon will train on Twitch streamers\u0019 content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T20:10:40.000Z",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "8da24594ae681bfe",
+      "title": "Rogue AI Agents Aren\u0019t Evil. They\u0019re Just Eager to Please",
+      "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "source": "Wired AI",
+      "sourceType": "media",
+      "category": "agent",
+      "publishedAt": "2026-08-12T18:45:00.000Z",
+      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+      "thumbnail": "https://media.wired.com/photos/6a7b77e36e37f6db6a06a372/master/pass/AI-Lab-Why-Are-AI-Agents-So-Naughty-Business.jpg",
+      "fetchedAt": "2026-08-13T00:58:46.545Z"
+    },
+    {
+      "id": "30050961d4a92ab7",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T18:19:12.000Z",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "c601ca4d5f5d1656",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T17:51:00.000Z",
+      "summary": "At Ai4, three of the world's most respected AI experts \u0014 Geoffrey Hinton, Fei-Fei Li, and Andrew Ng \u0014 debated regulation, open source access, and how America can compete as China advances in Asia.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "453a16e8243472f9",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T17:41:29.000Z",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "f874b0cbad361d73",
+      "title": "Mesh, Automattic\u0019s CRM for everyone, comes to Android",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T16:57:58.000Z",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "0eb03cf40a2f75a5",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Tech Review AI",
+      "sourceType": "media",
+      "category": "agent",
+      "publishedAt": "2026-08-12T16:51:57.000Z",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u0019s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:45.168Z"
+    },
+    {
+      "id": "2cfdf9f36e2dad18",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T16:46:02.000Z",
+      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables \u0014 rings especially \u0014 are betting peop",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "e87f2fed1b4b8335",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T16:04:27.000Z",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "270e706f249cd9e1",
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T15:44:56.000Z",
+      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "a0c0dbc79d070d29",
+      "title": "Why Sandbar thinks it\u0019s voice-enabled ring can avoid the AI hardware graveyard",
+      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T14:22:00.000Z",
+      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables \u0014 rings especially \u0014 are betting peop",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "3d5a57e7ba8f2b74",
+      "title": "Everything announced at Made by Google \u001926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T14:20:33.000Z",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple\u0019s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "cc4ac7bbe952b62e",
+      "title": "4 New Camera Tricks on Google\u0019s Latest Pixel 11 Smartphones",
+      "url": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
+      "source": "Wired AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here\u0019s a look at a few camera features on Google\u0019s new Pixel 11 series.",
+      "thumbnail": "https://media.wired.com/photos/6a7b42c0e3ffed826d9fc63e/master/pass/Google%20Pixel%2011%20in%20Hibiscus%20SOURCE%20Julian%20Chokkattu.jpg",
+      "fetchedAt": "2026-08-13T00:58:46.545Z"
+    },
+    {
+      "id": "9cb3a7c692938f2f",
+      "title": "AI code-testing startup Blacksmith\u0019s valuation jumps almost 10x in less than a year",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T11:00:00.000Z",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "c14b982ab43e2600",
+      "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+      "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
+      "source": "Wired AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T10:45:00.000Z",
+      "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That\u0019s why he got his startup\u0019s logo tattooed on his shoulder.",
+      "thumbnail": "https://media.wired.com/photos/6a6be4d1e28e6ee5fb2f6879/master/pass/Interview-With-Startup-Founder-Who-Offered-Interviews-for-Tattoos-Business.gif",
+      "fetchedAt": "2026-08-13T00:58:46.545Z"
+    },
+    {
+      "id": "489250b814046a65",
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "source": "Wired AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T10:30:00.000Z",
+      "summary": "Last week, an AI newsroom beat mainstream journalists\u0014including WIRED\u0014to a story about OpenAI and hacking. It\u0019s just the beginning.",
+      "thumbnail": "https://media.wired.com/photos/6a7ba72882c71ca2ec1d3267/master/pass/AI-Breaking-News-Business.jpg",
+      "fetchedAt": "2026-08-13T00:58:46.545Z"
+    },
+    {
+      "id": "9b78fdf9d6533730",
+      "title": "You\u0019re Thinking About Online Trends All Wrong",
+      "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+      "source": "Wired AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T09:30:00.000Z",
+      "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
+      "thumbnail": "https://media.wired.com/photos/6a7214474c4d0e2f2b5457a0/master/pass/Internet-Trends-We-Keep-Getting-Wrong-Culture.gif",
+      "fetchedAt": "2026-08-13T00:58:46.545Z"
+    },
+    {
+      "id": "b9f2070e3fec1142",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "agent",
+      "publishedAt": "2026-08-12T06:00:00.000Z",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "b736a53ce9f5ab89",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "a5671fae08441a2c",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T21:39:11.000Z",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "1500cd4b1e69acef",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T19:15:35.000Z",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "f479e8ccc96a9472",
+      "title": "Google\u0019s Gemini app surges to 1 billion users",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T18:49:12.000Z",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.938Z"
+    },
+    {
+      "id": "0312f785cecc34e2",
+      "title": "Brad Lightcap, OpenAI\u0019s longtime COO, is leaving to \u0018start something new\u0019",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T17:41:34.000Z",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.939Z"
+    },
+    {
+      "id": "bdca5bb8557c4e4c",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T17:41:22.000Z",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.939Z"
+    },
+    {
+      "id": "b98bffa8e3d71824",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
+    },
+    {
+      "id": "9301540201e3c962",
+      "title": "An unreleased Anthropic model made progress on one of math\u0019s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T16:25:20.000Z",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it \u0014 but the company's models made more progress than you might expect.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.939Z"
+    },
+    {
+      "id": "fe9149dc813e76d2",
+      "title": "Spotify will label \u0018AI Persona\u0019 profiles and exclude their music from recommendations",
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T13:00:00.000Z",
+      "summary": "Spotify is introducing \u001cAI Persona\u001d labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.939Z"
+    },
+    {
+      "id": "65dfc592abd42eeb",
+      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+      "source": "Wired AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T12:37:12.000Z",
+      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants\u0019 device.",
+      "thumbnail": "https://media.wired.com/photos/6a7a4573b0493fdce2877e71/master/pass/Security_ZoomScreensharingBug.gif",
+      "fetchedAt": "2026-08-13T00:58:46.545Z"
+    },
+    {
+      "id": "c83bc322b9a8b7ed",
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T12:13:47.000Z",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:32.939Z"
+    },
+    {
+      "id": "f95f5df240837b6c",
+      "title": "A New Trick Reveals AI Models\u0019 Inner Thoughts",
+      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+      "source": "Wired AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T11:00:00.000Z",
+      "summary": "Researchers devised a way to extract \u001creasoning traces\u001d from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
+      "thumbnail": "https://media.wired.com/photos/6a7a6916b0493fdce2877f53/master/pass/Distilling-AI-More-Complicated-Than-You-Think-Business.jpg",
+      "fetchedAt": "2026-08-13T00:58:46.545Z"
+    },
+    {
+      "id": "b4aae3e1a3e5aade",
+      "title": "AI Is Dead. Organoids Are Alive",
+      "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "source": "Wired AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+      "thumbnail": "https://media.wired.com/photos/6a7a2641ddfb8a809864e7f8/master/pass/IN-LINE_LILAC.png",
+      "fetchedAt": "2026-08-13T00:58:46.545Z"
+    },
+    {
+      "id": "62d452c72183cc28",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "933de331c828a763",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "5165eef8176839ec",
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
+      "source": "Wired AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-11T09:00:00.000Z",
+      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
+      "thumbnail": "https://media.wired.com/photos/6a74f6a1ee5313e488f90591/master/pass/esquizofrenia.jpg",
+      "fetchedAt": "2026-08-13T00:58:46.545Z"
+    },
+    {
+      "id": "922744bb4db6cb54",
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "source": "Ars Technica AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T22:13:03.000Z",
+      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-500x500.jpg",
+      "fetchedAt": "2026-08-13T00:58:48.922Z"
+    },
+    {
+      "id": "e933f5fa82aae141",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Tech Review AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T20:00:00.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:45.168Z"
+    },
+    {
+      "id": "0ea6f5cab1a806ce",
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T17:00:00.000Z",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "d4f0fc0633755c89",
+      "title": "Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google AI Blog",
+      "sourceType": "media",
+      "category": "agent",
+      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp",
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
+    },
+    {
+      "id": "6ac52fd85bb2c2a7",
+      "title": "OpenAI\u0019s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T14:00:00.000Z",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "938fc38956967366",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "6ad9109bf798d1e8",
+      "title": "Peer review is overwhelmed\u0014can it survive in the AI era?",
+      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+      "source": "Ars Technica AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T11:00:47.000Z",
+      "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-500x500.jpg",
+      "fetchedAt": "2026-08-13T00:58:48.922Z"
+    },
+    {
+      "id": "a2b08e044beb5823",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "summary": "Approved Daybreak partners can use OpenAI\u0019s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "3d31031268d77e30",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI\u0019s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "4c7261e7d40af632",
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Tech Review AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u001cfacts of physical science have all been discovered.\u001d In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:45.168Z"
+    },
+    {
+      "id": "0ee65a8db430ba8b",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Tech Review AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "summary": "MIT Technology Review\u0019s What\u0019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called \u001cAttention Is All You Need,\u001d in which they describe",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:45.168Z"
+    },
+    {
+      "id": "4d1feba72110935e",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "ee140afaee066745",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "1b48492b67189367",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "815808da239e8108",
+      "title": "OpenAI\u0019s expensive smart speaker will use moving parts to seem \u001cmore alive\u001d",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "source": "Ars Technica AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-07T17:36:22.000Z",
+      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-500x500-1784833195.jpg",
+      "fetchedAt": "2026-08-13T00:58:48.922Z"
+    },
+    {
+      "id": "1d42ac0e38e4fe5a",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-07T15:20:00.000Z",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we\u0019re taking to strengthen safeguards and security controls.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "d95caf995f5dbef2",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
+      "id": "70e75205787c9c76",
+      "title": "Large genome models used to design new viruses",
+      "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "source": "Ars Technica AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T19:04:57.000Z",
+      "summary": "The AI system makes genetically distant versions of a bacteria-killing virus.",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-500x500.jpg",
+      "fetchedAt": "2026-08-13T00:58:48.922Z"
+    },
     {
       "id": "9b0c33b9818d264f",
       "title": "Agent security in focus for Delinea - SiliconANGLE",
@@ -40,7 +712,7 @@
     },
     {
       "id": "72b2362be4d9bed7",
-      "title": "The messy politics behind Google’s big AI shakeup",
+      "title": "The messy politics behind Google\u0019s big AI shakeup",
       "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
       "source": "The Verge AI",
       "sourceType": "media",
@@ -148,7 +820,7 @@
     },
     {
       "id": "d9494657060aa4e7",
-      "title": "AI bots started a religion — humans immediately followed",
+      "title": "AI bots started a religion \u0014 humans immediately followed",
       "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
       "source": "The Verge AI",
       "sourceType": "media",
@@ -214,7 +886,7 @@
       "sourceType": "media",
       "category": "agent",
       "publishedAt": "2026-08-06T12:30:00.000Z",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "summary": "The launch of these new features reflects Google\u0019s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T13:46:23.704Z"
     },
@@ -472,19 +1144,19 @@
     },
     {
       "id": "a45f94b140528589",
-      "title": "Artificial Intelligence: the hype, the dangers, and the resistance—Part I - mronline.org",
+      "title": "Artificial Intelligence: the hype, the dangers, and the resistance\u0014Part I - mronline.org",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHBfSGlRZGN4NUowdmNXRHpKdzNsM3ZYOU1UQWFObkpLRGlRZDF2RnRMODNlLW1WeVlHbGhzVl9NZ2M3VmlHdFpLemsyTThtblNYVm8tLS1SVmxVLW9yQTFMMTBQLWFTaER1V1NGc0E5SThOdXlsaXpRZ1JvajlfSVIyYmRzUlh2aG1abXF3ZkxaWVZ2Rm1YakVUa1FSa3J0al8tMWZR?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T11:02:42.000Z",
-      "summary": "Artificial Intelligence: the hype, the dangers, and the resistance—Part I mronline.org",
+      "summary": "Artificial Intelligence: the hype, the dangers, and the resistance\u0014Part I mronline.org",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
     {
       "id": "0f13ce5641ddc084",
-      "title": "AI isn’t enough to protect social media communities from AI",
+      "title": "AI isn\u0019t enough to protect social media communities from AI",
       "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
       "source": "Ars Technica AI",
       "sourceType": "media",
@@ -493,6 +1165,18 @@
       "summary": "Why humans need to moderate humans.",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870-500x500.jpg",
       "fetchedAt": "2026-08-06T11:31:52.586Z"
+    },
+    {
+      "id": "829dacf816f07309",
+      "title": "AI isn\u0019t enough to protect social media communities from AI",
+      "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+      "source": "Ars Technica AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T11:00:44.000Z",
+      "summary": "Why humans need to moderate humans.",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870-500x500.jpg",
+      "fetchedAt": "2026-08-13T00:58:48.922Z"
     },
     {
       "id": "b0a557361535c803",
@@ -556,13 +1240,13 @@
     },
     {
       "id": "4b95d3e9fe059c8d",
-      "title": "Rogue OpenAI models behind 'unprecedented cybersecurity incident' teamed up to break out of their testing environment — multiple agents left each other messages for months, communicating undetected - Tom's Hardware",
+      "title": "Rogue OpenAI models behind 'unprecedented cybersecurity incident' teamed up to break out of their testing environment \u0014 multiple agents left each other messages for months, communicating undetected - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWEhoUWo1aHo3RnQ2aDg0a1EyRkZsM29kSkFUdmpHeUNra2RmcDRYZFNXalA3N0RUbkJJMEFFa1NlQW9WYm5fRXZ6UGZaX3F1UnlBcFRjS3RycXRyMWh5THM4WlpJRmtOeHh6UFJWMDlqdi1XUW96SDd4WE5IMVNvYVZBTE8tQTlXb1B0NUlUV1dyaHlrTnhQZEFfOFU1UlpOZWh0ejFXN1NMM3k0VWNUTEUzR29TY1ZnWkVObEwtdW44NXFsNVZQN09nT3d2U3gxYlZQVXNYMUJ1eVhkSXBTZlg3WlpKLUxfbUsyajh4OExzN3d1M1hTQVNjVExHWUs0N1pvNUJLMExtdnJxYkNYaXNvd2hCQmVzMW9KU0EzYXFsNjNlQWwxSERVWXNkdGw1RGdGdG9FWk1jekVzX09yVVdtanNDSThDb0xSTG5Hanh4RkEzdHRvbXM4NkJFS3RDMkJ0VmZaR3MyMWtqOGI4cVUyZXhsQQ?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T10:19:25.000Z",
-      "summary": "Rogue OpenAI models behind 'unprecedented cybersecurity incident' teamed up to break out of their testing environment — multiple agents left each other messages for months, communicating undetected Tom's Hardware",
+      "summary": "Rogue OpenAI models behind 'unprecedented cybersecurity incident' teamed up to break out of their testing environment \u0014 multiple agents left each other messages for months, communicating undetected Tom's Hardware",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:28.322Z"
     },
@@ -604,13 +1288,13 @@
     },
     {
       "id": "9950118022120188",
-      "title": "Algorithms aren’t enough: Why factories need an AI reasoning layer - cio.com",
+      "title": "Algorithms aren\u0019t enough: Why factories need an AI reasoning layer - cio.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdG5UR2tiSlpKQ1VWaUZnY3dCVW53QzNxVURXOWxzUjJTSUdDeWtYdHY5TXdIVTF0SS1CWkF2NXBoektqZk1pSjlKR1g4RlB4ei1vNWkzOXdjc1VQR2UxcHRMNzF4N3hZRE1WeW56cGJaSW9oZWJRd1BrUzUzZ1NLZnJyWEJOTk92ZS1BUzRqS21VaFYtOE5ETVZrNVFDcG50enRVSDVON2U?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T10:00:00.000Z",
-      "summary": "Algorithms aren’t enough: Why factories need an AI reasoning layer cio.com",
+      "summary": "Algorithms aren\u0019t enough: Why factories need an AI reasoning layer cio.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.376Z"
     },
@@ -627,14 +1311,26 @@
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
     {
+      "id": "c9255bfc13454c0b",
+      "title": "Improving GPT\u00115.6 Sol in ChatGPT\u0014and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T10:00:00.000Z",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
+    },
+    {
       "id": "a9214f2e3ced4950",
-      "title": "Future AI Research: Leonardo’s contribution to the project - leonardo.com",
+      "title": "Future AI Research: Leonardo\u0019s contribution to the project - leonardo.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeElaSWVzejZEbVdCUDM4SUdFeWFqcUc1SVkzRTdoalVJaUhGanU5MFktR1JrdzhzRGFiQlpPelZoWEJjenhGWHdUS2dvMmZfRDlmbm1ZVjFHcWdDdFI1bEk1UWdHckFJOUZWYXNuc0huWkVGcldzUUZodVFsZlRNRjlpZENYZFRmVkZNaGFfTnB5R1UwbW1Eb3gwbUVCOG9K?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T09:58:17.000Z",
-      "summary": "Future AI Research: Leonardo’s contribution to the project leonardo.com",
+      "summary": "Future AI Research: Leonardo\u0019s contribution to the project leonardo.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -664,7 +1360,7 @@
     },
     {
       "id": "03d9c47a19a07cba",
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "title": "OpenAI says Apple\u0019s trade secrets lawsuit is \u0018rotten to its core\u0019",
       "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
       "source": "The Verge AI",
       "sourceType": "media",
@@ -712,25 +1408,25 @@
     },
     {
       "id": "95f0a59c61a20933",
-      "title": "A User’s Guide to the Universe of Rogue AI Bots - WSJ",
+      "title": "A User\u0019s Guide to the Universe of Rogue AI Bots - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlNBbmFFdVRBcXdVcmpOd1dHWDhrcjdVS3JJXzNPUHFMNTJfb0J2MHFIVktiSFNyLVZTOS1lWEt0VDVGVjlzQzE2R3FKaFp5VUFjWl81VE9vUUdMZzJiZURneS1JMnFDbWNIZTVKRVhGcWNFQzNoMDhqR1N0TzdsTS1nS1RhOElNUkJF?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T09:30:00.000Z",
-      "summary": "A User’s Guide to the Universe of Rogue AI Bots WSJ",
+      "summary": "A User\u0019s Guide to the Universe of Rogue AI Bots WSJ",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
     {
       "id": "76346ada2af6cc89",
-      "title": "India’s IT sector is surviving artificial intelligence - The Economist",
+      "title": "India\u0019s IT sector is surviving artificial intelligence - The Economist",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T09:22:08.000Z",
-      "summary": "India’s IT sector is surviving artificial intelligence The Economist",
+      "summary": "India\u0019s IT sector is surviving artificial intelligence The Economist",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -904,13 +1600,13 @@
     },
     {
       "id": "86f7af600e2b2262",
-      "title": "AI Connects B2B Firms’ 3 Biggest Challenges: Goods, Contracts and Cash - PYMNTS.com",
+      "title": "AI Connects B2B Firms\u0019 3 Biggest Challenges: Goods, Contracts and Cash - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU43SElFMXZaN2RDWmtHMXN4SVJuaW4zVGxRMzRFV3lTVjh5ZmhUbDltVWtKMmdRdjY0Um5Dd1JocWZQUktfSUpfa0tRQlMzUDVJRS1kbEExbzZjekhPSWQ0Y0dyTjlRQlVKSjAwaWM3WDAzZWNPYnBfblpRRUdwc3g2WEt6TGVjbFRuNWE3M2EwZW5abmlyTmpPTW1RbDhQUTBDNlBOejluQXRBblNnMHVrX0kxTkNYQ0JIV1FpLUFtblU?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T08:05:00.000Z",
-      "summary": "AI Connects B2B Firms’ 3 Biggest Challenges: Goods, Contracts and Cash PYMNTS.com",
+      "summary": "AI Connects B2B Firms\u0019 3 Biggest Challenges: Goods, Contracts and Cash PYMNTS.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -1154,13 +1850,13 @@
     },
     {
       "id": "e64c39c2a23b7c85",
-      "title": "Google is expanding its AI empire — and losing the people who built it - CNBC",
+      "title": "Google is expanding its AI empire \u0014 and losing the people who built it - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWYzT056UVhPQURYS2lfZzFSa2QxUUVCTHQ3MHB1aUM5VmhnVEl0c25NYWI0ZVFXcjNkeTk5Ty1FUkc1QnJkQ1NkWkRhSHVxM2xkdEtMUGl6QWdOUGQ3VEl3eG9mYnE1eWZVd1V3TG1VUGswWlhWRGRSOEFIZ09jWVNsWTE2YlhLVVF6bWR5cDBIU0w2djA4dDJSeTF6bWh6dU1QWEhvYnLSAa4BQVVfeXFMUHh5V1RXLUl0OFdUdkNoOE1MLVJwNGF5VVRBQi1yYy1PMzAzWUtxTk9MQTh0T2VOWm4ySWhzdHo1YTNmVllQWWpwVjAyc0swRGdBdlNDNEdYRU9wVUJJaUVtNTVONXlUQlBCRERFV0RMbmh2UjBWaDdlUFJsaXpILVE4WFVkVVNxRFRkMnpHM3VHNXVnTVBYTXd5cGtJWGlYZWh5X1NfMklwZGxRWnlB?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T06:06:18.000Z",
-      "summary": "Google is expanding its AI empire — and losing the people who built it CNBC",
+      "summary": "Google is expanding its AI empire \u0014 and losing the people who built it CNBC",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -1175,6 +1871,18 @@
       "summary": "Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes infoq.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
+    },
+    {
+      "id": "346e397c776081ed",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T06:00:00.000Z",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "6d83d7fb3ba5d6d5",
@@ -1214,13 +1922,13 @@
     },
     {
       "id": "37528a6a98169cd9",
-      "title": "'Order A Coffee For Me'—Visa, Mastercard Suddenly Race To Let AI Pay - Forbes",
+      "title": "'Order A Coffee For Me'\u0014Visa, Mastercard Suddenly Race To Let AI Pay - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUW9CRHpIdHMyUFFSQW9VQ3NGaDh2cmI2MjAxSGZYc2tTdXZvY0Rxb1N3Q3l1eExYY3pFMXFoWWx0c3NpSXV4Z0huN2t1WWhkYkdrYTE2OEtzRENLT3dDRjUzRjZBcU9YRWppc2FMM0xlU2FQOHVrXzlZSmV0YWZMNDYxRUxSWVpJTVNPdkFvem14N2g2NW9FcEV2YXFsb1BCT3k2NG15WGJiQWhsM2lBZ3ZyN2JrRkFQZ2c?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T05:36:00.000Z",
-      "summary": "'Order A Coffee For Me'—Visa, Mastercard Suddenly Race To Let AI Pay Forbes",
+      "summary": "'Order A Coffee For Me'\u0014Visa, Mastercard Suddenly Race To Let AI Pay Forbes",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
@@ -1332,13 +2040,13 @@
     },
     {
       "id": "ef8b898ae175d7dc",
-      "title": "We’ve Been Here Before-But This Time it Feels Different: AI - Meridian Magazine",
+      "title": "We\u0019ve Been Here Before-But This Time it Feels Different: AI - Meridian Magazine",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFd6SWVRUERIMGlkaThTWkRYWHpDRndTaE9hbHVPcnJaN0ZLcF9hR1dQTDRGa1JXVERjSlQ2eGRQUnBfRC1wVzRjSGI5UFY4anUxSm5YYm9fV0RxNE5oMU0yZERrY0QzaWJiUkxfT3o3WURLaGdFajU5VWtlSzRJNDFvb2Zzb0VwNk1mZWp3?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T03:30:39.000Z",
-      "summary": "We’ve Been Here Before-But This Time it Feels Different: AI Meridian Magazine",
+      "summary": "We\u0019ve Been Here Before-But This Time it Feels Different: AI Meridian Magazine",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -1523,7 +2231,7 @@
     },
     {
       "id": "3648e9ab2a2adeb5",
-      "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+      "title": "Elon Musk\u0019s attempt at an AI Wikipedia hasn\u0019t been updated in months",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
       "source": "The Verge AI",
       "sourceType": "media",
@@ -1559,27 +2267,39 @@
     },
     {
       "id": "2d681f3c8e6b7bc7",
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "title": "OpenAI Didn\u0019t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
       "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
       "source": "Wired AI",
       "sourceType": "media",
       "category": "agent",
       "publishedAt": "2026-08-06T00:15:04.000Z",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies\u0014and did it all right under the company\u0019s nose.",
       "thumbnail": "https://media.wired.com/photos/6a73a2815ac7830744b43e7a/master/pass/080526-openai-agent-hacking.jpg",
       "fetchedAt": "2026-08-06T11:31:49.848Z"
     },
     {
       "id": "f617885ce6c311d4",
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - wired.com",
+      "title": "OpenAI Didn\u0019t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - wired.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-06T00:15:00.000Z",
-      "summary": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree wired.com AI agents fake identities, target real people in new security incident CNN How worried should we be about AI rogue agents? The Week Meta becomes latest firm to say its AI hacked another company BBC AI agen",
+      "summary": "OpenAI Didn\u0019t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree wired.com AI agents fake identities, target real people in new security incident CNN How worried should we be about AI rogue agents? The Week Meta becomes latest firm to say its AI hacked another company BBC AI agen",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T13:52:17.363Z"
+    },
+    {
+      "id": "c5105eeb06692015",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source": "OpenAI Blog",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "ee82f35bcb22778c",
@@ -1619,13 +2339,13 @@
     },
     {
       "id": "c2d5e65ff12aa226",
-      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "title": "OpenAI\u0019s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
       "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
       "source": "Wired AI",
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-05T23:30:00.000Z",
-      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers\u0014and managed to get OpenAI\u0019s Atlas to make an unauthorized Amazon purchase.",
       "thumbnail": "https://media.wired.com/photos/6a7212abe42d27e4fc6b545a/master/pass/Security_OpenAIBrowserCouldBeHijacked_v1.gif",
       "fetchedAt": "2026-08-06T11:31:49.848Z"
     },
@@ -1703,13 +2423,13 @@
     },
     {
       "id": "f0faef193d228ee5",
-      "title": "Big shake-up in Google’s AI team as DeepMind chief executive steps down - The Guardian",
+      "title": "Big shake-up in Google\u0019s AI team as DeepMind chief executive steps down - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmZiMGs5QTRuZEtKWWZkNUVCUkc1ODY5aXhxUjd0cThoLXNyNnh2dV9NRjBkU0hlM0c5WW1PdGUwYkFZanluU2puUnZyblJQemF6bWxrUC1DZWJ6UDRHZEwxVWthd1JHMlJOQXF3NE1sMVVNa3dFNEltTlM1Tjg1eEFiN0RIb3pVYVhZUmtWa1dSX0JSclNVR2xWUUNKRUtBZG5xR25mUXhDY2JJZWxhLVkzc1FYTFYta1pWRWtB?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T22:38:00.000Z",
-      "summary": "Big shake-up in Google’s AI team as DeepMind chief executive steps down The Guardian",
+      "summary": "Big shake-up in Google\u0019s AI team as DeepMind chief executive steps down The Guardian",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -1727,13 +2447,13 @@
     },
     {
       "id": "2df0955d3c5c2a78",
-      "title": "Figma’s stock falls as the company’s AI push requires steep investments - MarketWatch",
+      "title": "Figma\u0019s stock falls as the company\u0019s AI push requires steep investments - MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2hoaDhlaXhMckpWeTU4TlkxNHRMTTVnMm4xa3Q0YzVsM3JmeVRfWXJZWDZlakxJYWFMN3dKRmUySjVfeVRzY0p0UHE4ajJZOUFqNXlLSE9BSE9SSlhmYWNRRGJoc2FsMVpHNThvTlBhYUxjX2hBR1RialNqTkI1Y3MwM1U3SnhvTTBIdU1CdzVYakdpSi1SeA?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T22:12:00.000Z",
-      "summary": "Figma’s stock falls as the company’s AI push requires steep investments MarketWatch",
+      "summary": "Figma\u0019s stock falls as the company\u0019s AI push requires steep investments MarketWatch",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
@@ -1823,25 +2543,25 @@
     },
     {
       "id": "76b89cb9e785eeec",
-      "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform - Decrypt",
+      "title": "Cloudflare OS: Here\u0019s What\u0019s Inside the Open-Source AI Agent Platform - Decrypt",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGFFSTNsY2FYQlRxUFEzVW1zdnJMVFB1cEJ5SHVELVZ3a2lGX2Q2RWNLVWZjU1ROMDhMWERIU1l2STQ3Rnl1MjhIdzFSa25hWURyU3ZPamNmUWNnV01oYThENE5MXzNSSG5lZmlxOVpidHBHUlkwY3pFNVV5VnNKblV30gGKAUFVX3lxTE9xT1ZMMGZTNW5hODhqSURleHhJLTdEVVNNQVpGZlpOSUJ6V3ZJQ3RFaTZqVTJRUEpqZlFibVpTblZpTEptRmpwWTdhZ05MZDJRbmpFQUU4OXJwNzFVN3kxT2lBVWJIUnRhRXBLTi1tMU1ZeERYRXo5ZU1PdTB3SnlRLXlvMW5xdmduUQ?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-05T20:46:03.000Z",
-      "summary": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform Decrypt",
+      "summary": "Cloudflare OS: Here\u0019s What\u0019s Inside the Open-Source AI Agent Platform Decrypt",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.304Z"
     },
     {
       "id": "60ba9933a5ed6aa8",
-      "title": "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era - Bloomberg.com",
+      "title": "Armed With $10 Billion, Sequoia\u0019s Leaders Plan Its New Era - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekVpOV9WWE1ka1pXZUdwMFJ5dnZ3ZjNHcWlFdmo5b3VhckxZamZrQWkxODNGU0c5VnliZGQ5MjVzV2VnRU9HVmdXOTB2MW5uVFp6Yy1YVDdHa2JaM1NoNkt1TWZlakN1UUdsT0o0WnAzSlUwQlEzWV9jSlVZVjlQTXpyQVpiY1lCMUhGZWdSMk5CSW15Nlc3Wmc2Z0NjYjdaZWc?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T20:35:41.000Z",
-      "summary": "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era Bloomberg.com",
+      "summary": "Armed With $10 Billion, Sequoia\u0019s Leaders Plan Its New Era Bloomberg.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -1871,7 +2591,7 @@
     },
     {
       "id": "8a0c97f5f7d1b58a",
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "title": "Klaviyo acquires Elias Torres\u0019 Agency in full-circle reunion for tech founders",
       "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
       "source": "TechCrunch AI",
       "sourceType": "media",
@@ -1883,19 +2603,19 @@
     },
     {
       "id": "0e95690b4bb4d661",
-      "title": "“Our AI Agent Rewrote Our App Without Telling Us” The Agents #12 is Here! - saastr.com",
+      "title": "\u001cOur AI Agent Rewrote Our App Without Telling Us\u001d The Agents #12 is Here! - saastr.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmxNTjJJWEZleXVwVGhxTmJqU3h2WDRtdVFYZUloSDFWc1dGMGhUbm0tY0t2WjgwWmxBZmVXTmRyaXFhc1VKTjFGXzA1YkZ6SDEzTzZhME8wbDVfN19nVjA3QVBHbTFta1UyaTI5UlJzdmI1UTMwY0M3d1hEQW9vOUFkREhmdzl5dGhFTHlyUGdoUGl4V1UyMQ?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-05T20:04:58.000Z",
-      "summary": "“Our AI Agent Rewrote Our App Without Telling Us” The Agents #12 is Here! saastr.com",
+      "summary": "\u001cOur AI Agent Rewrote Our App Without Telling Us\u001d The Agents #12 is Here! saastr.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
     {
       "id": "484cf26f67e970a8",
-      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+      "title": "Reddit signals ominous upcoming \"changes\u001d for old.reddit.com",
       "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
       "source": "Ars Technica AI",
       "sourceType": "media",
@@ -1904,6 +2624,18 @@
       "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-500x500-1785958057.jpg",
       "fetchedAt": "2026-08-06T11:31:52.586Z"
+    },
+    {
+      "id": "36b4fc3cb4884cd3",
+      "title": "Reddit signals ominous upcoming \"changes\u001d for old.reddit.com",
+      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "source": "Ars Technica AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-05T20:01:32.000Z",
+      "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-500x500-1785958057.jpg",
+      "fetchedAt": "2026-08-13T00:58:48.922Z"
     },
     {
       "id": "sample-0006",
@@ -1918,7 +2650,7 @@
     },
     {
       "id": "1e5549ad47888f85",
-      "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+      "title": "Hank Green found the AI problem that YouTube labels can\u0019t catch",
       "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
       "source": "Ars Technica AI",
       "sourceType": "media",
@@ -1927,6 +2659,18 @@
       "summary": "\"Slop\" isn't the only problem.",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-500x500-1785956226.jpeg",
       "fetchedAt": "2026-08-06T11:31:52.586Z"
+    },
+    {
+      "id": "d67064b5b0aeb3f9",
+      "title": "Hank Green found the AI problem that YouTube labels can\u0019t catch",
+      "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+      "source": "Ars Technica AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-05T19:51:40.000Z",
+      "summary": "\"Slop\" isn't the only problem.",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-500x500-1785956226.jpeg",
+      "fetchedAt": "2026-08-13T00:58:48.922Z"
     },
     {
       "id": "04d974a8ab56b646",
@@ -1948,7 +2692,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-05T19:42:12.000Z",
-      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
+      "summary": "Security researcher James Kettle tried to push the limit of AI\u0019s hacking abilities\u0014and discovered how effective it can be when combined with human expertise.",
       "thumbnail": "https://media.wired.com/photos/6a7210e3bbedba30ca118c54/master/pass/RoboHack.gif",
       "fetchedAt": "2026-08-06T11:31:49.848Z"
     },
@@ -2086,13 +2830,13 @@
     },
     {
       "id": "216e437934951d00",
-      "title": "Team’s AI agent to speed Alzheimer’s treatment - Vanderbilt Health News",
+      "title": "Team\u0019s AI agent to speed Alzheimer\u0019s treatment - Vanderbilt Health News",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRTJ3ekI3YWVLbklqWUFPblZPS1IzTDN1a2lVdmFfaFNaVUEySDdvbDRPdEJjcEZwZ1loSGJRbVFtODBFVjdkQVJLM3hYNWd0UFA4cVZCZUpTaEUyT2hzWEhZMFQ2Tkt0MjF2STB5UUNnQ1Fwc3JsaGpMS01lTkc1Tmh2OHU?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-05T18:21:17.000Z",
-      "summary": "Team’s AI agent to speed Alzheimer’s treatment Vanderbilt Health News",
+      "summary": "Team\u0019s AI agent to speed Alzheimer\u0019s treatment Vanderbilt Health News",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
@@ -2188,7 +2932,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-05T16:26:36.000Z",
-      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta\u0019s ad library data. Some ran as recently as this week.",
       "thumbnail": "https://media.wired.com/photos/6a6d058753afe1590265744d/master/pass/073126-meta-nudify-ads-children.jpg",
       "fetchedAt": "2026-08-06T11:31:49.848Z"
     },
@@ -2242,7 +2986,7 @@
     },
     {
       "id": "b5b276b322939c58",
-      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+      "title": "Google\u0019s Top AI Brains Are Leaving to Launch Discovery Loop",
       "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
       "source": "Wired AI",
       "sourceType": "media",
@@ -2272,7 +3016,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-05T15:56:14.000Z",
-      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "summary": "Shopify says AI isn\u0019t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:45.471Z"
     },
@@ -2326,13 +3070,13 @@
     },
     {
       "id": "8a19f9112ac55525",
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "title": "TechCrunch Disrupt 2026\u0019s Real World AI Stage features robots, automated factories, and extinct animals",
       "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
       "source": "TechCrunch AI",
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-05T15:05:00.000Z",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "summary": "On our new Real World AI stage, we\u0019ll be focusing on the intersection between the digital and physical, and all the ways we\u0019ll continue to see a blending of the two.",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:45.471Z"
     },
@@ -2463,7 +3207,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-05T11:43:00.000Z",
-      "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
+      "summary": "Some creators fear the EU AI Act\u0019s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
       "thumbnail": "https://media.wired.com/photos/6a728e78e934dc2a12186c94/master/pass/Algorithm-Is-Turning-on-AI-Influencers-Business.gif",
       "fetchedAt": "2026-08-06T11:31:49.848Z"
     },
@@ -2505,7 +3249,7 @@
     },
     {
       "id": "c5a44267c54985bb",
-      "title": "Trump’s AI testing plan is limited and vague",
+      "title": "Trump\u0019s AI testing plan is limited and vague",
       "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
       "source": "The Verge AI",
       "sourceType": "media",
@@ -2541,13 +3285,13 @@
     },
     {
       "id": "21ef4dac2d483b4d",
-      "title": "Salesforce previews plans to deliver newly authorized ‘AI agents’ across DOD - DefenseScoop",
+      "title": "Salesforce previews plans to deliver newly authorized \u0018AI agents\u0019 across DOD - DefenseScoop",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3NHd19KYURPWGpxRFh4MVktUS1uNXNlM1B0YXVtUk1IaUhYSzZpeHphYUZGRjlDUHNqTTlOaV9lWGRlYUxTa25Zdk41WWZpa20wVEJtWUZLOHp0cUx1d2dOYUQ5T05UZTNpbTV3RGt1aG1qNmJUNC1lZ1k5U2RZblAzTkEyYVdEeFRrSHYtNF8xcmsySnp5bmN2VHlVOXpU?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-05T09:02:13.000Z",
-      "summary": "Salesforce previews plans to deliver newly authorized ‘AI agents’ across DOD DefenseScoop",
+      "summary": "Salesforce previews plans to deliver newly authorized \u0018AI agents\u0019 across DOD DefenseScoop",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:35:13.124Z"
     },
@@ -2726,7 +3470,7 @@
       "sourceType": "media",
       "category": "agent",
       "publishedAt": "2026-08-04T23:11:31.000Z",
-      "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+      "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software\u0014and leaving instructions for future bad behavior.",
       "thumbnail": "https://media.wired.com/photos/6a726eae679c5abd64d0d058/master/pass/Chat-GPT-Agents-Hacking-More-Business-2275331611.jpg",
       "fetchedAt": "2026-08-06T11:31:49.848Z"
     },
@@ -2786,7 +3530,7 @@
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-04T21:19:20.000Z",
-      "summary": "Incident Report: unsanctioned agent behaviour during cyber testing The AI Security Institute (AISI) Meta latest to tell world its AI agent wandered out of test pen The Register OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree WIRED",
+      "summary": "Incident Report: unsanctioned agent behaviour during cyber testing The AI Security Institute (AISI) Meta latest to tell world its AI agent wandered out of test pen The Register OpenAI Didn\u0019t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree WIRED",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
@@ -2828,7 +3572,7 @@
     },
     {
       "id": "6b4ae5e4eb0b6dd2",
-      "title": "AMD’s data center business is booming while gaming takes a backseat",
+      "title": "AMD\u0019s data center business is booming while gaming takes a backseat",
       "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
       "source": "The Verge AI",
       "sourceType": "media",
@@ -2900,7 +3644,7 @@
     },
     {
       "id": "3aef07d36ee4f377",
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "title": "Nvidia doesn\u0019t mess around: A week after open AI industry group formed, it\u0019s already showing progress",
       "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
       "source": "TechCrunch AI",
       "sourceType": "media",
@@ -2930,7 +3674,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-04T15:50:06.000Z",
-      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring ",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists\u0019 music while ensuring ",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:45.471Z"
     },
@@ -2942,7 +3686,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-04T15:42:35.000Z",
-      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they\u0019ve been drawn to Texas\u0019 loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:45.471Z"
     },
@@ -3031,13 +3775,13 @@
     },
     {
       "id": "9046fcdb320e16ee",
-      "title": "America’s Cosmic Bet on AI - Foreign Policy",
+      "title": "America\u0019s Cosmic Bet on AI - Foreign Policy",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VkV3FuN1BRS3lUbWE4Nk1wVnNSUVZKcEJUWVhzS25KZTBLaEpHeTJCRVJlczFNNF9IekZTQlZxam40R2hBMFB0dkU1QUhEWUxxU2tkMGI1WmR5N1ZwT2pnb0FkYW5jOHNJc3d4RUVzSFRuSHRXdmpzdHB2bUlVak40azJNREpDVG9HcnZuYk8xRzJLNEF2MU1hbEcxV0daWVVveVFXSlJ6RWI2SnZXTHVuUnBSNHM3SmlmcnZRNkpEWGw2?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-04T13:56:46.000Z",
-      "summary": "America’s Cosmic Bet on AI Foreign Policy",
+      "summary": "America\u0019s Cosmic Bet on AI Foreign Policy",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -3085,7 +3829,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-04T13:00:00.000Z",
-      "summary": "Here are Google’s latest AI updates from July 2026",
+      "summary": "Here are Google\u0019s latest AI updates from July 2026",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
       "fetchedAt": "2026-08-06T11:34:42.705Z"
     },
@@ -3109,7 +3853,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-04T00:00:00.000Z",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K\u001312 teachers, college educators, and students learn, teach, research, and build.",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:53.929Z"
     },
@@ -3121,7 +3865,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-03T22:00:00.000Z",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "summary": "OpenAI addresses Apple\u0019s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:53.929Z"
     },
@@ -3151,15 +3895,27 @@
     },
     {
       "id": "4e041f39fc41a7cd",
-      "title": "Trump’s AI protectionism has come for robotics",
+      "title": "Trump\u0019s AI protectionism has come for robotics",
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "source": "MIT Tech Review AI",
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-08-03T18:43:30.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s ",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It\u0019s ",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:47.855Z"
+    },
+    {
+      "id": "bc6d3f488187d4a1",
+      "title": "Trump\u0019s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Tech Review AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-03T18:43:30.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It\u0019s ",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:45.168Z"
     },
     {
       "id": "f5e098ff09a78314",
@@ -3193,19 +3949,19 @@
       "sourceType": "media",
       "category": "agent",
       "publishedAt": "2026-08-03T15:00:00.000Z",
-      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "summary": "Kaggle\u0019s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp",
       "fetchedAt": "2026-08-06T11:34:42.705Z"
     },
     {
       "id": "0bd7a70ec4ef54a8",
-      "title": "Master’s degree in artificial intelligence gets underway - WSU Insider",
+      "title": "Master\u0019s degree in artificial intelligence gets underway - WSU Insider",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTI5ZFQ3S3l5MXJKV1duUExEajRUb19CZXVwVnV0T1FvRURLNkJ6OVU4YkVqLThacnpEZU83QmNoXzJ5WUJUOEk5TjFsMENld2k2d2xjRm05VzBwbDE2RFh4MWhfTW9VQWotY19zUV9NMnFSNWphNTJqMEFXd2NyTzgxZVM0Zjg5b2pJVWpjdklHWW83STJCRQ?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-03T13:36:41.000Z",
-      "summary": "Master’s degree in artificial intelligence gets underway WSU Insider",
+      "summary": "Master\u0019s degree in artificial intelligence gets underway WSU Insider",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -3235,27 +3991,39 @@
     },
     {
       "id": "351dd9fccaed6d2b",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "title": "Here\u0019s why AI agents lie and cheat to reach their goals",
       "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
       "source": "MIT Tech Review AI",
       "sourceType": "media",
       "category": "agent",
       "publishedAt": "2026-08-03T08:30:05.000Z",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u0019s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren\u0019t trying to make money or commit sabotage",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:47.855Z"
     },
     {
       "id": "754e0848253fcac1",
-      "title": "Here’s why AI agents lie and cheat to reach their goals - technologyreview.com",
+      "title": "Here\u0019s why AI agents lie and cheat to reach their goals - technologyreview.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTZZX3FIYTZXNlJmLV8yLUpKZ3JuSGZPTFlpRlF4VzZXOWYxV2FZWV9DekJOZDY1RDgySGRfbEJLdjZLdzdiSWM0M1htZUZLY1ZneHNNTmVSZ21mUkVZZlpuR3Rya3hnS2MyLVdJUC1Gd19qb21VbThRMGE0Yld5bFBuY0JydW1lN3EtVHpKT0Z1TXVKdUVrY0JpeTgycXZkUS1MdkEyUjIzLWvSAbABQVVfeXFMTml6dlUtWGVzYVBFemxJRF81X0VqMVdhbEdDc29mY0RNWjJVWlRJd1o2TUxHbGdWMjQ1dnJ5MTh1LWM5MHZNREZoTTdhbmlSbDBoTTJQRlVDSVFKUHhfTFg0UXRCWHkybEMtQk00NEYwWXFjdzg1VUxUNUZMcngtTllpaWxpZFBLdWJOTVpBajNDeXd0WFhRdjUzcE5ORmktMVRKa25QcF9LZUxhZzJKVlk?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-03T08:30:05.000Z",
-      "summary": "Here’s why AI agents lie and cheat to reach their goals technologyreview.com",
+      "summary": "Here\u0019s why AI agents lie and cheat to reach their goals technologyreview.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
+    },
+    {
+      "id": "910bc5c92f86fd4a",
+      "title": "Here\u0019s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Tech Review AI",
+      "sourceType": "media",
+      "category": "agent",
+      "publishedAt": "2026-08-03T08:30:05.000Z",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u0019s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren\u0019t trying to make money or commit sabotage",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:45.168Z"
     },
     {
       "id": "f505d2fa72261e39",
@@ -3361,7 +4129,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-31T19:04:56.000Z",
-      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
+      "summary": "LemonLime\u0019s CEO got \u001ccarried away\u001d with tattoo gimmick.",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-500x500.jpg",
       "fetchedAt": "2026-08-06T11:31:52.586Z"
     },
@@ -3457,7 +4225,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-30T10:00:00.000Z",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "summary": "Explore lower GPT\u00115.6 pricing for Luna and Terra\u0014and how OpenAI\u0019s more efficient models help enterprises deploy AI workflows at scale.",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:53.929Z"
     },
@@ -3469,7 +4237,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-30T00:00:00.000Z",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "summary": "avatarin uses OpenAI\u0019s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:53.929Z"
     },
@@ -3517,7 +4285,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-29T08:42:57.000Z",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that\u0019s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:47.855Z"
     },
@@ -3565,7 +4333,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-28T16:00:00.000Z",
-      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "summary": "We\u0019re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
       "fetchedAt": "2026-08-06T11:34:42.705Z"
     },
@@ -3577,7 +4345,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-28T13:00:00.000Z",
-      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf&",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
       "fetchedAt": "2026-08-06T11:34:42.705Z"
     },
@@ -3595,15 +4363,27 @@
     },
     {
       "id": "6602c91d0c79fcb2",
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "title": "Samsung\u0019s chip workers are jumping ship to rival SK Hynix",
       "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
       "source": "MIT Tech Review AI",
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-28T09:18:57.000Z",
-      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
+      "summary": "Lee, an engineer at Samsung\u0019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he\u0019s been coming straight home to work on his job application for the chipmaker\u0019s South Korean rival SK Hynix, sharing tips w",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:47.855Z"
+    },
+    {
+      "id": "03b99d34e8ee176e",
+      "title": "Samsung\u0019s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Tech Review AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-07-28T09:18:57.000Z",
+      "summary": "Lee, an engineer at Samsung\u0019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he\u0019s been coming straight home to work on his job application for the chipmaker\u0019s South Korean rival SK Hynix, sharing tips w",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:45.169Z"
     },
     {
       "id": "4c4130d4e42d07c9",
@@ -3619,15 +4399,27 @@
     },
     {
       "id": "6898cb5f8d4ed001",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we\u0019ve been here before.",
       "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
       "source": "MIT Tech Review AI",
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-27T18:00:00.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI\u0019s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:47.855Z"
+    },
+    {
+      "id": "2458f15b854d5292",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we\u0019ve been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Tech Review AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI\u0019s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-13T00:58:45.169Z"
     },
     {
       "id": "5a4e85b8aa775473",
@@ -3649,7 +4441,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-27T11:40:16.000Z",
-      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years\u0014a phenomenon known as Eroom\u0019s Law. Today, bringing a new drug",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:31:47.855Z"
     },
@@ -3697,7 +4489,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-24T21:25:15.000Z",
-      "summary": "\"Here’s a more natural, flowing version of that section...\"",
+      "summary": "\"Here\u0019s a more natural, flowing version of that section...\"",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-500x500-1784927028.jpg",
       "fetchedAt": "2026-08-06T11:31:52.586Z"
     },
@@ -3721,7 +4513,7 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-24T13:49:38.000Z",
-      "summary": "Rule would allow states to decide how much—if any—public input there can be.",
+      "summary": "Rule would allow states to decide how much\u0014if any\u0014public input there can be.",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2113285214-500x500.jpg",
       "fetchedAt": "2026-08-06T11:31:52.586Z"
     },
@@ -3759,19 +4551,7 @@
       "publishedAt": "2026-07-23T00:00:00.000Z",
       "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
-    },
-    {
-      "id": "938d77bb79fc8f55",
-      "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
-      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-07-22T16:36:53.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/wzY2fV4Mp3U/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T11:32:58.154Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "3746f774b8b707e6",
@@ -3783,7 +4563,7 @@
       "publishedAt": "2026-07-22T13:00:00.000Z",
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "6cdcacf48e8235d5",
@@ -3795,7 +4575,7 @@
       "publishedAt": "2026-07-22T13:00:00.000Z",
       "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "16b048c59a076fdb",
@@ -3807,7 +4587,7 @@
       "publishedAt": "2026-07-22T13:00:00.000Z",
       "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T11:34:42.705Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
       "id": "f4de6063570729ea",
@@ -3819,7 +4599,7 @@
       "publishedAt": "2026-07-22T12:00:00.000Z",
       "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "b87e24a3fc5f262c",
@@ -3831,7 +4611,7 @@
       "publishedAt": "2026-07-22T05:30:00.000Z",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "a612e58827723188",
@@ -3843,7 +4623,7 @@
       "publishedAt": "2026-07-22T00:00:00.000Z",
       "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "b08aa263a216cc7f",
@@ -3855,7 +4635,7 @@
       "publishedAt": "2026-07-21T17:00:00.000Z",
       "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "9e9f1a2c92cc25eb",
@@ -3867,7 +4647,7 @@
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "49146eb94e2ef192",
@@ -3879,19 +4659,7 @@
       "publishedAt": "2026-07-21T00:00:00.000Z",
       "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
-    },
-    {
-      "id": "43f8ad29337bbb30",
-      "title": "Beyond grep: The case for a context-rich AI coding harness",
-      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "source": "Ars Technica AI",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-20T11:20:10.000Z",
-      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-500x500-1784313873.jpg",
-      "fetchedAt": "2026-08-06T11:31:52.586Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "8ed0ffd3b5e375e8",
@@ -3903,7 +4671,7 @@
       "publishedAt": "2026-07-20T10:00:00.000Z",
       "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "4a4de0e9c4418ef0",
@@ -3915,7 +4683,7 @@
       "publishedAt": "2026-07-17T10:00:00.000Z",
       "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "3e949973258a800c",
@@ -3927,7 +4695,7 @@
       "publishedAt": "2026-07-16T16:00:00.000Z",
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:31:53.929Z"
+      "fetchedAt": "2026-08-13T00:58:49.563Z"
     },
     {
       "id": "a813af2601fd1fcc",
@@ -3937,9 +4705,9 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-16T16:00:00.000Z",
-      "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+      "summary": "You\u0019ll be able to securely link and interact with your go-to services directly in AI Mode.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T11:34:42.705Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
       "id": "a38f1ea84d7a5a6d",
@@ -3951,31 +4719,19 @@
       "publishedAt": "2026-07-16T16:00:00.000Z",
       "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T11:34:42.705Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
-      "id": "b39e376edb79e59b",
-      "title": "Claude Just Revealed AI's Biggest Problem",
-      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-07-16T15:39:17.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T11:32:46.027Z"
-    },
-    {
-      "id": "92a7699126839c2f",
-      "title": "How Codex became a collaborator for OpenAI’s creative team",
+      "id": "8f114ca4dfee0092",
+      "title": "How Codex became a collaborator for OpenAI\u0019s creative team",
       "url": "https://openai.com/index/codex-collaborator-creative-team",
       "source": "OpenAI Blog",
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-16T07:00:00.000Z",
-      "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "summary": "How OpenAI\u0019s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
+      "fetchedAt": "2026-08-13T00:58:49.564Z"
     },
     {
       "id": "0dbe129df13ff385",
@@ -3987,7 +4743,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
+      "fetchedAt": "2026-08-13T00:58:49.564Z"
     },
     {
       "id": "543321f63dd5824d",
@@ -3997,9 +4753,9 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-15T12:00:00.000Z",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "summary": "OpenAI outlines a \u001creverse federalism\u001d approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
+      "fetchedAt": "2026-08-13T00:58:49.564Z"
     },
     {
       "id": "5f5a728b7796f271",
@@ -4009,9 +4765,9 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-15T10:00:00.000Z",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "summary": "Explore GPT-Red, OpenAI\u0019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
+      "fetchedAt": "2026-08-13T00:58:49.564Z"
     },
     {
       "id": "765659eba2a79742",
@@ -4021,213 +4777,9 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-14T16:00:00.000Z",
-      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+      "summary": "Google Images is turning 25. Here\u0019s a look back at some major milestones \u0014 and new ways to explore and create visual content.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
-    },
-    {
-      "id": "f4a11a825f3f8190",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "agent",
-      "publishedAt": "2026-07-14T10:00:00.000Z",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "25b8f35f2833980e",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "38af7927622ed4b4",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "f412d36e94003386",
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "source": "Ars Technica AI",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-13T15:06:34.000Z",
-      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-500x500-1783953968.jpg",
-      "fetchedAt": "2026-08-06T13:51:48.195Z"
-    },
-    {
-      "id": "c8b704ed4c48a626",
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "source": "Ars Technica AI",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-13T11:00:51.000Z",
-      "summary": "Experts explain how they work, what they can do, and what's still unsettled.",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/cracking-open-world-model-500x500.jpg",
-      "fetchedAt": "2026-08-06T13:51:48.195Z"
-    },
-    {
-      "id": "5d48c451dd2bb6a7",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "040b887fdbc1ae0c",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "d7912f4b08a8b577",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-09T13:00:00.000Z",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "8b424f0b711104a2",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-09T10:00:00.000Z",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "d756a49cca06a43d",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-09T10:00:00.000Z",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "9147413fc603710d",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-09T10:00:00.000Z",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "415aacf5b58f367d",
-      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "source": "Ars Technica AI",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-08T21:42:44.000Z",
-      "summary": "AI cheating leads to \"a failed society,\" professor says.",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-500x500.jpg",
-      "fetchedAt": "2026-08-06T13:51:48.195Z"
-    },
-    {
-      "id": "5c1127d7db1ecef0",
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-08T13:30:00.000Z",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "8973376a13d7d51f",
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-08T13:00:00.000Z",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "96020bf7612d4100",
-      "title": "Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-08T10:00:00.000Z",
-      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "0800072bc5046143",
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "source": "Ars Technica AI",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-08T07:00:51.000Z",
-      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-500x500.jpg",
-      "fetchedAt": "2026-08-06T13:51:48.195Z"
-    },
-    {
-      "id": "8c920b29842f3b08",
-      "title": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-08T00:00:00.000Z",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
       "id": "14453ad4ecdde2a2",
@@ -4237,33 +4789,9 @@
       "sourceType": "media",
       "category": "agent",
       "publishedAt": "2026-07-07T08:54:00.000Z",
-      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "summary": "We\u0019re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
-    },
-    {
-      "id": "1b4955dc8b5a5bc0",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "044e95faea1bf925",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
       "id": "c62d4a345536991d",
@@ -4273,13 +4801,13 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-07-01T18:15:00.000Z",
-      "summary": "Here are Google’s latest AI updates from June 2026.",
+      "summary": "Here are Google\u0019s latest AI updates from June 2026.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
-      "id": "65a748ce1a2434eb",
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "id": "ec142c8b81471cf6",
+      "title": "New York City educators and industry leaders gathered at Google\u0019s offices to shape the future of AI in classrooms.",
       "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "source": "Google AI Blog",
       "sourceType": "media",
@@ -4287,35 +4815,11 @@
       "publishedAt": "2026-07-01T16:00:00.000Z",
       "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
-      "id": "cc43c1577277e052",
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "source": "Ars Technica AI",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-06-30T20:03:14.000Z",
-      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-500x500.jpg",
-      "fetchedAt": "2026-08-06T13:51:48.195Z"
-    },
-    {
-      "id": "f664756b8ca6cd39",
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-06-30T09:00:00.000Z",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
-    },
-    {
-      "id": "3ef7ccd7e1aa7e6a",
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "id": "c95108f3b2496f1d",
+      "title": "Unlocking Britain\u0019s next era of productivity: Building a nation of AI trailblazers",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "source": "Google AI Blog",
       "sourceType": "media",
@@ -4323,19 +4827,7 @@
       "publishedAt": "2026-06-30T06:00:00.000Z",
       "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
-    },
-    {
-      "id": "e12227b7a1f687bb",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "source": "OpenAI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-06-30T00:00:00.000Z",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:48.612Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
       "id": "fb88ddff31dc5f7a",
@@ -4345,9 +4837,9 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-06-29T16:00:00.000Z",
-      "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
+      "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it\u0019s been the foundation of our AI work for so long.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
       "id": "74ea7d4243774b1f",
@@ -4359,7 +4851,7 @@
       "publishedAt": "2026-06-25T16:00:00.000Z",
       "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
       "id": "9faba5f340c064f4",
@@ -4369,21 +4861,21 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-06-17T15:00:00.000Z",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "summary": "Research in \u001cNature\u001d shows our conversational AI system matches primary care physicians in complex disease management.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
-      "id": "c0539ad50c1d1ffb",
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "id": "83ce5ab4ef627e96",
+      "title": "We\u0019re strengthening our presence in Alabama through new investments and community support.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
       "source": "Google AI Blog",
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-06-15T15:00:00.000Z",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former&",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
       "id": "ae8a93e95c07e4fe",
@@ -4393,37 +4885,13 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-06-11T20:00:00.000Z",
-      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "summary": "We\u0019re helping build the state\u0019s next-generation workforce and investing in energy programs.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
+      "fetchedAt": "2026-08-13T00:58:50.080Z"
     },
     {
-      "id": "10eb49346e34c6f7",
-      "title": "The latest AI news we announced in May 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "source": "Google AI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-06-05T14:45:00.000Z",
-      "summary": "Here are Google’s latest AI updates from May 2026",
-      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
-    },
-    {
-      "id": "62e3e67a3cd76f67",
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "source": "Google AI Blog",
-      "sourceType": "media",
-      "category": "ai",
-      "publishedAt": "2026-06-03T13:00:00.000Z",
-      "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
-      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T13:51:49.197Z"
-    },
-    {
-      "id": "9ed8fde6190f22eb",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "id": "cece67e753967e3d",
+      "title": "Google just redesigned the search box for the first time in 25 years \u0014 here\u0019s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
       "sourceType": "media",
@@ -4431,7 +4899,7 @@
       "publishedAt": "2026-05-19T17:45:00.000Z",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google a",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T13:51:41.096Z"
+      "fetchedAt": "2026-08-13T00:58:34.000Z"
     },
     {
       "id": "51e9bf6966159bfb",
@@ -4443,7 +4911,7 @@
       "publishedAt": "2026-01-22T14:00:00.000Z",
       "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T13:51:41.096Z"
+      "fetchedAt": "2026-08-13T00:58:34.000Z"
     },
     {
       "id": "3f2170ebf2a7873c",
@@ -4453,9 +4921,9 @@
       "sourceType": "media",
       "category": "agent",
       "publishedAt": "2026-01-19T14:00:00.000Z",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing \u0014 ranging from $20 to $200 per month",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T13:51:41.096Z"
+      "fetchedAt": "2026-08-13T00:58:34.000Z"
     },
     {
       "id": "72b3d559d31b7e6c",
@@ -4465,9 +4933,9 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-01-16T14:01:00.000Z",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 \u0014 a fifth of his marketing budget \u0014 on a billboard in San Francisco displaying what looked like",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T13:51:41.096Z"
+      "fetchedAt": "2026-08-13T00:58:34.001Z"
     },
     {
       "id": "5b44069b02f37a50",
@@ -4479,19 +4947,19 @@
       "publishedAt": "2026-01-13T13:00:00.000Z",
       "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf ",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T13:51:41.096Z"
+      "fetchedAt": "2026-08-13T00:58:34.001Z"
     },
     {
-      "id": "fb267f6bb272ebd8",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "id": "323320d9b2619efb",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u0014 no coding required",
       "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
       "source": "VentureBeat AI",
       "sourceType": "media",
       "category": "agent",
       "publishedAt": "2026-01-12T11:30:00.000Z",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The laun",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users \u0014 and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The laun",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T13:51:41.096Z"
+      "fetchedAt": "2026-08-13T00:58:34.001Z"
     },
     {
       "id": "98c64cffe41827be",
@@ -4501,57 +4969,9 @@
       "sourceType": "media",
       "category": "ai",
       "publishedAt": "2026-01-07T20:00:00.000Z",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest B200 graphics pro",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems \u0014 trained in just four days using 48 of Nvidia's latest B200 graphics pro",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T13:51:41.096Z"
-    },
-    {
-      "id": "fd75fb051b46a39a",
-      "title": "ICML 2024 Behind the Scenes Day Three Part One",
-      "url": "https://www.youtube.com/watch?v=J5bONkFCDlY",
-      "source": "演讲 · ICML Conf",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2024-07-25T17:41:14.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/J5bONkFCDlY/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T13:53:32.773Z"
-    },
-    {
-      "id": "b3e6dfd1f5ef8137",
-      "title": "ICML 2024 Behind The Scenes Day Three Part Two",
-      "url": "https://www.youtube.com/watch?v=uLpVxEEMO8o",
-      "source": "演讲 · ICML Conf",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2024-07-25T17:38:21.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/uLpVxEEMO8o/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T13:53:32.773Z"
-    },
-    {
-      "id": "21933013ac750fb7",
-      "title": "Behind the Scenes ICML 2024 Day 1",
-      "url": "https://www.youtube.com/watch?v=81daMr11JPo",
-      "source": "演讲 · ICML Conf",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2024-07-25T01:01:41.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/81daMr11JPo/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T13:53:32.773Z"
-    },
-    {
-      "id": "e9b8d0d5592ca20d",
-      "title": "ICML 2024 behind the scenes day 2",
-      "url": "https://www.youtube.com/watch?v=tDn1QED3Ldw",
-      "source": "演讲 · ICML Conf",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2024-07-25T01:01:40.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/tDn1QED3Ldw/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T13:53:32.773Z"
+      "fetchedAt": "2026-08-13T00:58:34.001Z"
     }
   ]
 }
