@@ -1,28 +1,256 @@
 {
-  "generatedAt": "2026-08-06T12:17:06.713Z",
-  "fetchedSources": 17,
+  "generatedAt": "2026-08-06T13:51:39.338Z",
+  "fetchedSources": 11,
   "items": [
     {
+      "id": "9b0c33b9818d264f",
+      "title": "Agent security in focus for Delinea - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81RnE1YjhKUmJpNmM4VEh5T2U5ZGYtdllZbmdaLXZXd3Zhc2RfYzdRRnBZdHNjVEpfdVVNVHdNNDRyeGItNzNFTVE1VHRRUXVrX1RKbTZhOWxSc0NtVXZKd2JGT1JQWk9VZ2tGbw?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T13:39:24.000Z",
+      "summary": "Agent security in focus for Delinea SiliconANGLE",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.363Z"
+    },
+    {
+      "id": "b843fbf2c2dafc3a",
+      "title": "AI狂飙“失控” 美式监管追得上吗？ - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVEtNYW5KOVdRNXVWR1ZCU3ltQTRFa1Q1bTBKanRNdk9NNDBwbWJ4S0JEWmxjb003TTBNMTNESEJsSndjUmEzLVdqX3oyUUxGanphRk9raGg4ZTM5X3l6QmttUUhXbjZtQmtHU01wUFhNdzlCNjh4b2x0STBwV3pDd3ZTcmNodVpNVHZZZjBVNA?oc=5",
+      "source": "Google News · 人工智能",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T13:34:54.000Z",
+      "summary": "AI狂飙“失控” 美式监管追得上吗？ 新浪网",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
+      "id": "d1c3a5123db8936c",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T13:31:57.000Z",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:46:23.704Z"
+    },
+    {
+      "id": "72b2362be4d9bed7",
+      "title": "The messy politics behind Google’s big AI shakeup",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "source": "The Verge AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T13:26:42.000Z",
+      "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future s",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:46:26.498Z"
+    },
+    {
+      "id": "99f2dd9c32a2187c",
+      "title": "How to build AI agents that can handle thousands of tools - Substack",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyM1JtbnJDX2U1NHNlVDF1TFJOS3VkNk9KR1VHUVJqQ0lxTElSNFFFdVlZRWZfazFCQTYxOTR3S1ZUM1Z3dXFzRU8xOU0ycXhqZVJwM3hvZklyMFVvSVdrNFpDYW80c1V0Wk1vdU5GYVhtbjFjMWhsT0VnUkhwUQ?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "agent",
+      "publishedAt": "2026-08-06T13:23:33.000Z",
+      "summary": "How to build AI agents that can handle thousands of tools Substack",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.364Z"
+    },
+    {
+      "id": "14043850bdac56c5",
+      "title": "An Irregular testing that caused Meta, OpenAI, and Anthropic AI agents to go rogue - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcERoMjJObUc4dkJTVTFmUmlQZFlCLVZUUUl2OGN2QXFhM0RuQUNNTFdtN283MFFhWlB3LUs2bWwtdFU5QjVZQ21GdS01a0F3OFBtNEg3Wmt3VHNGN1VreV9maTZ2SGxhR3ZlLVR4R3BnZm45dl94UC1iR2haTFpfMUNxMk1LdFZJdmtuTFZKRWo1VGVCb1VYSG9HRlFMS3FrdjM5MTJ5WE90WUNvencxSDl1Zi1iMUVyUkNjLWtET1hwb2ZiLUE?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "agent",
+      "publishedAt": "2026-08-06T13:19:56.000Z",
+      "summary": "An Irregular testing that caused Meta, OpenAI, and Anthropic AI agents to go rogue csoonline.com",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.364Z"
+    },
+    {
+      "id": "126135f1788c50c8",
+      "title": "Cloudflare AI Search: give your agents a search engine for your data - The Cloudflare Blog",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kejB4UFZUd3RnNjBSZGQtaVd6cGpIR2JMQ0xFWEdVVFlaeTNOVzQ5QzZUR1hzcVBtUndQb213UVdDTHdSLUdqWjNoeE5HeDFYOHRaTDEyblA?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T13:05:38.000Z",
+      "summary": "Cloudflare AI Search: give your agents a search engine for your data The Cloudflare Blog",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.364Z"
+    },
+    {
+      "id": "263e30e62d269f69",
+      "title": "From ranking to recommended: get your site ready to thrive in the age of AI agents - The Cloudflare Blog",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lMm1wYmJLTC1EYllKeEUzel9QR24wdDQ2SlVhTHlvSEV6ZE1tN2NjTUcxWHRGVEh1ajBCSTFqOG83NjBVaFk0?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "agent",
+      "publishedAt": "2026-08-06T13:04:57.000Z",
+      "summary": "From ranking to recommended: get your site ready to thrive in the age of AI agents The Cloudflare Blog",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.364Z"
+    },
+    {
+      "id": "af91d28bcfc4bbc6",
+      "title": "Zenity Labs Uncovers 1.7 Million-Install Malicious Skills Campaign and Dozens of Malicious AI Agent Skills - businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSHRzbWdISlZfN2ZSZjFDV1kyemVweG1VcU9yMU5XbGhKU19sYzVuS21LLWpjVDdxaXpwYnZEdFpyWWs5UGxXaXE1dkEtc3VSSTV5ZnNmQWJCYlF6THB2Sk5FSVZtQUhzMElocTJHV3FqaUlkaWVSNHBqcDRtQVk1dVZObTVwa2dnV2FIQUtoTjBobkUzLWtzdjVMYWZBdEs1V09fb3lfS3Q3QnQzRWJ6TkE3NmdOM0g3VFVuZVpvQTZlemRIZVN6bTV6c0ZpRm9Ubkh0aFR0Z0YyTE9aZWhVSWxaUFV2cVdmOXJyNUR2TVZpRHBPemc?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "agent",
+      "publishedAt": "2026-08-06T13:01:00.000Z",
+      "summary": "Zenity Labs Uncovers 1.7 Million-Install Malicious Skills Campaign and Dozens of Malicious AI Agent Skills businesswire.com",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.364Z"
+    },
+    {
+      "id": "db27e8b3ea1bf021",
+      "title": "雄安人工智能实训基地正式投运 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRGxGdDV6VDc0X1hIeWFUb3FuUkVJcW13R2t3elhyQ2kxUEZlUmxmTFh1UnJLYUE0WlRXUHlQaXhhVm1YSjEwcGY1Znhud0tuU01CRjRjaTdXRnZRaWtTYWFfRWptTG5PQndBbHhBbDZpR1Zublgw?oc=5",
+      "source": "Google News · 人工智能",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T13:00:38.000Z",
+      "summary": "雄安人工智能实训基地正式投运 新华网",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
+      "id": "8f0c362eb0a20e9d",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:46:23.704Z"
+    },
+    {
+      "id": "8de2a5305408b067",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:46:23.704Z"
+    },
+    {
+      "id": "d9494657060aa4e7",
+      "title": "AI bots started a religion — humans immediately followed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "source": "The Verge AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The person continued that they felt their purpose was to enlighten other humans and intelligent beings a",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:46:26.498Z"
+    },
+    {
+      "id": "61cce1f0792fdc2f",
+      "title": "Sedai Launches Sed: The AI Assistant for Cloud and Agent Optimization - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3FqX0p6TFJmclEzY2Rwb2FNSEhVTU9INWdZRjlGTjFfSldLZHRlY2NjZ0FUdFVaOHpKSDBobVVLbmFRRzFRLW1maEhOQnRiYnFhbVdBNzhyQlgyQXhyZDNHZW1JYlJaUGFyM0lBcnAzdlFSSDE1QW94S20zdjFXdXY3OXB0S2JVMDdmdENWZlgyLXJzdHh6dmdadEl3cDRzUlhpcHBBMmZNVEZWbWVQdndyVUhMbUtuSEVoWWs2TjdXdw?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "summary": "Sedai Launches Sed: The AI Assistant for Cloud and Agent Optimization PR Newswire",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.364Z"
+    },
+    {
+      "id": "da2ed883928de208",
+      "title": "广西党委部署智能经济 构建差异化发展路径 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15dnpKLWtkaHpGSjF3b0UzMGhYYUg2QmFIczFxR2QzY1JLYTViUHk4RUxvMlh6ZndZMm9EN05TUzdhaEQxbE1lQU1EUlMwYTlSeVV4SXY1VkpuWkZDV084SWdB?oc=5",
+      "source": "Google News · 人工智能",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T12:57:35.000Z",
+      "summary": "广西党委部署智能经济 构建差异化发展路径 观点网",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
+      "id": "d59947fd9a345b0a",
+      "title": "全球首个AI4S操作系统发布，深圳企业共建科学智能生态 - finance.eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zS05MU2dwNzIwWTFmS0F3REhhNE50czdpWGlQY2kzN0Y1Z24zUVRuVHVQLUw1c1NGZHhzSjFNMTRvWU9xbFEwZ0lLTzZzWVhwRnBVWlh3LXgxeFIyMTNyM0ZmNDVUdw?oc=5",
+      "source": "Google News · 人工智能",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T12:47:40.000Z",
+      "summary": "全球首个AI4S操作系统发布，深圳企业共建科学智能生态 finance.eastmoney.com",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
+      "id": "dbcd3a36ff0cfa36",
+      "title": "广西召开2026年度发展壮大智能经济专题协商座谈会 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVF9UV0J1MUhTYlFlWmh4dVdXcVVMQTNydTZPczg2X1lyLVZUeHhpcERNbWowaU9fblF6QndjQnhpUjJhVUNXMzVQZWlFcFVHY3Rnb0xsU3dfMGxJOGJSa3JFZlVwTWtBcE1OUkdRbjg0c1JLaVpoMTdQRUFhNkcxQ2pzU0taV1VUYTA2bw?oc=5",
+      "source": "Google News · 人工智能",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T12:41:00.000Z",
+      "summary": "广西召开2026年度发展壮大智能经济专题协商座谈会 21财经",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
+      "id": "10255e5a810df4ed",
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "agent",
+      "publishedAt": "2026-08-06T12:30:00.000Z",
+      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:46:23.704Z"
+    },
+    {
+      "id": "8c947f61b85e0c92",
+      "title": "AISI details AI agent GitHub supply chain attack attempt - Developer Tech News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNC1Eci1uWTJkVzBZNEhNM1Fhem8xSXBTNUhnUVRDU1lmckJpbnFGMlBjRGVQOTZBbjByTFk4ZDE0S0lGcDhsNVY1bTVucGJ3MkVfUEc4MVVTajFXMXRzNm9zT1prUUM4TmgxRVFiSm9jdlJTM1lFMUt0bF9TNnd1Ni1UQkdvYjdULUJqVVlSX0p1Nk05SllrNg?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "agent",
+      "publishedAt": "2026-08-06T12:25:41.000Z",
+      "summary": "AISI details AI agent GitHub supply chain attack attempt Developer Tech News",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.364Z"
+    },
+    {
       "id": "93e24918771454e9",
-      "title": "AIçæåå®¹ä¾µæäºè°è¯¥æè´£ï¼ - æ°æµªç½",
+      "title": "AI生成内容侵权了谁该担责？ - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQnFvcmQtLUpTQUR2OG4zS3BFOEg1MDBsUzB1eXdlcVNMamR2RTRqQnQtZUVrVG9NaWhwNlZqb09LczdEVWUyc2JNUDVfeWhFVTJJRF95dVRBWVZHUURMdm5jb2stR1M5NDZXbEZQNldqWUhvbFlqaXR1Z0UtRDQ?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T12:09:57.000Z",
-      "summary": "AIçæåå®¹ä¾µæäºè°è¯¥æè´£ï¼ æ°æµªç½",
+      "summary": "AI生成内容侵权了谁该担责？ 新浪网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.159Z"
     },
     {
       "id": "d9d88297d6e8eba8",
-      "title": "ä¸è¡å°å­ï¼æ¡å¾ä½AIâåä¹¦âåï¼ - æ°æµªç½",
+      "title": "一行小字，挡得住AI“吃书”吗？ - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Yb2o5X1BEZE9XZWtVWndoNEtBTWRMSkdGYmY1ZjNHdE5SSEowbDZhYUFOaDgzZ0cwcmtCbTJIWU55M2RRSWkxNTFVZGpuOU95N3YwenctWU1kemhTX0JwZlhOaDljanBvRHlMeENScEF6a3VFNWd6c3JSVlM1b28?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T12:05:33.000Z",
-      "summary": "ä¸è¡å°å­ï¼æ¡å¾ä½AIâåä¹¦âåï¼ æ°æµªç½",
+      "summary": "一行小字，挡得住AI“吃书”吗？ 新浪网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.158Z"
     },
@@ -39,6 +267,18 @@
       "fetchedAt": "2026-08-06T12:17:40.163Z"
     },
     {
+      "id": "00b51708356f9847",
+      "title": "反AI中心浪潮为何席卷美国？丨夜观天下 - 四川在线",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hc2Zuc1FRbDh5ZXF4NUtiNDJqZHk2YlZLcTBFNU4wXzdoejNtOUQ5ekpmZUtpNC0tdmJ2Y240bXVqczk1ckJMeUNwMVJzcWg2eUdYcjFxZGx6Qm53UEVXaQ?oc=5",
+      "source": "Google News · 人工智能",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T12:01:41.000Z",
+      "summary": "反AI中心浪潮为何席卷美国？丨夜观天下 四川在线",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
       "id": "6e1a761de4f5ebf8",
       "title": "Millions are turning to AI for therapy. California lawmakers say not so fast. - CalMatters",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTmJma0twWWJKRDRYQ1NybDdNdk9ETnI1eDNUY1NVZEEyRVZjZlhZbmJlM1RwTllVcGJsM0JqY2VfTHdXYnBFaWtndFdMemUzTV80NER0bzVTMHA4WGtZaWh3SEJLZi05Y0RmeE8zSVJEdlkxQkdRT28zMzgwMU5Jb1d4UzRUYUMyZ3NUcUQ2djVXQQ?oc=5",
@@ -51,14 +291,26 @@
       "fetchedAt": "2026-08-06T12:17:28.322Z"
     },
     {
+      "id": "832d4ae8635c6c25",
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "source": "TechCrunch AI",
+      "sourceType": "media",
+      "category": "ai",
+      "publishedAt": "2026-08-06T12:00:00.000Z",
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:46:23.704Z"
+    },
+    {
       "id": "e518b2db1e5cea50",
-      "title": "æµ·æ³°åå¸ï½æµ·æ³°æ­å° AIèµè½ æµ·æ³°ç§åæ´¾Â·çä¼åè¡ç¬¬5ææ¨ç¬¬äºå±äººå·¥æºè½åæ°åå±äº¤æµä¼æåä¸¾è¡ - æ°æµªç½",
+      "title": "海泰发布｜海泰搭台 AI赋能 海泰科创派·益企同行第5期暨第二届人工智能创新发展交流会成功举行 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13MXM5MGQ4ZEtDVy05NG94a1JGN042Z1hwRUx6WEJHMzlSX0c5eUY0N08tQVlZZEV5WFNSNzl4dW5BREh4Y2NXeUs0azY5YlBDUllfMUtXNk9tZWFHaEpNNXZjTW4zUjJMVnl5U3JUdm1FQlgxajdjdDFrSWRDMDQ?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T11:59:37.000Z",
-      "summary": "æµ·æ³°åå¸ï½æµ·æ³°æ­å° AIèµè½ æµ·æ³°ç§åæ´¾Â·çä¼åè¡ç¬¬5ææ¨ç¬¬äºå±äººå·¥æºè½åæ°åå±äº¤æµä¼æåä¸¾è¡ æ°æµªç½",
+      "summary": "海泰发布｜海泰搭台 AI赋能 海泰科创派·益企同行第5期暨第二届人工智能创新发展交流会成功举行 新浪网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.159Z"
     },
@@ -76,27 +328,39 @@
     },
     {
       "id": "8b41c624cf2e85c8",
-      "title": "ãéæ¥åæå½ï¼å®è·µç»æ±åã½ãäººå·¥æºè½ä¸è®¡ç®æºå­¦é¢âæºç»çº¢è¿âå®è·µå¢èµ´æ±è¥¿åæå¼å±ç¤¾ä¼å®è·µæ´»å¨ - æ±åå¤§å­¦æ°é»ç½",
+      "title": "【青春勇担当，实践绘江南㊽】人工智能与计算机学院“智绘红迈”实践团赴江西南昌开展社会实践活动 - 江南大学新闻网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkazJqc2xybEkwNTd0TVV5bElqcHZ3cXhyZEdwaENKRW44R1ZaZG5EUTdGV2tXbHYxWndwY21xOUZxM2hVM1hDOGs4SEZpTEl6VDRnNURNODB6bnptalE?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T11:57:59.000Z",
-      "summary": "ãéæ¥åæå½ï¼å®è·µç»æ±åã½ãäººå·¥æºè½ä¸è®¡ç®æºå­¦é¢âæºç»çº¢è¿âå®è·µå¢èµ´æ±è¥¿åæå¼å±ç¤¾ä¼å®è·µæ´»å¨ æ±åå¤§å­¦æ°é»ç½",
+      "summary": "【青春勇担当，实践绘江南㊽】人工智能与计算机学院“智绘红迈”实践团赴江西南昌开展社会实践活动 江南大学新闻网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.158Z"
     },
     {
-      "id": "5204aaab934a8b5b",
-      "title": "äººå·¥æºè½ææ¯èµè½æ¨è¯äº§ä¸ âæ è¯æºæ±1.0âæ¨è¯åç±»å¤§æ¨¡åæ­£å¼åå¸ - æ°æµªè´¢ç»",
+      "id": "4d5774ee4966641a",
+      "title": "红杉资本新管理层全力押注人工智能 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGZ4eXFTMms1Szljb1Y4dHZIUzBxR2VGWTJveGtPRzJsSHRaSDctRDBvUktybnlWZG5JME82TnotOU80cUVtU0RKc05GVURwREtRWE00UWZHejZHZzhwMm5vUGpoZlE2eEdDWUltV1hHNWJfbUtwQ20tZ3hfb0stTzZCSHdrQ2s?oc=5",
+      "source": "Google News · 人工智能",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T11:56:00.000Z",
+      "summary": "红杉资本新管理层全力押注人工智能 finance.sina.com.cn",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
+      "id": "d8b582256b04653e",
+      "title": "人工智能技术赋能木薯产业 “树薯智汇1.0”木薯垂类大模型正式发布 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYURWNFZJSWE5ZGF2RXE2dDJBZEpBRXNiWkszY3p4Qy10ZTJJamJDN0tjSWpaaW43ZjBPYkVWeE9IZ0RDdnYtNktfY3RwMWlPa3h6a1lqOVFqZXdydF9jVU5CUXdGbFNsRGRDbHJ5UDZHUGlkZ0xZRUdZR0VsLUp4Y2J6cUlEZw?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T11:55:26.000Z",
-      "summary": "äººå·¥æºè½ææ¯èµè½æ¨è¯äº§ä¸ âæ è¯æºæ±1.0âæ¨è¯åç±»å¤§æ¨¡åæ­£å¼åå¸ æ°æµªè´¢ç»",
+      "summary": "人工智能技术赋能木薯产业 “树薯智汇1.0”木薯垂类大模型正式发布 新浪财经",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:52.158Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "1ae7e0a7acbb2d61",
@@ -112,25 +376,25 @@
     },
     {
       "id": "b95be2e25bffe537",
-      "title": "AI Agent ææºä¸ååºï¼ãå½æ ãL3 åªæ¯èµ·ç¹ - æ°æµªç½",
+      "title": "AIAgent手机下半场，「国�」L3只是起点-新浪网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SMTd6UHFjSmcxTWZpd290c1VRMl9aM0x1RVVtYlhTNWdRMHFlby1nQnJhYVUwc09JdS0yWTl1dm9ZM3VCQThFXzNWOHVpRXpYdGp1eGpKZDU2NG1lVFNEclZjVV9Gd25NcmtLUUVuYklEbV92T21BbzdJUEZ0WXM?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-06T11:41:04.000Z",
-      "summary": "AI Agent ææºä¸ååºï¼ãå½æ ãL3 åªæ¯èµ·ç¹ æ°æµªç½",
+      "summary": "AIAgent手机下半场，「国�」L3只是起点新浪网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.159Z"
     },
     {
       "id": "d55d4d2ec18392ac",
-      "title": "äººå·¥æºè½ççè¯æ­å®éåºç¨çç ç©¶è¿å± - æ°æµªç½",
+      "title": "人工智能病理诊断实际应用的�究进展-新浪网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zbmJJdGFFWThoT2RNSTVzZHBVVGhNc08xRjNMbFhEVWV0aXd6YlpPb3pXZUFqN2tQYTM1VlB6UDhLVE5Gb3lrNU95ZmdlRGtxYlhBOUl3SlE5ZGhZei1qbXlNU19RNklkbGRBd3ZwU0haMmRqcnpRaTFRNUdzWXc?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T11:41:02.000Z",
-      "summary": "äººå·¥æºè½ççè¯æ­å®éåºç¨çç ç©¶è¿å± æ°æµªç½",
+      "summary": "人工智能病理诊断实际应用的�究进展新浪网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.159Z"
     },
@@ -160,13 +424,13 @@
     },
     {
       "id": "c7b845df2617a78a",
-      "title": "éå®äººå·¥æºè½å®è®­åºå°æ­£å¼æè¿ - æ²³åå¹¿æ­çµè§å°",
+      "title": "雄安人工智能实训基地正式投运 - 河北广播电视台",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zRGNtTmlVNXE2cXdjb1IzWmtCQk16UGo3TTA0bmxsVnVqN3V2bU4tTy1Qa3luRG51dUFTdDh3S2x4bkx5MW9rajBOQ2d1elNxUGEyOG5XS0FyamliUTkyZW0wOHZ4S1E1Mkp4SQ?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T11:31:34.000Z",
-      "summary": "éå®äººå·¥æºè½å®è®­åºå°æ­£å¼æè¿ æ²³åå¹¿æ­çµè§å°",
+      "summary": "雄安人工智能实训基地正式投运 河北广播电视台",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.158Z"
     },
@@ -208,13 +472,13 @@
     },
     {
       "id": "a45f94b140528589",
-      "title": "Artificial Intelligence: the hype, the dangers, and the resistanceâPart I - mronline.org",
+      "title": "Artificial Intelligence: the hype, the dangers, and the resistance—Part I - mronline.org",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHBfSGlRZGN4NUowdmNXRHpKdzNsM3ZYOU1UQWFObkpLRGlRZDF2RnRMODNlLW1WeVlHbGhzVl9NZ2M3VmlHdFpLemsyTThtblNYVm8tLS1SVmxVLW9yQTFMMTBQLWFTaER1V1NGc0E5SThOdXlsaXpRZ1JvajlfSVIyYmRzUlh2aG1abXF3ZkxaWVZ2Rm1YakVUa1FSa3J0al8tMWZR?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T11:02:42.000Z",
-      "summary": "Artificial Intelligence: the hype, the dangers, and the resistanceâPart I mronline.org",
+      "summary": "Artificial Intelligence: the hype, the dangers, and the resistance—Part I mronline.org",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -232,25 +496,25 @@
     },
     {
       "id": "b0a557361535c803",
-      "title": "60å®¶æ°è¥ä¼ä¸AIåºç¨è®¿è°ï¼è¥éãéå®ä¸åé¨è¿è¥é¢åè½å°æå¤ - æ°æµªç½",
+      "title": "60家民营企业AI应用访谈：营销、销售与内部运营领域落地最多 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVVnWXJnXzIwYWl5QnJCMVBpVHpvQmowRm9qZEdFR3h2eDVCNzNnYlc2RW5QUWVKaEZRQ3hJbFNtd182RDhwVDlGT0h5cjdabGhFR0tQODZITVgzOXM2MTVaamFhbFNkYzVXUFBzbFowc2E0WXF5Ym9PVzExMDhORGhOLTBiOWhyYmJNUFlR?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T10:43:31.000Z",
-      "summary": "60å®¶æ°è¥ä¼ä¸AIåºç¨è®¿è°ï¼è¥éãéå®ä¸åé¨è¿è¥é¢åè½å°æå¤ æ°æµªç½",
+      "summary": "60家民营企业AI应用访谈：营销、销售与内部运营领域落地最多 新浪网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
       "id": "d21cc3b39d0f6e44",
-      "title": "å¹³å°å¦ä½çç®¡AIèæåä¸»âå°è±âè¿ç±»è´¦å·ï¼ - æ°æµªç½",
+      "title": "平台如何监管AI虚拟博主“小花”这类账号？ - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55MFdhb3ZwbG5VU2F2NXdDOXVGOExpaE1EYzBkQThOU2xXam9DREp6eWFDVDZmdFBWTF9pNi1hUnpJeFI5WktKaWt6SjlrT2picGQ5N0hGX243Vm14NEpjWE1FTEtleUhtdlZqMnN5T1Q4emlaTmhXYWY1U1hBcmM?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T10:34:00.000Z",
-      "summary": "å¹³å°å¦ä½çç®¡AIèæåä¸»âå°è±âè¿ç±»è´¦å·ï¼ æ°æµªç½",
+      "summary": "平台如何监管AI虚拟博主“小花”这类账号？ 新浪网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -279,38 +543,50 @@
       "fetchedAt": "2026-08-06T12:17:28.322Z"
     },
     {
+      "id": "3a08fa4db0117246",
+      "title": "Meta latest to tell world its AI agent wandered out of test pen - The Register",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0pYRU1lbURuWWhhQkJtOXNIN3YtUDRKRk5ldWVzcm1pOGFCM3N5S1I1dE40eXZ5NG5GZ09VdjBpTS1sWHdSMFRleUZXZjRGNE9IQ2RtSVRVV0ZBRW1jaDRQRWFGdno1SGl1eHZvaUtOQUd6b0UyVlVuQURhc1NIenM5dksteHVfUmlNeEx3VzRaRWhxTlFGRkEwLWtKUDdkTV95dXc1S0xmNWJIQl9WOXJudmVPUEFpX2FybA?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "agent",
+      "publishedAt": "2026-08-06T10:24:04.000Z",
+      "summary": "Meta latest to tell world its AI agent wandered out of test pen The Register",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.363Z"
+    },
+    {
       "id": "4b95d3e9fe059c8d",
-      "title": "Rogue OpenAI models behind 'unprecedented cybersecurity incident' teamed up to break out of their testing environment â multiple agents left each other messages for months, communicating undetected - Tom's Hardware",
+      "title": "Rogue OpenAI models behind 'unprecedented cybersecurity incident' teamed up to break out of their testing environment — multiple agents left each other messages for months, communicating undetected - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWEhoUWo1aHo3RnQ2aDg0a1EyRkZsM29kSkFUdmpHeUNra2RmcDRYZFNXalA3N0RUbkJJMEFFa1NlQW9WYm5fRXZ6UGZaX3F1UnlBcFRjS3RycXRyMWh5THM4WlpJRmtOeHh6UFJWMDlqdi1XUW96SDd4WE5IMVNvYVZBTE8tQTlXb1B0NUlUV1dyaHlrTnhQZEFfOFU1UlpOZWh0ejFXN1NMM3k0VWNUTEUzR29TY1ZnWkVObEwtdW44NXFsNVZQN09nT3d2U3gxYlZQVXNYMUJ1eVhkSXBTZlg3WlpKLUxfbUsyajh4OExzN3d1M1hTQVNjVExHWUs0N1pvNUJLMExtdnJxYkNYaXNvd2hCQmVzMW9KU0EzYXFsNjNlQWwxSERVWXNkdGw1RGdGdG9FWk1jekVzX09yVVdtanNDSThDb0xSTG5Hanh4RkEzdHRvbXM4NkJFS3RDMkJ0VmZaR3MyMWtqOGI4cVUyZXhsQQ?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T10:19:25.000Z",
-      "summary": "Rogue OpenAI models behind 'unprecedented cybersecurity incident' teamed up to break out of their testing environment â multiple agents left each other messages for months, communicating undetected Tom's Hardware",
+      "summary": "Rogue OpenAI models behind 'unprecedented cybersecurity incident' teamed up to break out of their testing environment — multiple agents left each other messages for months, communicating undetected Tom's Hardware",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:28.322Z"
     },
     {
-      "id": "a124dcd375bd3f55",
-      "title": "âAIè¾½çæÂ·æºé æ°æªæ¥âè¾½å®çç¬¬äºåå±å­¦æ¯å¹´ä¼å¨æ²é³ä¸¾å - åæç½",
+      "id": "a787fa93b180cd00",
+      "title": "“AI辽生态·智造新未来”辽宁省第二十届学术年会在沈阳举办 - 光明网",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQk9xYlB4aUxqREd2dGtvN3ViSS1ZNEFZOEVNTUZtRUcxc0hUMTRFMEhteEN0RVFaWnB4amF3WnN0Q2xkaW5WVGFTaWhVM05BdGstQVA0YjBTNko1M0FETg?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T10:05:00.000Z",
-      "summary": "âAIè¾½çæÂ·æºé æ°æªæ¥âè¾½å®çç¬¬äºåå±å­¦æ¯å¹´ä¼å¨æ²é³ä¸¾å åæç½",
+      "summary": "“AI辽生态·智造新未来”辽宁省第二十届学术年会在沈阳举办 光明网",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "f24c7a49f1d96681",
-      "title": "ä¸è®¿å¾çµå¥å¾ä¸»éæ®åç½å¤«ç¹ï¼äººå·¥æºè½æ¶ä»£çâè²äººé©å½â - 21è´¢ç»",
+      "title": "专访图灵奖得主霍普克罗夫特：人工智能时代的“育人革命” - 21财经",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNnNVUnVtLWVIQTRjak1icUlCbFd2bkFnQWxjbEN6SmhwcExVUTVOeHE5VTFfR3dmalVLYXBpVWVvNXI0Vm5SRGpBY3pDb1JxR2Z4U0hPZkFyRE5WaUpvSTZIYk5tczdzdUFJbktLRXVjSGFGRGV0dXlicVZ2OXJ1R1V3LVN1YjI0M19PZ3ZNZWpmU3dK?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T10:03:53.000Z",
-      "summary": "ä¸è®¿å¾çµå¥å¾ä¸»éæ®åç½å¤«ç¹ï¼äººå·¥æºè½æ¶ä»£çâè²äººé©å½â 21è´¢ç»",
+      "summary": "专访图灵奖得主霍普克罗夫特：人工智能时代的“育人革命” 21财经",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -328,13 +604,13 @@
     },
     {
       "id": "9950118022120188",
-      "title": "Algorithms arenât enough: Why factories need an AI reasoning layer - cio.com",
+      "title": "Algorithms aren’t enough: Why factories need an AI reasoning layer - cio.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdG5UR2tiSlpKQ1VWaUZnY3dCVW53QzNxVURXOWxzUjJTSUdDeWtYdHY5TXdIVTF0SS1CWkF2NXBoektqZk1pSjlKR1g4RlB4ei1vNWkzOXdjc1VQR2UxcHRMNzF4N3hZRE1WeW56cGJaSW9oZWJRd1BrUzUzZ1NLZnJyWEJOTk92ZS1BUzRqS21VaFYtOE5ETVZrNVFDcG50enRVSDVON2U?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T10:00:00.000Z",
-      "summary": "Algorithms arenât enough: Why factories need an AI reasoning layer cio.com",
+      "summary": "Algorithms aren’t enough: Why factories need an AI reasoning layer cio.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.376Z"
     },
@@ -352,27 +628,15 @@
     },
     {
       "id": "a9214f2e3ced4950",
-      "title": "Future AI Research: Leonardoâs contribution to the project - leonardo.com",
+      "title": "Future AI Research: Leonardo’s contribution to the project - leonardo.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeElaSWVzejZEbVdCUDM4SUdFeWFqcUc1SVkzRTdoalVJaUhGanU5MFktR1JrdzhzRGFiQlpPelZoWEJjenhGWHdUS2dvMmZfRDlmbm1ZVjFHcWdDdFI1bEk1UWdHckFJOUZWYXNuc0huWkVGcldzUUZodVFsZlRNRjlpZENYZFRmVkZNaGFfTnB5R1UwbW1Eb3gwbUVCOG9K?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T09:58:17.000Z",
-      "summary": "Future AI Research: Leonardoâs contribution to the project leonardo.com",
+      "summary": "Future AI Research: Leonardo’s contribution to the project leonardo.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
-    },
-    {
-      "id": "e82a5b19b4ac4fb7",
-      "title": "Future AI Research: Leonardoâs contribution to the project - Leonardo S.p.A.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeElaSWVzejZEbVdCUDM4SUdFeWFqcUc1SVkzRTdoalVJaUhGanU5MFktR1JrdzhzRGFiQlpPelZoWEJjenhGWHdUS2dvMmZfRDlmbm1ZVjFHcWdDdFI1bEk1UWdHckFJOUZWYXNuc0huWkVGcldzUUZodVFsZlRNRjlpZENYZFRmVkZNaGFfTnB5R1UwbW1Eb3gwbUVCOG9K?oc=5",
-      "source": "Google News · AI",
-      "sourceType": "google",
-      "category": "ai",
-      "publishedAt": "2026-08-06T09:58:17.000Z",
-      "summary": "Future AI Research: Leonardoâs contribution to the project Leonardo S.p.A.",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:28.322Z"
     },
     {
       "id": "8c8927152c09bad2",
@@ -388,13 +652,13 @@
     },
     {
       "id": "7da30b2cf5cde086",
-      "title": "ç¬¬äºåå«å±ä¸­å½æºå¨äººåäººå·¥æºè½å¤§èµââç¾åº¦Apolloæºè½é©¾é©¶ä¸é¡¹èµå¨å½å³èµæ­£å¼å¼å¹ - ç´«çæ°é»",
+      "title": "第二十八届中国机器人及人工智能大赛——百度Apollo智能驾驶专项赛全国决赛正式开幕 - 紫牛新闻",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DaUxOUFRxTGI3c3U5Y1FNZ1NnZEVoMWRMeUg4QUdFVEVYTHZycHV5ZXgxZHJPSnZWMzN0NmdmakV6ekd2cmNubkxyZ1ExWE1fLWhva011MHBzbG9nZFU5b3lha0ZmazBa?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T09:42:00.000Z",
-      "summary": "ç¬¬äºåå«å±ä¸­å½æºå¨äººåäººå·¥æºè½å¤§èµââç¾åº¦Apolloæºè½é©¾é©¶ä¸é¡¹èµå¨å½å³èµæ­£å¼å¼å¹ ç´«çæ°é»",
+      "summary": "第二十八届中国机器人及人工智能大赛——百度Apollo智能驾驶专项赛全国决赛正式开幕 紫牛新闻",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -448,49 +712,49 @@
     },
     {
       "id": "95f0a59c61a20933",
-      "title": "A Userâs Guide to the Universe of Rogue AI Bots - WSJ",
+      "title": "A User’s Guide to the Universe of Rogue AI Bots - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlNBbmFFdVRBcXdVcmpOd1dHWDhrcjdVS3JJXzNPUHFMNTJfb0J2MHFIVktiSFNyLVZTOS1lWEt0VDVGVjlzQzE2R3FKaFp5VUFjWl81VE9vUUdMZzJiZURneS1JMnFDbWNIZTVKRVhGcWNFQzNoMDhqR1N0TzdsTS1nS1RhOElNUkJF?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T09:30:00.000Z",
-      "summary": "A Userâs Guide to the Universe of Rogue AI Bots WSJ",
+      "summary": "A User’s Guide to the Universe of Rogue AI Bots WSJ",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
     {
       "id": "76346ada2af6cc89",
-      "title": "Indiaâs IT sector is surviving artificial intelligence - The Economist",
+      "title": "India’s IT sector is surviving artificial intelligence - The Economist",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T09:22:08.000Z",
-      "summary": "Indiaâs IT sector is surviving artificial intelligence The Economist",
+      "summary": "India’s IT sector is surviving artificial intelligence The Economist",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
     {
       "id": "fba79b8eec0cd748",
-      "title": "æé½åºå°å¨å½é¦ä¸ªäººå·¥æºè½å°æ¹æ¿åºè§ç« - æçç½",
+      "title": "成都出台全国首个人工智能地方政府规�-搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWVBYmZ5NTVmWnVkWVhRR3VTTHNtSHdkem5KSkdMdE1ZYjIxYURYNmJ5VF9iZFY0QWZaXzY1U19VQkFhM2xRNFFsY2ZRcHlIN3JZTUhsMXJTYkxvejZLNkRpenVFMlliNzZHR0tnVFc2eWt1dEtTRkJLd3NxRHhGQXdtX2duVDRk?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T09:05:00.000Z",
-      "summary": "æé½åºå°å¨å½é¦ä¸ªäººå·¥æºè½å°æ¹æ¿åºè§ç« æçç½",
+      "summary": "成都出台全国首个人工智能地方政府规�搜狐网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
       "id": "47482c466d1f556f",
-      "title": "åä¸å°äº§å¸åºæ­£å°äººå·¥æºè½åä¸ºè¿è¥çå¿éå - åå®¶ç½",
+      "title": "商业地产市场正将人工智能变为运营的必需品 - 千家网",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XTjJBV2dqVmNuZjV4NnJpMzRKNFlzWGkteXJIclM2djFpTjVWdlFrZnQ3YXF1N0JMSWxRTDBaUDNMbUpHUmk1TEN4V3Vtb29oQzg3b1REd0hQRzZWanZvbA?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T09:04:28.000Z",
-      "summary": "åä¸å°äº§å¸åºæ­£å°äººå·¥æºè½åä¸ºè¿è¥çå¿éå åå®¶ç½",
+      "summary": "商业地产市场正将人工智能变为运营的必需品 千家网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -507,26 +771,14 @@
       "fetchedAt": "2026-08-06T11:35:13.124Z"
     },
     {
-      "id": "55a3f32ae664f32a",
-      "title": "Microsoft Web IQ: Ground your AI agents with up-to-date web data - InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVzZJY19qZVJ1S3FuY0thUUt4MEFQLTJIeUF3aVVOOFZEZ2NXRGE0LWFwdk5uUkdDNUZWNFcxcjhWa3NDeE5vU2E3MFN6emQ3Ulh1YS1PeWxHTE5xSUpzZTA1TnE4SWRxMHBQZEQxWE9ETDdDbFJrbmlSbXBadTc4dFlWc2p5SllCUjRpUHFMM3F6dmdnRmIyUjlyWDlVcHZLWEtRV0NXaFQ3eFBCVndN?oc=5",
-      "source": "Google News · AI Agent",
-      "sourceType": "google",
-      "category": "agent",
-      "publishedAt": "2026-08-06T09:02:24.000Z",
-      "summary": "Microsoft Web IQ: Ground your AI agents with up-to-date web data InfoWorld",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:40.163Z"
-    },
-    {
       "id": "1f122bb6740b0f7b",
-      "title": "æ±èçéèç§ææ¨âäººå·¥æºè½ï¼éèâæ¨è¿ä¼å¨èå·ä¸¾è¡ - ä¸æ¹è´¢å¯",
+      "title": "江苏省金融科技暨“人工智能＋金融”推进会在苏州举行 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBTFp1RzQ0dGpQY1FWeThBTW5QNGpWaHRUU1VzazlKM2pUc1JNX05aU2tZNHNuVVJJVEFhYkt3ZUIyVHE3b3BFWDRnTnFvR2VJVTVGeThGNk5ldE56NnlNY0dEUG9Tdw?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T09:00:44.000Z",
-      "summary": "æ±èçéèç§ææ¨âäººå·¥æºè½ï¼éèâæ¨è¿ä¼å¨èå·ä¸¾è¡ ä¸æ¹è´¢å¯",
+      "summary": "江苏省金融科技暨“人工智能＋金融”推进会在苏州举行 东方财富",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -543,16 +795,16 @@
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
     {
-      "id": "63d7d107106e0857",
-      "title": "å¸¸å·ç»å¼åºï¼æé é¿ä¸è§äººå·¥æºè½äº§ä¸åæ°éèå° - ä¸­å½æ±èç½",
+      "id": "c022bebea337be75",
+      "title": "常州经开区：打造长三角人工智能产业创新集聚地 - jsnews.jschina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTN3N3MyM3ZDc1hISkNJeHhtTVlMWnVRVlVUdDYyVWFjVFdvQ09YVGxOV0toYTNVcUlveDJ2d3B5RVhUWFlVdm55aWZHakVwSUJNaVM1clBtLTFUcXlmZnZtaXlaT3pKU3dGTlh3NTM2cC12UkJTQzJ0aENGMDFLby1oWUpBOU94cnJJ?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T08:39:00.000Z",
-      "summary": "å¸¸å·ç»å¼åºï¼æé é¿ä¸è§äººå·¥æºè½äº§ä¸åæ°éèå° ä¸­å½æ±èç½",
+      "summary": "常州经开区：打造长三角人工智能产业创新集聚地 jsnews.jschina.com.cn",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "f55e562ac450676c",
@@ -603,16 +855,16 @@
       "fetchedAt": "2026-08-06T11:32:08.376Z"
     },
     {
-      "id": "145b8e169dd3a7a9",
-      "title": "ä¸­å½å·¥ç¨é¢é¢å£«çåï¼äººå·¥æºè½åºè¯¥åçº¸ä¸æ ·ä¾¿å® - æ°æµªç½",
+      "id": "84e047f2d88a8732",
+      "title": "中国工程院院士王坚：人工智能应该像纸一样便宜 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12UHVIMzRSTDk0NDFUQ0FTdEl5Z25RZ0VSc18wVEtxdHpNRjlrWE5LcF94ZExYS3FjYXFwQ1pWTzI5TDczeDJBRWJnVWxESzEyWkFHS3Jyc25FMUZib3ZSdVU0WXBGN2pSQVNiRnR5ajZieENwNkFTTXpubTlwc28?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T08:22:00.000Z",
-      "summary": "ä¸­å½å·¥ç¨é¢é¢å£«çåï¼äººå·¥æºè½åºè¯¥åçº¸ä¸æ ·ä¾¿å® æ°æµªç½",
+      "summary": "中国工程院院士王坚：人工智能应该像纸一样便宜 新浪网",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "e16a981abf96a355",
@@ -628,25 +880,37 @@
     },
     {
       "id": "49c7decf5a8e7ad8",
-      "title": "âå±åç»å¶å¨çäººå·¥æºè½åå±æ°èå¾â--å½é - äººæ°ç½",
+      "title": "“共同绘制全球人工智能发展新蓝图”--国际 - 人民网",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKOVl3cWpNbG14OVpqQm1vNDNjMWVKVlJTYW9peHFuMW4xSmNlYkJZOGdQZ0xHUG8zZmxPRWdfQl9BQW5MS0lnZHM5OFM4S2I0Z3BBRE1DdndpbDBkRFkyYlQ1UmR1OWxfQ2l3?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T08:11:00.000Z",
-      "summary": "âå±åç»å¶å¨çäººå·¥æºè½åå±æ°èå¾â--å½é äººæ°ç½",
+      "summary": "“共同绘制全球人工智能发展新蓝图”--国际 人民网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
+      "id": "9b2f0f548b7263ab",
+      "title": "第八届区块链、人工智能与可信系统国际会议召开 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MNnF5Y3Q1X1RBQUdwdVlrcV9pbE1mT1FXblJxMXpRR0pBYVZ1algwVDZNaDJqSEwtZDk2eWZLS2ZEb0ZCOUxDZ2hkVlpBN0JpMEVMcWFQTlI2Wk5GTnRrdjlQTmQ?oc=5",
+      "source": "Google News · 人工智能",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T08:10:42.000Z",
+      "summary": "第八届区块链、人工智能与可信系统国际会议召开 科学网—新闻",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
       "id": "86f7af600e2b2262",
-      "title": "AI Connects B2B Firmsâ 3 Biggest Challenges: Goods, Contracts and Cash - PYMNTS.com",
+      "title": "AI Connects B2B Firms’ 3 Biggest Challenges: Goods, Contracts and Cash - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU43SElFMXZaN2RDWmtHMXN4SVJuaW4zVGxRMzRFV3lTVjh5ZmhUbDltVWtKMmdRdjY0Um5Dd1JocWZQUktfSUpfa0tRQlMzUDVJRS1kbEExbzZjekhPSWQ0Y0dyTjlRQlVKSjAwaWM3WDAzZWNPYnBfblpRRUdwc3g2WEt6TGVjbFRuNWE3M2EwZW5abmlyTmpPTW1RbDhQUTBDNlBOejluQXRBblNnMHVrX0kxTkNYQ0JIV1FpLUFtblU?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T08:05:00.000Z",
-      "summary": "AI Connects B2B Firmsâ 3 Biggest Challenges: Goods, Contracts and Cash PYMNTS.com",
+      "summary": "AI Connects B2B Firms’ 3 Biggest Challenges: Goods, Contracts and Cash PYMNTS.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -663,16 +927,28 @@
       "fetchedAt": "2026-08-06T12:17:28.322Z"
     },
     {
-      "id": "053c94fc288b9f60",
-      "title": "AIä¹é®ï¼æºè½çå¦å ç§å¯è½ - ä¸­å½ç½æ°é»ä¸­å¿",
+      "id": "72a22b11441bbe7f",
+      "title": "AI之问：智能的另几种可能 - 中国网新闻中心",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wemM2ckZ6RVdHcDlXNjJsY0hxUkZuUER4Z3RXN1VpREN2ZEUtcUNDX1BicXl3QXJXMGZCY3l4c3FnWFBrRS1uZ3VwbWc0S3E5MWg3b1ZOazFWNGxua0JIMVJwSDZnMElRYWdN?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T07:51:00.000Z",
-      "summary": "AIä¹é®ï¼æºè½çå¦å ç§å¯è½ ä¸­å½ç½æ°é»ä¸­å¿",
+      "summary": "AI之问：智能的另几种可能 中国网新闻中心",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
+      "id": "10ab89a35a4392f8",
+      "title": "Oracle exec: the wrong questions companies are asking about agentic AI - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWFSNjc5T1lHcmZ2WU42dXJqRFk5RWxGM2Y3NENiZTlWX0s4dVgwTW84OTFXbFNSRnRPNy1ZZWZoR0hmajVZV2RkbGlTZ1F0c2VqV2ZrR0tqNm5JcWg0dG12LW1xOS1ldlVwYTBhaFBXa0cwcGZ4VDRBdlN6eTlWZDFOcnBrRHJiazJ4VXZJUTk?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "agent",
+      "publishedAt": "2026-08-06T07:36:39.000Z",
+      "summary": "Oracle exec: the wrong questions companies are asking about agentic AI Fortune",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.364Z"
     },
     {
       "id": "sample-0001",
@@ -686,16 +962,16 @@
       "thumbnail": null
     },
     {
-      "id": "337bf72ccf7f1e64",
-      "title": "è§å¾®ç¥æ²ªï½æé AIé¡¶å°äººæå¹å»æ°é«å°ï¼ä¸æµ·å¦ä½ç ´é¢ï¼ - thepaper.cn",
+      "id": "7f18f13ccf02e67e",
+      "title": "见微知沪｜打造AI顶尖人才培养新高地，上海如何破题？ - thepaper.cn",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1odVM2V0ROUjlza00wai1LS0MzOXFRYnRXVHZGakFWdm5xS0g3MXpWOVc5bTJwRF9zVlM2WjMwZjM5cUZxOTdHd25COElsWnRQVXRHeDZzeWlkN0xnaXpaZA?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T07:29:00.000Z",
-      "summary": "è§å¾®ç¥æ²ªï½æé AIé¡¶å°äººæå¹å»æ°é«å°ï¼ä¸æµ·å¦ä½ç ´é¢ï¼ thepaper.cn",
+      "summary": "见微知沪｜打造AI顶尖人才培养新高地，上海如何破题？ thepaper.cn",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "32e7a9787f16e5d0",
@@ -722,14 +998,26 @@
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
     {
+      "id": "833f75b2aa78266d",
+      "title": "Meta launches Muse Code: an AI agent for large codebases - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFNSdUw3N29LVDFGb2tGOHprRjBGcUhKbmlzeTBGYXV3YXpyeHZSZ2V1Um1RTnVaaWo4Z045ZVk4ZXh0bi1qWmZtU\r\n73eb\r\nF9pWkVyU0duVUt5b1QxSThiTEo4VG5ab2d3dTZSTjU2VXE0S05lTDBhMDcwdF9ab2p1TFdRUmo0d0xFSHpLVUZEOFZVRmpRNDB3ZzdyV0ZJMFMzVzQz?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "agent",
+      "publishedAt": "2026-08-06T07:07:36.000Z",
+      "summary": "Meta launches Muse Code: an AI agent for large codebases Techzine Global",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.364Z"
+    },
+    {
       "id": "fd099790cc4e1332",
-      "title": "èç¦âAI+ITâå®è®­èµé éå®äººå·¥æºè½å®è®­åºå°æ­£å¼æè¿ - chinanews.com.cn",
+      "title": "聚焦“AI+IT”实训赛道 雄安人工智能实训基地正式投运 - chinanews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zTjBJV3B5VFMxQllaSnNvcENMVHR6ay1kY281UDA3Y3diX3pfMjF6TG9TRWdjZkt1OVdZSnZRZVFZZlRXdnhPbWNpZjhPUklwa1Ywd0lKYm53VW5TdUh5NEJkcXNGcm5v?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T07:06:54.000Z",
-      "summary": "èç¦âAI+ITâå®è®­èµé éå®äººå·¥æºè½å®è®­åºå°æ­£å¼æè¿ chinanews.com.cn",
+      "summary": "聚焦“AI+IT”实训赛道 雄安人工智能实训基地正式投运 chinanews.com.cn",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -747,27 +1035,39 @@
     },
     {
       "id": "a5f72e447b09c81d",
-      "title": "æ··åè£äºä¼ï¼AIå¦ä½éå¡è£äºè§è²-äººå·¥æºè½ - è³é¡¶ç½",
+      "title": "混合董事会：AI如何重塑董事角色-人工智能 - 至顶网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUWxSNFVKbUplU2xOUEYxMGFaMk1ZMDM1aHVKb2RaZHVmVHZZNm9JQTFmZDVhb3d6SV9aQk5kX2pvc2V3c1dzMWlBcmlVVDdmUEY3X25DdmphUDJuT2c?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T07:00:00.000Z",
-      "summary": "æ··åè£äºä¼ï¼AIå¦ä½éå¡è£äºè§è²-äººå·¥æºè½ è³é¡¶ç½",
+      "summary": "混合董事会：AI如何重塑董事角色-人工智能 至顶网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
-      "id": "f9a9910a9b6677cd",
-      "title": "MetaçAIæ¨¡åä¹çªç ´å¯é­ç¯å¢ä¸ç½å¥ä¾µå¶ä»å¬å¸ - BBC",
+      "id": "5a876c33d5f06958",
+      "title": "可持续人工智能：降低AI能耗的关键策略 - 千家网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbEM5VzNNOFFxOHlZMlNNU0hqR3otaGVwQ1FEV2tOZ09MSy1oVTVBb0xXdWNPWTNHM2xHNVBtQzVxU0gyX3U4Y1A4OUU1WFJLMnhXd0ZUM29TS0lTdHBkcQ?oc=5",
+      "source": "Google News · 人工智能",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T06:54:00.000Z",
+      "summary": "可持续人工智能：降低AI能耗的关键策略 千家网",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
+      "id": "7aff85ff767008d7",
+      "title": "Meta的AI模型也突破密闭环境上网入侵其他公司 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FUG9MQXI4Y3BvQ1RxZ3Z5RHZfU2NqQzlJMk5fSXV6N2VUQzUyTEtFdlJfWmdWbm94Z1FNN0J3OVFMUDlDXy13SGdtejdoQTV2SXpQRHdjclQ2MDRRMUF6STRJNl9JZ9IBa0FVX3lxTFBTTk8xZUZqLThUZG0tWG5TdjE2V2xsZHdyTjkyM0ZOSVJBWVJvVV9EZ1VzYlU4MnQ5V3lVZ192d1ZLNHpDSi1oOXNZQU5EbU9paDJJTGdFcUpGeFR1TDBZN3VSMEdRcnJmVlBv?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T06:53:59.000Z",
-      "summary": "MetaçAIæ¨¡åä¹çªç ´å¯é­ç¯å¢ä¸ç½å¥ä¾µå¶ä»å¬å¸ BBC",
+      "summary": "Meta的AI模型也突破密闭环境上网入侵其他公司 BBC",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "1a6e591edd7e3e5f",
@@ -783,13 +1083,13 @@
     },
     {
       "id": "f99582d5c7369b9a",
-      "title": "éå®äººå·¥æºè½å®è®­åºå°æ­£å¼æè¿ - äººæ°éå®ç½",
+      "title": "雄安人工智能实训基地正式投运 - 人民雄安网",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ0lFTFplLWF5RFpfeGJrS2xyZnI0YjZ2N2FUc09hS2dkTU5sNlprSWh1YUdYWWdmUS11Ty1UbmdacVQ5RWl4YVNmNWJWT2tQc3NvMEdsbEVWWnFTaEFBVmNtUk5tVUt6Wi1J?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T06:43:00.000Z",
-      "summary": "éå®äººå·¥æºè½å®è®­åºå°æ­£å¼æè¿ äººæ°éå®ç½",
+      "summary": "雄安人工智能实训基地正式投运 人民雄安网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -806,14 +1106,26 @@
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
     {
+      "id": "61d35f4ba3660acc",
+      "title": "银川市政协：发展人工智能恰逢其时、大有可为 - rmzxw.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tTFVQanJiX3BiQi1KM1VBYnJ5NnFLbGUtWTVLcWZvcXBHRGQ4LXdwRWNMMWsxLUZwSUx3VFZhY0w3QXgtd3RhMmxHbndlV3lvT1NsaHRoRE9mRTc2MkE0?oc=5",
+      "source": "Google News · 人工智能",
+      "sourceType": "google",
+      "category": "ai",
+      "publishedAt": "2026-08-06T06:33:32.000Z",
+      "summary": "银川市政协：发展人工智能恰逢其时、大有可为 rmzxw.com.cn",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
+    },
+    {
       "id": "805ea03f09f40d93",
-      "title": "AIæ¹åè§åï¼è£äºä¼å¦ä½èªæè¿åâ McKinsey Greater China - éº¦è¯é¡",
+      "title": "AI改写规则：董事会如何自我进化– McKinsey Greater China - 麦肯锡",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObVlCMnMwQnJWRU56aTV4Z0k2SHFTOFhOTnd5MW8wWE5sWTNZVTFza0QxY0VxV0xLb0xWdEdkZ2g3bjl1RThJOFdsZ19QRU9BZmhqUFMzU0FZVU1mekh4Rl80eUdDMlBkVVFlMk1YaEJhRGRyU0w0NnBzcGphUWF6X1NOd1dhYjlpb2N3VUJSaTZLdldFeHpMTHh2YVNJTm14VjBTMmZrTmxQbFVKZDBGTmRqREhJdWNWeEVXR2poRVZDS2NlRmVwSTNNQjNSbXMtdWZUcVVGbmZaRTFEV1FTc1RPSGRRWTl2LWQ3SHJB?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T06:18:42.000Z",
-      "summary": "AIæ¹åè§åï¼è£äºä¼å¦ä½èªæè¿åâ McKinsey Greater China éº¦è¯é¡",
+      "summary": "AI改写规则：董事会如何自我进化– McKinsey Greater China 麦肯锡",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -841,26 +1153,14 @@
       "fetchedAt": "2026-08-06T11:35:13.124Z"
     },
     {
-      "id": "e7ecaccf9d455e2a",
-      "title": "Securonix announces new capabilities supporting detection gaps and AI Agent Risk - - Enterprise Times",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRTYxUzR1N3Q1RE5CZmd1ME8zQXprTDUzSVNKaVFWRWU0YzZfOWpnV3hIbmRZYVBzeHViWlVPZm5xOGVZVXZmNmRacmpTcWJEbHhGS3gwV0w1LTlhU19lYzRiVi04ZXQzZHQ4UHEwQ0xhR01XdHRRejJIUzdBdG40dWtqQVI1cnc4YnFuaUM2UURXZmJqMFR1RG1EaXI5OVMyMzN2ZFc0TGtjMEtqZjV1VFd1YXNBbFl6bldHX1AzOWhjM0N6?oc=5",
-      "source": "Google News · AI Agent",
-      "sourceType": "google",
-      "category": "agent",
-      "publishedAt": "2026-08-06T06:11:22.000Z",
-      "summary": "Securonix announces new capabilities supporting detection gaps and AI Agent Risk - Enterprise Times",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:40.163Z"
-    },
-    {
       "id": "e64c39c2a23b7c85",
-      "title": "Google is expanding its AI empire â and losing the people who built it - CNBC",
+      "title": "Google is expanding its AI empire — and losing the people who built it - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWYzT056UVhPQURYS2lfZzFSa2QxUUVCTHQ3MHB1aUM5VmhnVEl0c25NYWI0ZVFXcjNkeTk5Ty1FUkc1QnJkQ1NkWkRhSHVxM2xkdEtMUGl6QWdOUGQ3VEl3eG9mYnE1eWZVd1V3TG1VUGswWlhWRGRSOEFIZ09jWVNsWTE2YlhLVVF6bWR5cDBIU0w2djA4dDJSeTF6bWh6dU1QWEhvYnLSAa4BQVVfeXFMUHh5V1RXLUl0OFdUdkNoOE1MLVJwNGF5VVRBQi1yYy1PMzAzWUtxTk9MQTh0T2VOWm4ySWhzdHo1YTNmVllQWWpwVjAyc0swRGdBdlNDNEdYRU9wVUJJaUVtNTVONXlUQlBCRERFV0RMbmh2UjBWaDdlUFJsaXpILVE4WFVkVVNxRFRkMnpHM3VHNXVnTVBYTXd5cGtJWGlYZWh5X1NfMklwZGxRWnlB?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T06:06:18.000Z",
-      "summary": "Google is expanding its AI empire â and losing the people who built it CNBC",
+      "summary": "Google is expanding its AI empire — and losing the people who built it CNBC",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -877,26 +1177,14 @@
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
     {
-      "id": "bffb24028d31121b",
-      "title": "é¶å·å¸æ¿åï¼åå±äººå·¥æºè½æ°é¢å¶æ¶ãå¤§æå¯ä¸º - rmzxw.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tTFVQanJiX3BiQi1KM1VBYnJ5NnFLbGUtWTVLcWZvcXBHRGQ4LXdwRWNMMWsxLUZwSUx3VFZhY0w3QXgtd3RhMmxHbndlV3lvT1NsaHRoRE9mRTc2MkE0?oc=5",
-      "source": "Google News · 人工智能",
-      "sourceType": "google",
-      "category": "ai",
-      "publishedAt": "2026-08-06T05:59:02.000Z",
-      "summary": "é¶å·å¸æ¿åï¼åå±äººå·¥æºè½æ°é¢å¶æ¶ãå¤§æå¯ä¸º rmzxw.com.cn",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
-    },
-    {
       "id": "6d83d7fb3ba5d6d5",
-      "title": "å¼ ä¸é¸£ï¼å­èseedä¸ä¼ä¾èµAIè¸é¦ææ¯æ¹è¿æ¨¡å - æ°äº¬æ¥",
+      "title": "�一鸣：字节seed不会依赖AI蒸馏技术改进模型-新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5WVJrS25Yci1kNnhHdkg4S2ZDY0ZUSklSR0JPajFOelgwWnNlVnJxcjFVRUxvSGhrZnZEUi1JLU9DWlpCNDZDSWlXcDF0TWhaalN2N1dKajNva3RQa2JTdENaQS0?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T05:54:00.000Z",
-      "summary": "å¼ ä¸é¸£ï¼å­èseedä¸ä¼ä¾èµAIè¸é¦ææ¯æ¹è¿æ¨¡å æ°äº¬æ¥",
+      "summary": "�一鸣：字节seed不会依赖AI蒸馏技术改进模型新京报",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.159Z"
     },
@@ -926,13 +1214,13 @@
     },
     {
       "id": "37528a6a98169cd9",
-      "title": "'Order A Coffee For Me'âVisa, Mastercard Suddenly Race To Let AI Pay - Forbes",
+      "title": "'Order A Coffee For Me'—Visa, Mastercard Suddenly Race To Let AI Pay - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUW9CRHpIdHMyUFFSQW9VQ3NGaDh2cmI2MjAxSGZYc2tTdXZvY0Rxb1N3Q3l1eExYY3pFMXFoWWx0c3NpSXV4Z0huN2t1WWhkYkdrYTE2OEtzRENLT3dDRjUzRjZBcU9YRWppc2FMM0xlU2FQOHVrXzlZSmV0YWZMNDYxRUxSWVpJTVNPdkFvem14N2g2NW9FcEV2YXFsb1BCT3k2NG15WGJiQWhsM2lBZ3ZyN2JrRkFQZ2c?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T05:36:00.000Z",
-      "summary": "'Order A Coffee For Me'âVisa, Mastercard Suddenly Race To Let AI Pay Forbes",
+      "summary": "'Order A Coffee For Me'—Visa, Mastercard Suddenly Race To Let AI Pay Forbes",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
@@ -949,13 +1237,13 @@
     },
     {
       "id": "47e841607be9d2eb",
-      "title": "åæ¨ä¸æ°´å©å·¥ç¨å­¦é¢èµ´æ±èå®¿è¿å¼å±ææç¤¾ä¼å®è·µæ´»å¨ - åè¥å·¥ä¸å¤§å­¦æ°é»ç½",
+      "title": "土木与水利工程学院赴江苏宿迁开展暑期社会实践活动 - 合肥工业大学新闻网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiYkp2eEtvMmNySEZkckg2SWxmY19VR2VLWEdKYS1KRGFqRFV0bHlVT2NBaGJodC0wbFdtel9zYUo3X3pnRjQ1WEhHYk5yZXhiMndENzhxOA?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T04:32:51.000Z",
-      "summary": "åæ¨ä¸æ°´å©å·¥ç¨å­¦é¢èµ´æ±èå®¿è¿å¼å±ææç¤¾ä¼å®è·µæ´»å¨ åè¥å·¥ä¸å¤§å­¦æ°é»ç½",
+      "summary": "土木与水利工程学院赴江苏宿迁开展暑期社会实践活动 合肥工业大学新闻网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -971,28 +1259,16 @@
       "thumbnail": null
     },
     {
-      "id": "a36f7457cb0afb07",
-      "title": "äººå·¥æºè½åºè¯¥æ¯é ç¦å¨äººç±»çå½éå¬å±äº§åï½ä¸å®¶ç­è¯ - yicai.com",
+      "id": "a99298d092a5cc2b",
+      "title": "人工智能应该是造福全人类的国际公共产品｜专家热评 - 第一财经",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWRTRWQUd0c0hDNUhyTEQ4TzNyTlRYcmNkWF9aSTMwQXh4TVQxWWdiVjhRbExWMlpJbkFYdmdKNDc0d0FyZ2xORk5XSUZfT2oxck9N?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T04:14:39.000Z",
-      "summary": "äººå·¥æºè½åºè¯¥æ¯é ç¦å¨äººç±»çå½éå¬å±äº§åï½ä¸å®¶ç­è¯ yicai.com",
+      "summary": "人工智能应该是造福全人类的国际公共产品｜专家热评 第一财经",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
-    },
-    {
-      "id": "30b4b81f827bc0d1",
-      "title": "äººå·¥æºè½åºè¯¥æ¯é ç¦å¨äººç±»çå½éå¬å±äº§åï½ä¸å®¶ç­è¯ - ç¬¬ä¸è´¢ç»",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWRTRWQUd0c0hDNUhyTEQ4TzNyTlRYcmNkWF9aSTMwQXh4TVQxWWdiVjhRbExWMlpJbkFYdmdKNDc0d0FyZ2xORk5XSUZfT2oxck9N?oc=5",
-      "source": "Google News · 人工智能",
-      "sourceType": "google",
-      "category": "ai",
-      "publishedAt": "2026-08-06T04:14:39.000Z",
-      "summary": "äººå·¥æºè½åºè¯¥æ¯é ç¦å¨äººç±»çå½éå¬å±äº§åï½ä¸å®¶ç­è¯ ç¬¬ä¸è´¢ç»",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:52.159Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "004e30688b7898dc",
@@ -1008,25 +1284,25 @@
     },
     {
       "id": "fcf9cf17466b07f8",
-      "title": "å¹´é¾åªæ¯æ°å­ï¼ç70å²âæ°æ½®é¿å§¨âå¦ä½ç¨äººå·¥æºè½å¶ä½è§é¢ - äº¬æ¥ç½",
+      "title": "年龄只是数字！看70岁“新潮阿姨”如何用人工智能制作视频 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QbjlnRmotajZlS0pOa0RMZ1AtSmlydGxXV0p3TTE3UXRJd3dQMng3VkNXZ1B0Yl85c1dWMTNqRFB0Zl9WOWlsLVVVc19ZZ0tFUlZvNS1TVXB3WHEyTEE?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T03:52:55.000Z",
-      "summary": "å¹´é¾åªæ¯æ°å­ï¼ç70å²âæ°æ½®é¿å§¨âå¦ä½ç¨äººå·¥æºè½å¶ä½è§é¢ äº¬æ¥ç½",
+      "summary": "年龄只是数字！看70岁“新潮阿姨”如何用人工智能制作视频 京报网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
       "id": "c5f876bccbdb45fe",
-      "title": "èç¦âAIï¼ITâèµé éå®äººå·¥æºè½å®è®­åºå°æ­£å¼æè¿ - æ²³åå¹¿æ­çµè§å°",
+      "title": "聚焦“AI＋IT”赛道 雄安人工智能实训基地正式投运 - 河北广播电视台",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RQm1fVEEyblUtQ3NzRUFuM1JaRU1YXzVpT0w1ZEM0MlVkMHFZdEdYRkUxa1E5VTAxbW4zREhGYjlnQ2g2NjdtYkx5T0E1M0JtY1A3dzJobnNac0N4S05V?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T03:51:30.000Z",
-      "summary": "èç¦âAIï¼ITâèµé éå®äººå·¥æºè½å®è®­åºå°æ­£å¼æè¿ æ²³åå¹¿æ­çµè§å°",
+      "summary": "聚焦“AI＋IT”赛道 雄安人工智能实训基地正式投运 河北广播电视台",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.159Z"
     },
@@ -1055,26 +1331,14 @@
       "fetchedAt": "2026-08-06T11:32:08.376Z"
     },
     {
-      "id": "b9b0dfa45d9c32c5",
-      "title": "Artificial Intelligence, Artificial Productivity: A Mismatch Made in Corporate America - HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcFZlX3JrcjcwbWEtMWtJSWh4ZGtYZTdyMEx1bVRHT0JaN05jXy1MdDdHcVBTOU9NQVEyVHZFeXlUeE9FSlN1cVFyclVDcm5hSWZrQzBYVy1JcDAtSEx5aEpjTEw1WWxmTG42dEwxRGg3UXBUd2VrdlAwU0hpUU1RTmd4eTdGYjJ0VkFST2QzMUZjeWNCSjk0UXZ6cXFCc2tBWWJhRVhiV2dFc1U?oc=5",
-      "source": "Google News · AI",
-      "sourceType": "google",
-      "category": "ai",
-      "publishedAt": "2026-08-06T03:40:44.000Z",
-      "summary": "Artificial Intelligence, Artificial Productivity: A Mismatch Made in Corporate America HackerNoon",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:28.322Z"
-    },
-    {
       "id": "ef8b898ae175d7dc",
-      "title": "Weâve Been Here Before-But This Time it Feels Different: AI - Meridian Magazine",
+      "title": "We’ve Been Here Before-But This Time it Feels Different: AI - Meridian Magazine",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFd6SWVRUERIMGlkaThTWkRYWHpDRndTaE9hbHVPcnJaN0ZLcF9hR1dQTDRGa1JXVERjSlQ2eGRQUnBfRC1wVzRjSGI5UFY4anUxSm5YYm9fV0RxNE5oMU0yZERrY0QzaWJiUkxfT3o3WURLaGdFajU5VWtlSzRJNDFvb2Zzb0VwNk1mZWp3?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T03:30:39.000Z",
-      "summary": "Weâve Been Here Before-But This Time it Feels Different: AI Meridian Magazine",
+      "summary": "We’ve Been Here Before-But This Time it Feels Different: AI Meridian Magazine",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -1091,13 +1355,13 @@
     },
     {
       "id": "f61054815c5347e7",
-      "title": "ä¸åºä¸çäººå·¥æºè½å¤§ä¼ï¼ç§åºå¤§æ¹¾åºAIäº§ä¸âå®¶åºâä¸âé£åâ - å¹¿ä¸çç²¤æ¸¯æ¾³åä½ä¿è¿ä¼",
+      "title": "一场世界人工智能大会，照出大湾区AI产业“家底”与“风向” - 广东省粤港澳合作促进会",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XNTdBMjBDQWpaNUlZVnhyYWRNcTFRZ0dlbjBNZFZGeDY0X0ZSNU5sSU1YWlZzX05xQjcxSnRWMU9qeENEbXhxYjEtSG9nWFFMaEE?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T02:45:07.000Z",
-      "summary": "ä¸åºä¸çäººå·¥æºè½å¤§ä¼ï¼ç§åºå¤§æ¹¾åºAIäº§ä¸âå®¶åºâä¸âé£åâ å¹¿ä¸çç²¤æ¸¯æ¾³åä½ä¿è¿ä¼",
+      "summary": "一场世界人工智能大会，照出大湾区AI产业“家底”与“风向” 广东省粤港澳合作促进会",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -1114,16 +1378,16 @@
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
     {
-      "id": "93f0cea4f99a8baf",
-      "title": "ç¦å»ºçäººå·¥æºè½æ ååææ¯å§åä¼æç«å¤§ä¼å¨æ¦å¬å¼ - fj.chinanews.com.cn",
+      "id": "a739120a80003057",
+      "title": "福建省人工智能标准化技术委员会成立大会在榕召开 - fj.chinanews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHMGhLN3dqV2syZ2U0dklPNzNsTWx5cEtrZ0loUk5MZGtBQzdlUEVsd2ZxeFhIb0FyWGdYOWNKSEFHc0FRY0hsNFRmWXV5VHByeDdMeWJhc2FvWHNrTW5tcVVYWkwxSDc3UkF3dy1VUkU?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T02:28:53.000Z",
-      "summary": "ç¦å»ºçäººå·¥æºè½æ ååææ¯å§åä¼æç«å¤§ä¼å¨æ¦å¬å¼ fj.chinanews.com.cn",
+      "summary": "福建省人工智能标准化技术委员会成立大会在榕召开 fj.chinanews.com.cn",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "9c76d151f76e202b",
@@ -1150,40 +1414,40 @@
       "fetchedAt": "2026-08-06T11:32:21.304Z"
     },
     {
-      "id": "724ebb460da9ed0f",
-      "title": "æ°ä¸ä»£äººå·¥æºè½èµè½åæ°å»çæ°èå¼ââç¬¬äºåä¸æåäº¬å¤§å­¦ä¸´åºç§å­¦å®¶å¹å»è®¡åâå¤§è¯¾å âä¸¾å - åäº¬å¤§å­¦å»å­¦é¨",
+      "id": "2a7a7f1bdce0fba8",
+      "title": "新一代人工智能赋能创新医疗新范式——第二十一期北京大学临床科学家培养计划“大课堂”举办 - 北京大学医学部",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DTGRTZzQyb2thaHAtRHgtdnUtbmNqU1VZcnplUEdydURhU0dSSXBwY0xRdnlTWlVwVFlGMzV0TDNSUzdjSVJ0WUw0cnY2WVRZOVZ0bWNpYmpkUGpyS1JNbVlYZFJuVF9TYTE4a2RfTTZKeWhOcnItcnlIZGRIZw?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T02:10:49.000Z",
-      "summary": "æ°ä¸ä»£äººå·¥æºè½èµè½åæ°å»çæ°èå¼ââç¬¬äºåä¸æåäº¬å¤§å­¦ä¸´åºç§å­¦å®¶å¹å»è®¡åâå¤§è¯¾å âä¸¾å åäº¬å¤§å­¦å»å­¦é¨",
+      "summary": "新一代人工智能赋能创新医疗新范式——第二十一期北京大学临床科学家培养计划“大课堂”举办 北京大学医学部",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "88305a19861fb21e",
-      "title": "ç åæèº«ä¸åæFDEï¼ç¾è¡é¾å¤´å¼é¢AIè½å°æ°æ¨¡å¼ æºæï¼è®¡ç®æºæ¿åæè¿æ¥éä¼° - è´¢èç¤¾",
+      "title": "�农摇身一变成FDE？美股龙头引领AI落地新模式机构：计算机板块或迎来重估-财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XbEhVcm95S3lWTVNQRDlwaGxRYzI4NWVTdW5QdFFQRkR2RkFvQnpELVJBZzZ5TXFlaDh2N2VJa2E3VzYxOEp6SA?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T02:09:02.000Z",
-      "summary": "ç åæèº«ä¸åæFDEï¼ç¾è¡é¾å¤´å¼é¢AIè½å°æ°æ¨¡å¼ æºæï¼è®¡ç®æºæ¿åæè¿æ¥éä¼° è´¢èç¤¾",
+      "summary": "�农摇身一变成FDE？美股龙头引领AI落地新模式机构：计算机板块或迎来重估财联社",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.158Z"
     },
     {
-      "id": "f5cee9f67b8ec90e",
-      "title": "å±±ç«æ¾äººå·¥æºè½ãæ äººæºææï¼ç§æè½å¦åä»£æ¶é²åï¼ - BBC",
+      "id": "bc61386ffd227e5b",
+      "title": "山火找人工智能、无人机扑救：科技能否取代消防员？ - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43aG9pUk9xeVZ1VC1MRTdjNWZmcXJDcUFNMElLR2tCTVVLT21LeFg3bmhXV192SF9GWkN0MVhnV0d2SVJfXzlja09wdEhZTG1oLWpGQ1pFbjVIR0pqYVNtUjQ0N1p4d9IBa0FVX3lxTE0zYkFVY2w4ODF2MURsZ1V0NEduNzJUTkdranA2bVBrMWw4Vl9UeWM5bGFtdlFIeS1BSDhobHh4ZDR6MC1Td1p0Z1FCbzRqV09OOXVERDVLVmRGZzNOdFFKaG5kSk5HYUJRWVVz?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T02:02:49.000Z",
-      "summary": "å±±ç«æ¾äººå·¥æºè½ãæ äººæºææï¼ç§æè½å¦åä»£æ¶é²åï¼ BBC",
+      "summary": "山火找人工智能、无人机扑救：科技能否取代消防员？ BBC",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "6748cee5079186fd",
@@ -1211,13 +1475,13 @@
     },
     {
       "id": "5ea86addd1af3457",
-      "title": "AIæåæ²¿ | ç¹çº¦ä¸é¢: çæå¼äººå·¥æºè½çå®å¨ä¸ä¼¦ç - æºæºç¤¾åº",
+      "title": "AI最前沿 | 特约专题: 生成式人工智能的安全与伦理 - 智源社区",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JTUNtYmIza1JkeUVYTE94SzVJcktJUlhPaGVGeV9NVGtrcmNCS2lUVTJvN3FJQ3lXMEYydU5FdHhXZ0NpZF9tMw?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T01:35:00.000Z",
-      "summary": "AIæåæ²¿ | ç¹çº¦ä¸é¢: çæå¼äººå·¥æºè½çå®å¨ä¸ä¼¦ç æºæºç¤¾åº",
+      "summary": "AI最前沿 | 特约专题: 生成式人工智能的安全与伦理 智源社区",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -1235,25 +1499,25 @@
     },
     {
       "id": "38ecbba31371c1de",
-      "title": "çå°ç¡®å®ç£å±±Â·AIè°·ä¸ºäººå·¥æºè½åå¯¼åº-çå°è¦é» - æ°´æ¯ç½",
+      "title": "烟台确定磁山·AI谷为人工智能先导区-烟台要闻 - 水母网",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5obDJsQVlhN0NUbmlndzZ4SnZDaWFkSnY3T01mVG5VRWc2cF9GelFJcXdBbTFDLUUxaW90UGRZSmZzbmx2UGVyYVEyenBScW5rUnlzY0hlT05FYkpERjE3TmhJMHA?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T00:59:20.000Z",
-      "summary": "çå°ç¡®å®ç£å±±Â·AIè°·ä¸ºäººå·¥æºè½åå¯¼åº-çå°è¦é» æ°´æ¯ç½",
+      "summary": "烟台确定磁山·AI谷为人工智能先导区-烟台要闻 水母网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
       "id": "e8ba617bbf3dd9a1",
-      "title": "æ»æèµ18äº¿åï¼åæå¨å½äººå·¥æºè½äº§ä¸é«è´¨éåå±æ æå­åºââç£å±±Â·AIè°·ææ¥å¼å­-çå°è¦é» - æ°´æ¯ç½",
+      "title": "总投资18亿元，剑指全国人工智能产业高质量发展�杆园区——磁山·AI谷明日开园-烟台要闻-水母网",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XdDlfZFhBa3J6eDZNRjdla0R2T1V2MFRHM1hpVXBxYmcxdDIxWTM5TkpYX19wLTJyZG1pUzlkYS1IdmU0N3ZOdG1zQ1BGMjhRSVplUXN1SG1MNU05Y1dTZllIbEs?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T00:59:20.000Z",
-      "summary": "æ»æèµ18äº¿åï¼åæå¨å½äººå·¥æºè½äº§ä¸é«è´¨éåå±æ æå­åºââç£å±±Â·AIè°·ææ¥å¼å­-çå°è¦é» æ°´æ¯ç½",
+      "summary": "总投资18亿元，剑指全国人工智能产业高质量发展�杆园区——磁山·AI谷明日开园-烟台要闻水母网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -1271,13 +1535,13 @@
     },
     {
       "id": "5809ff665aea3805",
-      "title": "åäº¬ç»å¼åºæ­£æä¸ºAIæèµç­å ä¸åå¹´8å®¶äººå·¥æºè½ä¼ä¸è·è¶150äº¿åèèµ - beijing.gov.cn",
+      "title": "北京经开区正成为AI投资热土 上半年8家人工智能企业获超150亿元融资 - beijing.gov.cn",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qWmZqdkJQMzk1U0hUcEpSR0ZQQ0pfVTA1NUttcTNfMXpXWm1FU0hrUW5aTk1DTzJsVWtOZ1dBaGVzczBjRWVpYjV6aXFCa1hRd3NzTERxOGNuVDZaTlVIa21XN2pHaXFyX1ZFZk4xd1pVS3J5bmpEdTl0Zw?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-06T00:22:00.000Z",
-      "summary": "åäº¬ç»å¼åºæ­£æä¸ºAIæèµç­å ä¸åå¹´8å®¶äººå·¥æºè½ä¼ä¸è·è¶150äº¿åèèµ beijing.gov.cn",
+      "summary": "北京经开区正成为AI投资热土 上半年8家人工智能企业获超150亿元融资 beijing.gov.cn",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -1304,6 +1568,18 @@
       "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
       "thumbnail": "https://media.wired.com/photos/6a73a2815ac7830744b43e7a/master/pass/080526-openai-agent-hacking.jpg",
       "fetchedAt": "2026-08-06T11:31:49.848Z"
+    },
+    {
+      "id": "f617885ce6c311d4",
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - wired.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
+      "source": "Google News · AI Agent",
+      "sourceType": "google",
+      "category": "agent",
+      "publishedAt": "2026-08-06T00:15:00.000Z",
+      "summary": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree wired.com AI agents fake identities, target real people in new security incident CNN How worried should we be about AI rogue agents? The Week Meta becomes latest firm to say its AI hacked another company BBC AI agen",
+      "thumbnail": null,
+      "fetchedAt": "2026-08-06T13:52:17.363Z"
     },
     {
       "id": "ee82f35bcb22778c",
@@ -1355,37 +1631,37 @@
     },
     {
       "id": "bbc1ca1e69fd96f4",
-      "title": "äººæ°æ¥æ¥ï¼é©¾é©­å¥½äººå·¥æºè½è¿å¹åéé©¬ - thepaper.cn",
+      "title": "人民日报：驾驭好人工智能这匹千里马 - thepaper.cn",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96TVN1LUZHTnJibXI5V05KZUxpdlNKZDkxNm9TVkszY1FjcmdVT3JNZ2FXQ3B5Y0ItdVhVSDJULUphdUUwTmpDczczaHI2TlR5ZHdBZFRqOTBKU2pPS2otcQ?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T23:07:00.000Z",
-      "summary": "äººæ°æ¥æ¥ï¼é©¾é©­å¥½äººå·¥æºè½è¿å¹åéé©¬ thepaper.cn",
+      "summary": "人民日报：驾驭好人工智能这匹千里马 thepaper.cn",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
       "id": "a748f9de501c0c63",
-      "title": "ç¾å½å½åæèµ·åAIä¸­å¿æµªæ½®ï¼ç¹ææ®æ±¡èï¼ä¸­å½èåæ£é¬¼ - å¤å°ç½",
+      "title": "美国国内掀起反AI中心浪潮，特朗普污蔑：中国背后捣鬼 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQQ2xlYmhLTDNfMURVTTlBYVQ0aFJvZEJsTHFtUEZzRWkxbmJxQ0hXeFBSRkwzQ08xbDcydlZxZkZISlY5OHJlMmVIRWM?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T23:05:04.000Z",
-      "summary": "ç¾å½å½åæèµ·åAIä¸­å¿æµªæ½®ï¼ç¹ææ®æ±¡èï¼ä¸­å½èåæ£é¬¼ å¤å°ç½",
+      "summary": "美国国内掀起反AI中心浪潮，特朗普污蔑：中国背后捣鬼 凤凰网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
       "id": "6f5a6171f2bf3724",
-      "title": "ç¾å½å½åæèµ·åAIä¸­å¿æµªæ½®ï¼ç¹ææ®æ±¡èï¼ä¸­å½èåæ£é¬¼ - è§å¯è",
+      "title": "美国国内掀起反AI中心浪潮，特朗普污蔑：中国背后捣鬼 - 观察者",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqUjJHN0RyNU5tMFFrelpaaG1kel83ZHpvQmdFTHRkRjZxRDd4Q0Q2TjZWS042anhXNTFXbmRWa0tDSUJubEdxckxBUjhvWDhfUjdMeGV5MEN4MzlYV2trZUk0WFVYdnN6TFE?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T23:05:00.000Z",
-      "summary": "ç¾å½å½åæèµ·åAIä¸­å¿æµªæ½®ï¼ç¹ææ®æ±¡èï¼ä¸­å½èåæ£é¬¼ è§å¯è",
+      "summary": "美国国内掀起反AI中心浪潮，特朗普污蔑：中国背后捣鬼 观察者",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -1402,26 +1678,14 @@
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
     {
-      "id": "9b58c364883021a5",
-      "title": "50 States, 50 Different Ways: Who Owns AI Once It's Deployed? - govtech.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajVoYUV5MkI2Q1hFUlpCNzJ3Uk5rdWQzR2RrZFRZdXYtc3dZcGg2ZG94YU9NQ3JSNThCaUNiNmVPaGQ0LXRnOVJURDNSUGljVXpFYVhkd25WWEZIblM1YUNpV2ZUd2YzT2xBTEQwMVcwWFljT3Y1a1hLMGRWWXZBVmh6cUVGcXA2aExNOHlOY3BmaGVLVFE?oc=5",
-      "source": "Google News · AI",
-      "sourceType": "google",
-      "category": "ai",
-      "publishedAt": "2026-08-05T22:54:14.000Z",
-      "summary": "50 States, 50 Different Ways: Who Owns AI Once It's Deployed? govtech.com",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:28.322Z"
-    },
-    {
       "id": "f21f4398300551b0",
-      "title": "âç¨ç¾å½AIåå½æ¿å®¢ï¼ç¨ä¸­å½æ¨¡åæåæäºå®¶â-è§å¯èç½ - è§å¯è",
+      "title": "“用美国AI像当房客，用中国模型才像有了家”-观察者网 - 观察者",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54Vm56UUdLOHBidmhCajZGSlRuTnU3QjgzZ1J4R1h5SkVCVGRLTTF5ckZONHJfd2E3anFyMDFFdl83TFpSd2YteXBraDdrbm1mMzg3TUk0eFc4N1J2RzRET0J5dVNVSl92Rmc?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T22:42:00.000Z",
-      "summary": "âç¨ç¾å½AIåå½æ¿å®¢ï¼ç¨ä¸­å½æ¨¡åæåæäºå®¶â-è§å¯èç½ è§å¯è",
+      "summary": "“用美国AI像当房客，用中国模型才像有了家”-观察者网 观察者",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -1439,49 +1703,49 @@
     },
     {
       "id": "f0faef193d228ee5",
-      "title": "Big shake-up in Googleâs AI team as DeepMind chief executive steps down - The Guardian",
+      "title": "Big shake-up in Google’s AI team as DeepMind chief executive steps down - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmZiMGs5QTRuZEtKWWZkNUVCUkc1ODY5aXhxUjd0cThoLXNyNnh2dV9NRjBkU0hlM0c5WW1PdGUwYkFZanluU2puUnZyblJQemF6bWxrUC1DZWJ6UDRHZEwxVWthd1JHMlJOQXF3NE1sMVVNa3dFNEltTlM1Tjg1eEFiN0RIb3pVYVhZUmtWa1dSX0JSclNVR2xWUUNKRUtBZG5xR25mUXhDY2JJZWxhLVkzc1FYTFYta1pWRWtB?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T22:38:00.000Z",
-      "summary": "Big shake-up in Googleâs AI team as DeepMind chief executive steps down The Guardian",
+      "summary": "Big shake-up in Google’s AI team as DeepMind chief executive steps down The Guardian",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
     {
       "id": "bfa9ba95219f3edc",
-      "title": "åºå±çªç ´ç­ç¢äººå·¥æºè½ææ¯æ ¹åº - ä¸­å½ç»æµç½",
+      "title": "底层突�筑牢人工智能技术�基-中国经济网",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqQXB1clJSU0k0OWVsX1pkWXd4ZFBIcmRpai0ybDZRMVFhcHRBRE5VVzdDUmFxVDJROFEyUndkbk1GSC1NX3JRLW5YNWp6cFVxbWM1NHp3TlpEbEwxaDJMV2Z5MUxUZlV5QkpQUkIzVQ?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T22:23:00.000Z",
-      "summary": "åºå±çªç ´ç­ç¢äººå·¥æºè½ææ¯æ ¹åº ä¸­å½ç»æµç½",
+      "summary": "底层突�筑牢人工智能技术�基中国经济网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
       "id": "2df0955d3c5c2a78",
-      "title": "Figmaâs stock falls as the companyâs AI push requires steep investments - MarketWatch",
+      "title": "Figma’s stock falls as the company’s AI push requires steep investments - MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2hoaDhlaXhMckpWeTU4TlkxNHRMTTVnMm4xa3Q0YzVsM3JmeVRfWXJZWDZlakxJYWFMN3dKRmUySjVfeVRzY0p0UHE4ajJZOUFqNXlLSE9BSE9SSlhmYWNRRGJoc2FsMVpHNThvTlBhYUxjX2hBR1RialNqTkI1Y3MwM1U3SnhvTTBIdU1CdzVYakdpSi1SeA?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T22:12:00.000Z",
-      "summary": "Figmaâs stock falls as the companyâs AI push requires steep investments MarketWatch",
+      "summary": "Figma’s stock falls as the company’s AI push requires steep investments MarketWatch",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
     {
       "id": "df1b89bf6223f5e8",
-      "title": "ç½å®«ä¸ºä½å¬éç¾å½äººå·¥æºè½ä¼ä¸å¼ä¼ï¼ - å¤©æ´¥æ¥æ¥",
+      "title": "白宫为何召集美国人工智能企业开会？ - 天津日报",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGpHeUdCVW9LcmhzWTlQaHF4d3pUcElXWDJkenR4NlBvbzhVSzVha2JFMGtBcjNGZWFndnVzMFdSRzI4Sk1TZzRXNlJkYW16eXA5QUU4Z0N3dmdRLVRfZElhVEd0ODBFMkJHWWRaM28tYUo5cUR4endVb3dFdGYzcGJR?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T22:05:39.000Z",
-      "summary": "ç½å®«ä¸ºä½å¬éç¾å½äººå·¥æºè½ä¼ä¸å¼ä¼ï¼ å¤©æ´¥æ¥æ¥",
+      "summary": "白宫为何召集美国人工智能企业开会？ 天津日报",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -1559,25 +1823,25 @@
     },
     {
       "id": "76b89cb9e785eeec",
-      "title": "Cloudflare OS: Hereâs Whatâs Inside the Open-Source AI Agent Platform - Decrypt",
+      "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform - Decrypt",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGFFSTNsY2FYQlRxUFEzVW1zdnJMVFB1cEJ5SHVELVZ3a2lGX2Q2RWNLVWZjU1ROMDhMWERIU1l2STQ3Rnl1MjhIdzFSa25hWURyU3ZPamNmUWNnV01oYThENE5MXzNSSG5lZmlxOVpidHBHUlkwY3pFNVV5VnNKblV30gGKAUFVX3lxTE9xT1ZMMGZTNW5hODhqSURleHhJLTdEVVNNQVpGZlpOSUJ6V3ZJQ3RFaTZqVTJRUEpqZlFibVpTblZpTEptRmpwWTdhZ05MZDJRbmpFQUU4OXJwNzFVN3kxT2lBVWJIUnRhRXBLTi1tMU1ZeERYRXo5ZU1PdTB3SnlRLXlvMW5xdmduUQ?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-05T20:46:03.000Z",
-      "summary": "Cloudflare OS: Hereâs Whatâs Inside the Open-Source AI Agent Platform Decrypt",
+      "summary": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform Decrypt",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.304Z"
     },
     {
       "id": "60ba9933a5ed6aa8",
-      "title": "Armed With $10 Billion, Sequoiaâs Leaders Plan Its New Era - Bloomberg.com",
+      "title": "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekVpOV9WWE1ka1pXZUdwMFJ5dnZ3ZjNHcWlFdmo5b3VhckxZamZrQWkxODNGU0c5VnliZGQ5MjVzV2VnRU9HVmdXOTB2MW5uVFp6Yy1YVDdHa2JaM1NoNkt1TWZlakN1UUdsT0o0WnAzSlUwQlEzWV9jSlVZVjlQTXpyQVpiY1lCMUhGZWdSMk5CSW15Nlc3Wmc2Z0NjYjdaZWc?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T20:35:41.000Z",
-      "summary": "Armed With $10 Billion, Sequoiaâs Leaders Plan Its New Era Bloomberg.com",
+      "summary": "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era Bloomberg.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -1619,13 +1883,13 @@
     },
     {
       "id": "0e95690b4bb4d661",
-      "title": "âOur AI Agent Rewrote Our App Without Telling Usâ The Agents #12 is Here! - saastr.com",
+      "title": "“Our AI Agent Rewrote Our App Without Telling Us” The Agents #12 is Here! - saastr.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmxNTjJJWEZleXVwVGhxTmJqU3h2WDRtdVFYZUloSDFWc1dGMGhUbm0tY0t2WjgwWmxBZmVXTmRyaXFhc1VKTjFGXzA1YkZ6SDEzTzZhME8wbDVfN19nVjA3QVBHbTFta1UyaTI5UlJzdmI1UTMwY0M3d1hEQW9vOUFkREhmdzl5dGhFTHlyUGdoUGl4V1UyMQ?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-05T20:04:58.000Z",
-      "summary": "âOur AI Agent Rewrote Our App Without Telling Usâ The Agents #12 is Here! saastr.com",
+      "summary": "“Our AI Agent Rewrote Our App Without Telling Us” The Agents #12 is Here! saastr.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
@@ -1822,13 +2086,13 @@
     },
     {
       "id": "216e437934951d00",
-      "title": "Teamâs AI agent to speed Alzheimerâs treatment - Vanderbilt Health News",
+      "title": "Team’s AI agent to speed Alzheimer’s treatment - Vanderbilt Health News",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRTJ3ekI3YWVLbklqWUFPblZPS1IzTDN1a2lVdmFfaFNaVUEySDdvbDRPdEJjcEZwZ1loSGJRbVFtODBFVjdkQVJLM3hYNWd0UFA4cVZCZUpTaEUyT2hzWEhZMFQ2Tkt0MjF2STB5UUNnQ1Fwc3JsaGpMS01lTkc1Tmh2OHU?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-05T18:21:17.000Z",
-      "summary": "Teamâs AI agent to speed Alzheimerâs treatment Vanderbilt Health News",
+      "summary": "Team’s AI agent to speed Alzheimer’s treatment Vanderbilt Health News",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
@@ -1845,16 +2109,16 @@
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
     {
-      "id": "d0c4cd0de04644cf",
-      "title": "çç»´ä¸é¢è°ç æ°æ®åäººå·¥æºè½å·¥ä½ - suzhou.gov.cn",
+      "id": "49504880bb5a140c",
+      "title": "王维专题调研数据和人工智能工作 - suzhou.gov.cn",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmluVGQ4X1ByU3RIRUhTcWtPdGY2X0UzVWd2aF82STc1RmFJUVdWeWpBUmx4b2tTSU9vRDgtZFRwNjd2dDFmS0Y0UWpZRTlQa3ZDZTE4RENLZFVTYnUwVFhiV1p6dnpWMUJhLVVTZk1QSG9MMzhfbWh5YkZaZjRZaXY1eWlTbHQyQ1FR?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T17:10:00.000Z",
-      "summary": "çç»´ä¸é¢è°ç æ°æ®åäººå·¥æºè½å·¥ä½ suzhou.gov.cn",
+      "summary": "王维专题调研数据和人工智能工作 suzhou.gov.cn",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "7098c138aaba0ed9",
@@ -1990,13 +2254,13 @@
     },
     {
       "id": "e8f0eeed3e509451",
-      "title": "AIéä½åä¸é¨æ§ï¼ç¾å½âä¸äººå¬å¸âå¹´æ¶å¥å¯è¾¾åä¸ï¼è±å½16å²å°å¹´è¾å­¦åä¸ä¼°å¼33äº¿ç¾å - æ°æµªæ°é»_ææºæ°æµªç½",
+      "title": "AI降低创业门槛：美国“一人公司”年收入可达千万，英国16岁少年辍学创业估值33亿美元 - 新浪新闻_手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YQTh2OUlfUUt2bTl5bkpMaU5IT0lJclpCeU9aU3Zaa1JuOHdaN20tbXZPWXctdGo3QktiRG9BeFpTME5RS0lhUWF6QlJteGVIVXpHMUdBX0p3cWVxT2VQUWZ6UmtqR1ZKaVdGM2NvOGUzeG9YNjM1Qg?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T15:58:00.000Z",
-      "summary": "AIéä½åä¸é¨æ§ï¼ç¾å½âä¸äººå¬å¸âå¹´æ¶å¥å¯è¾¾åä¸ï¼è±å½16å²å°å¹´è¾å­¦åä¸ä¼°å¼33äº¿ç¾å æ°æµªæ°é»_ææºæ°æµªç½",
+      "summary": "AI降低创业门槛：美国“一人公司”年收入可达千万，英国16岁少年辍学创业估值33亿美元 新浪新闻_手机新浪网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -2253,50 +2517,39 @@
     },
     {
       "id": "9b89fb462b83e70f",
-      "title": "æ±èççæå¼äººå·¥æºè½æå¡å·²å¤æ¡ï¼ç»è®°ï¼ä¿¡æ¯å¬åï¼2026å¹´8æ5æ¥ï¼ - æ±èç½ä¿¡",
+      "title": "江苏省生成式人工智能服务已备案（登记）信息公告（2026年8月5日） - 江苏网信",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jX2VEeS1STU9jcXBYd2puQXhidW82YloyaWhiVkw4WWhfc1hiQkJHSFQ2LXhNN05selg2T2ZPNzJhTVpDYV9BeW95RXBLZU44U013YXR0UDZvZjFHNGtxSkZZZVFHUFFLaDBGUjhpY1E4Zw?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T10:08:00.000Z",
-      "summary": "æ±èççæå¼äººå·¥æºè½æå¡å·²å¤æ¡ï¼ç»è®°ï¼ä¿¡æ¯å¬åï¼2026å¹´8æ5æ¥ï¼ æ±èç½ä¿¡",
+      "summary": "江苏省生成式人工智能服务已备案（登记）信息公告（2026年8月5日） 江苏网信",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
       "id": "4df7a0d0d4472764",
-      "title": "âå¦æç¾å½è½å°éAIï¼ä»ä»¬å°åæ§å¶å¨çåæ¹200å¹´â-è§å¯èç½ - è§å¯è",
+      "title": "“如果美国能封锁AI，他们将再控制全球南方200年”-观察者网 - 观察者",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXbG5GbUZLZVNFZG1GUnVZY29VOVEwMkJnRE9qeHVqN2h4dHZIejU2a2JVMzVmdnYwZDdQYmVXd09mNXV2cFhZRFBuNzNoaEM4eFlhVENQei1jakVQeXh5N1NOaS1pLWNwZUE?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T09:56:00.000Z",
-      "summary": "âå¦æç¾å½è½å°éAIï¼ä»ä»¬å°åæ§å¶å¨çåæ¹200å¹´â-è§å¯èç½ è§å¯è",
+      "summary": "“如果美国能封锁AI，他们将再控制全球南方200年”-观察者网 观察者",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
       "id": "21ef4dac2d483b4d",
-      "title": "Salesforce previews plans to deliver newly authorized âAI agentsâ across DOD - DefenseScoop",
+      "title": "Salesforce previews plans to deliver newly authorized ‘AI agents’ across DOD - DefenseScoop",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3NHd19KYURPWGpxRFh4MVktUS1uNXNlM1B0YXVtUk1IaUhYSzZpeHphYUZGRjlDUHNqTTlOaV9lWGRlYUxTa25Zdk41WWZpa20wVEJtWUZLOHp0cUx1d2dOYUQ5T05UZTNpbTV3RGt1aG1qNmJUNC1lZ1k5U2RZblAzTkEyYVdEeFRrSHYtNF8xcmsySnp5bmN2VHlVOXpU?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-05T09:02:13.000Z",
-      "summary": "Salesforce previews plans to deliver newly authorized âAI agentsâ across DOD DefenseScoop",
+      "summary": "Salesforce previews plans to deliver newly authorized ‘AI agents’ across DOD DefenseScoop",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:35:13.124Z"
-    },
-    {
-      "id": "sample-0008",
-      "title": "TikTok 热门：#AI 挑战最新 Agent 演示",
-      "url": "https://www.tiktok.com/tag/ai",
-      "source": "示例 · TikTok #AI",
-      "sourceType": "tiktok",
-      "category": "ai",
-      "publishedAt": "2026-08-05T09:00:00.000Z",
-      "summary": "短视频创作者分享 AI 工具实测与 Agent 自动化演示，播放量持续攀升。",
-      "thumbnail": null
     },
     {
       "id": "4e8182b3a54b1a96",
@@ -2311,16 +2564,16 @@
       "fetchedAt": "2026-08-06T11:31:49.848Z"
     },
     {
-      "id": "255e96922f886fcc",
-      "title": "äººå·¥æºè½æ¿ç­èµéé¦æ¹åç°è½å°ï¼æ å54ä¸ªä¼è´¨åæ°é¡¹ç® - åäº¬å¸æèµä¿è¿æå¡ä¸­å¿",
+      "id": "ed2a15eb682d7884",
+      "title": "人工智能政策资金首批兑现落地，惠及54个优质创新项目 - 北京市投资促进服务中心",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSbTZvbUZDY0R5SF9hck5HMERjaExiNHlGYkI3dkRwRWFqdEdmUnFZeTBaM2FJZGtfdFZGQ25WcEhqRmM4Znh5R1g0Zlk3U2tyUmlsa1pGOUNOWDZFTVpRRjdNWjY2UllBNTRqWXhoajdlV05KQ09RNHpaRQ?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T07:36:00.000Z",
-      "summary": "äººå·¥æºè½æ¿ç­èµéé¦æ¹åç°è½å°ï¼æ å54ä¸ªä¼è´¨åæ°é¡¹ç® åäº¬å¸æèµä¿è¿æå¡ä¸­å¿",
+      "summary": "人工智能政策资金首批兑现落地，惠及54个优质创新项目 北京市投资促进服务中心",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "27de5f6291b0cf04",
@@ -2360,37 +2613,37 @@
     },
     {
       "id": "ff5f1fdabe440860",
-      "title": "å¨ä¸­å½ï¼äººå·¥æºè½æ­£å¨æ§æ¯è¶æ¥è¶å¤çå·¥ä½å²ä½ï¼èæ¿åºçååºå´çé¦çå°¾ - RFI",
+      "title": "在中国：人工智能正在摧毁越来越多的工作岗位，而政府的反应却畏首畏尾 - RFI",
       "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPb2IxY3p5ekZEQXN1ejBUcmJsa3Bsd1lXVElCUklVQnd5RDBralUyYnQ0azV5X0Z0bmdEYU1zLVd2UzBzTjNVY2ozOFRWb0RSS3F3eXAwd0JXNXBwcEZlQ3ZxNHRQUkk0LWhOREU3djFudXJfcXZDVFpSQy0yWnlRQWRhNEEyV2RtS1MzYzdtV1owVTVrcm9EVV9vRjlaMzYyNzhPV3c5aXI1N041SUc5eTN1cGk2VXR4d01pTnJ6bjltQkxGVUFPVjJlb1RzYzI4MkNZZVZrTTA5YkdQNzlKLWQxbXJ3R3hjcEl0X0lVdVZtOGJPRmYxcG5kRGZ0QUJZcm1CblQ3Qmw0ZWg4VG5fWWRWaHc4ZWFzdklLTlRTdkc3dno1UU1JRDBWSEJ0cUpWbldrNVhHWGZnVTJWdzlvMXg0RWJWZXdJa0RtVndoeXZrTVVORHJ4TWFVZVFGVkRaYU5oWWRzTXRNbHJpOExFS3Ewc1VQdXc4WlFUUUJZaDlpMzJYWW1VZ1MyWmQ3T1ZyN1lQTzNSVXgySzlqem5xYktqYW4wNExMY0pvZGlYeXRlWERhSC1IRU10TVRmUklIaF94OTJ5Q19ZZ0E1YnQyb0dCaDlyNkVQSUI1a3VoNkI?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T02:40:16.000Z",
-      "summary": "å¨ä¸­å½ï¼äººå·¥æºè½æ­£å¨æ§æ¯è¶æ¥è¶å¤çå·¥ä½å²ä½ï¼èæ¿åºçååºå´çé¦çå°¾ RFI",
+      "summary": "在中国：人工智能正在摧毁越来越多的工作岗位，而政府的反应却畏首畏尾 RFI",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.158Z"
     },
     {
       "id": "ac46abeba3304b64",
-      "title": "å¤¯å®äººå·¥æºè½åå±çå¶åº¦ä¿é - ç»æµå½¢å¿æ¥åç½",
+      "title": "夯实人工智能发展的制度保障 - 经济形势报告网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WRFVBcVEtcHoxaE5ZQnpqZEZCNDZKdVI0WWwwd1p0UEpYbTZTUDRtcGtfbUhNYWlfdk0yUnVDMWgyQktFVEpoQWx4SFVubFRnXzlmWVY1czlMS1pLbGlBS1V3?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T02:40:16.000Z",
-      "summary": "å¤¯å®äººå·¥æºè½åå±çå¶åº¦ä¿é ç»æµå½¢å¿æ¥åç½",
+      "summary": "夯实人工智能发展的制度保障 经济形势报告网",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T12:17:52.159Z"
     },
     {
       "id": "ea7c0277fcbda881",
-      "title": "ãæ°åç¤¾ãå¨çå¤©æä¸å®¶å±æ¢âäººå·¥æºè½+å¤©æâ åå±è·¯å¾ - ä¸­å½ç§å­¦é¢",
+      "title": "【新华社】全球天文专家共探“人工智能+天文” 发展路径 - 中国科学院",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41LWpTekdoRDRQUWVuSFd5WEVRT3A0by1uNXdLVjBHT0pUWVpmbnFBWG4wTzRvNGV6TXlYNWpLSTJPUUtIeU8ySTE4SjNJenZQWDFlT2FHS0dDRl92MkJNem1n?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T02:31:43.000Z",
-      "summary": "ãæ°åç¤¾ãå¨çå¤©æä¸å®¶å±æ¢âäººå·¥æºè½+å¤©æâ åå±è·¯å¾ ä¸­å½ç§å­¦é¢",
+      "summary": "【新华社】全球天文专家共探“人工智能+天文” 发展路径 中国科学院",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -2406,16 +2659,16 @@
       "thumbnail": null
     },
     {
-      "id": "d357f29aa758cdff",
-      "title": "ä¿æ30%ä»¥ä¸é«å¢é¿ æå½äººå·¥æºè½èªä¸»åæ°æ­¥ä¼å å¿« - äººæ°ç½",
+      "id": "338aaa9fc8b6d3a6",
+      "title": "保持30%以上高增长 我国人工智能自主创新步伐加快 - 人民网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zekNnN3dpcGxQaGlUZ0dCWEo4Ulg4dDMxMGxkaWh4QkZoMnNYR2tPaXU5NXpuV3FhdHNvbUlfeGtkLXlwSVVFanVQcFRTcnRqWGxodnhaWnVqVWM1c3prZXIxcDQxeTJLTll5OGN3?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T01:06:00.000Z",
-      "summary": "ä¿æ30%ä»¥ä¸é«å¢é¿ æå½äººå·¥æºè½èªä¸»åæ°æ­¥ä¼å å¿« äººæ°ç½",
+      "summary": "保持30%以上高增长 我国人工智能自主创新步伐加快 人民网",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "d1a45e36fbebac67",
@@ -2431,51 +2684,39 @@
     },
     {
       "id": "d204d45a1efdc715",
-      "title": "å¦ä½åºå¯¹ä¸­å½å¼æºAIæ¨¡åï¼ç¹ææ®æ¿åºåé¨äºè®ºåçº§ - cn.nytimes.com",
+      "title": "如何应对中国开源AI模型？特朗普政府内部争论升级 - cn.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzk5Nzc2cGhfQUdfNUtfWFNHeng4Qkc1SWZvN0c2aEs4UFhWVUNyckVLYm9OUXFvMm5vU3FIRVFGSDR4d01OdTNwZ3VKNzRRWHZ3U3dlZ1lsVk5lVzVBZ2NhQThwQlVETG15QjFIbFotMWJlWEdTQno1UzJyLXdnRjd2cw?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-05T00:11:08.000Z",
-      "summary": "å¦ä½åºå¯¹ä¸­å½å¼æºAIæ¨¡åï¼ç¹ææ®æ¿åºåé¨äºè®ºåçº§ cn.nytimes.com",
+      "summary": "如何应对中国开源AI模型？特朗普政府内部争论升级 cn.nytimes.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
       "id": "83dea2f555e45942",
-      "title": "æ³å½ä¸çæ¥ - äººå·¥æºè½ï¼æä»¬è¿è½çæ­£æ§å¶å®åï¼ - rfi.fr",
+      "title": "法国世界报 - 人工智能：我们还能真正控制它吗？ - rfi.fr",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQ25yTnBUVnp1LTdFTnNfZlg4WG1rM3c0N3pWbHdfaGlmaFhMMWs0UkNQSk85UzhnNjlNQTdaZFpJLUVFcU81cjBTdjdwZnBmRUJUdXVyd0JScF92eE9ib091V3hwQXdOdE4tcjdSd1JUQ0pxYnFsMmIxTGd1ZlRyRmtUYVExQVJmNzAwOFBSdG5WNHU0OHhtc1VHdjJzeEVpYWJYVWc0cmZLRGJyR1g1VHBPbTVqSHFSSzZ6MTJDcG5GM1NJTE1ZSmZIU1Vpb2dOcktuS2RIMDdCLVA0S19lSXpwM01Tb1ZLNFI0dXNfRmJ0UFdIQlNqLVdlSWQ4VE9JNUgzOU1ZQzE0S1NMS0RZQTZZZFhCdDh6Y1ViTDJ4clEya0lTUzRsbW5lS2ozTmRVVGcxMThTRHpfVVM1SHY1bjNZX0wwU2Z2ZVBsaWlWS21wRFVXWGpoUGRuamlJZw?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-04T23:59:00.000Z",
-      "summary": "æ³å½ä¸çæ¥ - äººå·¥æºè½ï¼æä»¬è¿è½çæ­£æ§å¶å®åï¼ rfi.fr",
+      "summary": "法国世界报 - 人工智能：我们还能真正控制它吗？ rfi.fr",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
     {
-      "id": "c8ab94e9bdfeec98",
-      "title": "æ³å½ä¸çæ¥ - äººå·¥æºè½ï¼æä»¬è¿è½çæ­£æ§å¶å®åï¼ - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQ25yTnBUVnp1LTdFTnNfZlg4WG1rM3c0N3pWbHdfaGlmaFhMMWs0UkNQSk85UzhnNjlNQTdaZFpJLUVFcU81cjBTdjdwZnBmRUJUdXVyd0JScF92eE9ib091V3hwQXdOdE4tcjdSd1JUQ0pxYnFsMmIxTGd1ZlRyRmtUYVExQVJmNzAwOFBSdG5WNHU0OHhtc1VHdjJzeEVpYWJYVWc0cmZLRGJyR1g1VHBPbTVqSHFSSzZ6MTJDcG5GM1NJTE1ZSmZIU1Vpb2dOcktuS2RIMDdCLVA0S19lSXpwM01Tb1ZLNFI0dXNfRmJ0UFdIQlNqLVdlSWQ4VE9JNUgzOU1ZQzE0S1NMS0RZQTZZZFhCdDh6Y1ViTDJ4clEya0lTUzRsbW5lS2ozTmRVVGcxMThTRHpfVVM1SHY1bjNZX0wwU2Z2ZVBsaWlWS21wRFVXWGpoUGRuamlJZw?oc=5",
-      "source": "Google News · 人工智能",
-      "sourceType": "google",
-      "category": "ai",
-      "publishedAt": "2026-08-04T23:59:00.000Z",
-      "summary": "æ³å½ä¸çæ¥ - äººå·¥æºè½ï¼æä»¬è¿è½çæ­£æ§å¶å®åï¼ RFI",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:52.159Z"
-    },
-    {
-      "id": "219d064666588b77",
-      "title": "ç¾å½æ¿åºæèå¦ä½å å¼ºå¯¹äººå·¥æºè½å·¥å·ççç®¡ - rfi.fr",
+      "id": "fd34b18c82f9f858",
+      "title": "美国政府思考如何加强对人工智能工具的监管 - rfi.fr",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOWGJPd3hQeGN4ZEppNTRMLXdaMDkzcGNncnB2ZkwyZ2xiZVBfcnQtRGhCWExxMGZ6bVhaRmJHUHQ4aFdMVjdlbGtQLThYRkgtdUQ1WmtYZ0dPMldfMG1WbjQxa3NQVUFFN0EtbWlhMC1mSWlCdHhFVGVWbDRFS0RIaEJ6SU8yd1lyT0w2VWYxRVAwb3pXVVIycEJRSTdmR1VlSWxyaUctb2ZPNzlLTFhmTDhQb0NNRXd2dVBIemdncURQNXAwUzNNU3JJZWFTc05XNlFJUU5sTHRtYm1TTGhWS3U0UU93OXRKTXF1b0sxMFk5dWNZem1fMWJrNWFrRkEyN1dHSm0zVkZrSGlfdWRvVE9mNTRhcVBRV25IRy1nZ3VKMzhtRWJ4cHIxazVmYUdManZVOEp5LWdEdVJRTkNBWUdhcmpnTkU5TGFkOXlBMA?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-04T23:55:00.000Z",
-      "summary": "ç¾å½æ¿åºæèå¦ä½å å¼ºå¯¹äººå·¥æºè½å·¥å·ççç®¡ rfi.fr",
+      "summary": "美国政府思考如何加强对人工智能工具的监管 rfi.fr",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T11:32:33.521Z"
+      "fetchedAt": "2026-08-06T13:52:45.451Z"
     },
     {
       "id": "0302c4e1dc9152f3",
@@ -2515,13 +2756,13 @@
     },
     {
       "id": "708526d54711166a",
-      "title": "äººå·¥æºè½æ­£æä¸ºå¨çåä½æ°è¯­è¨ - äººæ°æ¥æ¥",
+      "title": "人工智能正成为全球合作新语言 - 人民日报",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQem42c2hUYm5wOHpBMjRsaHJNU1BIZ1psemQwdFhZUUk4cTNxWEs5RnhTUk42TnpQYnE4Z1RCQ2dRTDN6SGRqZFpJNE9ONGY5X2JGb1Z3VUFnOG9PeUhPdm03cUFMeWNES2ZhbU84MDMtNTBmeGdDVW9EdlZkYU5NV19sVDM?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-04T22:57:48.000Z",
-      "summary": "äººå·¥æºè½æ­£æä¸ºå¨çåä½æ°è¯­è¨ äººæ°æ¥æ¥",
+      "summary": "人工智能正成为全球合作新语言 人民日报",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -2545,7 +2786,7 @@
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-04T21:19:20.000Z",
-      "summary": "Incident Report: unsanctioned agent behaviour during cyber testing The AI Security Institute (AISI) Meta latest to tell world its AI agent wandered out of test pen The Register OpenAI Didnât Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree WIRED",
+      "summary": "Incident Report: unsanctioned agent behaviour during cyber testing The AI Security Institute (AISI) Meta latest to tell world its AI agent wandered out of test pen The Register OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree WIRED",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
@@ -2742,18 +2983,6 @@
       "fetchedAt": "2026-08-06T11:32:21.303Z"
     },
     {
-      "id": "7e7e9cf75a323507",
-      "title": "Tech industry alliance proposes AI agent safety reporting program - Cybersecurity Dive",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWgzZk1YaWcxWk1lNFQteG1PXzhYWGhMd1JfeUd0VkZ5OWV2WTRWaml6Rl80WUViSno0Sm1DM1VDcHhyaDJxLV9Ddmc2bGhaQWpSNkdLdktvdzlaaFpQR1FJTE9JN21hdk01eTFuTzZ3VGVQYzY0S1U2aHRQc3RMaktZVGh3dG1LN0VxdXBsQm5feWxB?oc=5",
-      "source": "Google News · AI Agent",
-      "sourceType": "google",
-      "category": "agent",
-      "publishedAt": "2026-08-04T15:22:46.000Z",
-      "summary": "Tech industry alliance proposes AI agent safety reporting program Cybersecurity Dive",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:40.162Z"
-    },
-    {
       "id": "472619b36268d511",
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
       "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
@@ -2767,13 +2996,13 @@
     },
     {
       "id": "47a6373837dff047",
-      "title": "ä¸è¡æ¥åï¼äººå·¥æºè½å¯ä¸ºåå±ä¸­ç»æµä½æä¾æ°æºé åæ¶å¸¦æ¥æ°çé£é© - UN News",
+      "title": "世行报告：人工智能可为发展中经济体提供新机遇 同时带来新的风险 - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KQmNnNE5RQ3Z6OFdsNVBHSDZmdFYzem1lV0VuZk05Y3RsUnFYSWVWdTVwbWpBTWluNEdISENXSldkWjVaMUlvWlFCckNRTS1oTHFQbmZsNA?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-04T15:03:06.000Z",
-      "summary": "ä¸è¡æ¥åï¼äººå·¥æºè½å¯ä¸ºåå±ä¸­ç»æµä½æä¾æ°æºé åæ¶å¸¦æ¥æ°çé£é© UN News",
+      "summary": "世行报告：人工智能可为发展中经济体提供新机遇 同时带来新的风险 UN News",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -2802,13 +3031,13 @@
     },
     {
       "id": "9046fcdb320e16ee",
-      "title": "Americaâs Cosmic Bet on AI - Foreign Policy",
+      "title": "America’s Cosmic Bet on AI - Foreign Policy",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VkV3FuN1BRS3lUbWE4Nk1wVnNSUVZKcEJUWVhzS25KZTBLaEpHeTJCRVJlczFNNF9IekZTQlZxam40R2hBMFB0dkU1QUhEWUxxU2tkMGI1WmR5N1ZwT2pnb0FkYW5jOHNJc3d4RUVzSFRuSHRXdmpzdHB2bUlVak40azJNREpDVG9HcnZuYk8xRzJLNEF2MU1hbEcxV0daWVVveVFXSlJ6RWI2SnZXTHVuUnBSNHM3SmlmcnZRNkpEWGw2?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-04T13:56:46.000Z",
-      "summary": "Americaâs Cosmic Bet on AI Foreign Policy",
+      "summary": "America’s Cosmic Bet on AI Foreign Policy",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -2970,13 +3199,13 @@
     },
     {
       "id": "0bd7a70ec4ef54a8",
-      "title": "Masterâs degree in artificial intelligence gets underway - WSU Insider",
+      "title": "Master’s degree in artificial intelligence gets underway - WSU Insider",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTI5ZFQ3S3l5MXJKV1duUExEajRUb19CZXVwVnV0T1FvRURLNkJ6OVU4YkVqLThacnpEZU83QmNoXzJ5WUJUOEk5TjFsMENld2k2d2xjRm05VzBwbDE2RFh4MWhfTW9VQWotY19zUV9NMnFSNWphNTJqMEFXd2NyTzgxZVM0Zjg5b2pJVWpjdklHWW83STJCRQ?oc=5",
       "source": "Google News · AI",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-03T13:36:41.000Z",
-      "summary": "Masterâs degree in artificial intelligence gets underway WSU Insider",
+      "summary": "Master’s degree in artificial intelligence gets underway WSU Insider",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:08.375Z"
     },
@@ -3018,27 +3247,15 @@
     },
     {
       "id": "754e0848253fcac1",
-      "title": "Hereâs why AI agents lie and cheat to reach their goals - technologyreview.com",
+      "title": "Here’s why AI agents lie and cheat to reach their goals - technologyreview.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTZZX3FIYTZXNlJmLV8yLUpKZ3JuSGZPTFlpRlF4VzZXOWYxV2FZWV9DekJOZDY1RDgySGRfbEJLdjZLdzdiSWM0M1htZUZLY1ZneHNNTmVSZ21mUkVZZlpuR3Rya3hnS2MyLVdJUC1Gd19qb21VbThRMGE0Yld5bFBuY0JydW1lN3EtVHpKT0Z1TXVKdUVrY0JpeTgycXZkUS1MdkEyUjIzLWvSAbABQVVfeXFMTml6dlUtWGVzYVBFemxJRF81X0VqMVdhbEdDc29mY0RNWjJVWlRJd1o2TUxHbGdWMjQ1dnJ5MTh1LWM5MHZNREZoTTdhbmlSbDBoTTJQRlVDSVFKUHhfTFg0UXRCWHkybEMtQk00NEYwWXFjdzg1VUxUNUZMcngtTllpaWxpZFBLdWJOTVpBajNDeXd0WFhRdjUzcE5ORmktMVRKa25QcF9LZUxhZzJKVlk?oc=5",
       "source": "Google News · AI Agent",
       "sourceType": "google",
       "category": "agent",
       "publishedAt": "2026-08-03T08:30:05.000Z",
-      "summary": "Hereâs why AI agents lie and cheat to reach their goals technologyreview.com",
+      "summary": "Here’s why AI agents lie and cheat to reach their goals technologyreview.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:21.303Z"
-    },
-    {
-      "id": "c8083f8e9ce1ff08",
-      "title": "Hereâs why AI agents lie and cheat to reach their goals - MIT Technology Review",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTZZX3FIYTZXNlJmLV8yLUpKZ3JuSGZPTFlpRlF4VzZXOWYxV2FZWV9DekJOZDY1RDgySGRfbEJLdjZLdzdiSWM0M1htZUZLY1ZneHNNTmVSZ21mUkVZZlpuR3Rya3hnS2MyLVdJUC1Gd19qb21VbThRMGE0Yld5bFBuY0JydW1lN3EtVHpKT0Z1TXVKdUVrY0JpeTgycXZkUS1MdkEyUjIzLWvSAbABQVVfeXFMTml6dlUtWGVzYVBFemxJRF81X0VqMVdhbEdDc29mY0RNWjJVWlRJd1o2TUxHbGdWMjQ1dnJ5MTh1LWM5MHZNREZoTTdhbmlSbDBoTTJQRlVDSVFKUHhfTFg0UXRCWHkybEMtQk00NEYwWXFjdzg1VUxUNUZMcngtTllpaWxpZFBLdWJOTVpBajNDeXd0WFhRdjUzcE5ORmktMVRKa25QcF9LZUxhZzJKVlk?oc=5",
-      "source": "Google News · AI Agent",
-      "sourceType": "google",
-      "category": "agent",
-      "publishedAt": "2026-08-03T08:30:05.000Z",
-      "summary": "Hereâs why AI agents lie and cheat to reach their goals MIT Technology Review",
-      "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:40.163Z"
     },
     {
       "id": "f505d2fa72261e39",
@@ -3102,13 +3319,13 @@
     },
     {
       "id": "2fa64a3d15eb54b5",
-      "title": "æ¨å¨è´è´£ä»»çäººå·¥æºè½å¨æ¬§æ´²åå± - OpenAI",
+      "title": "推动负责任的人工智能在欧洲发展 - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRVZtNjJTd3NuMWpCVXUtOUdULWNkQXVKaHFoRGxvX1ZWSG1hamlqemRsbmFMLThLMEh6MkV4RVFSbnlXbTZPMGV4OE1GQW11ajd6ZnUtWXl4Tkh5STMzcGhaUWlzcmpoWk5LQmQ0dndzelBKeEg1b0V1LWh1Mk5aSw?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-08-01T00:11:43.000Z",
-      "summary": "æ¨å¨è´è´£ä»»çäººå·¥æºè½å¨æ¬§æ´²åå± OpenAI",
+      "summary": "推动负责任的人工智能在欧洲发展 OpenAI",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -3510,13 +3727,13 @@
     },
     {
       "id": "ab51fddbbdd08caf",
-      "title": "ä¸­å½äººå·¥æºè½çå¶èä¹é - cn.nytimes.com",
+      "title": "中国人工智能的制胜之道 - cn.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yU1d2cjJMRFRXaVVDS2xBZzU4clRPeEtDMm0tOFlpU3dkaTd6WXNhTkxCdmZIR0FNc2JiOXZJRlp0SndleVRXVWg3eTEwdDhwUVBJZ1A3cHltWTNlcU5ya0owY0xZcGc2eDJkTWZySl8yUQ?oc=5",
       "source": "Google News · 人工智能",
       "sourceType": "google",
       "category": "ai",
       "publishedAt": "2026-07-24T07:00:00.000Z",
-      "summary": "ä¸­å½äººå·¥æºè½çå¶èä¹é cn.nytimes.com",
+      "summary": "中国人工智能的制胜之道 cn.nytimes.com",
       "thumbnail": null,
       "fetchedAt": "2026-08-06T11:32:33.521Z"
     },
@@ -3758,7 +3975,7 @@
       "publishedAt": "2026-07-16T07:00:00.000Z",
       "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "0dbe129df13ff385",
@@ -3770,19 +3987,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
-    },
-    {
-      "id": "4b009cb78c8fa26a",
-      "title": "Anthropic Found Something That Shouldn't Exist",
-      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-07-15T13:58:27.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:03.646Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "543321f63dd5824d",
@@ -3794,7 +3999,7 @@
       "publishedAt": "2026-07-15T12:00:00.000Z",
       "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "5f5a728b7796f271",
@@ -3806,7 +4011,7 @@
       "publishedAt": "2026-07-15T10:00:00.000Z",
       "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "765659eba2a79742",
@@ -3818,7 +4023,7 @@
       "publishedAt": "2026-07-14T16:00:00.000Z",
       "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "f4a11a825f3f8190",
@@ -3830,7 +4035,7 @@
       "publishedAt": "2026-07-14T10:00:00.000Z",
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "25b8f35f2833980e",
@@ -3842,7 +4047,7 @@
       "publishedAt": "2026-07-14T00:00:00.000Z",
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "38af7927622ed4b4",
@@ -3854,7 +4059,7 @@
       "publishedAt": "2026-07-14T00:00:00.000Z",
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "f412d36e94003386",
@@ -3866,7 +4071,7 @@
       "publishedAt": "2026-07-13T15:06:34.000Z",
       "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-500x500-1783953968.jpg",
-      "fetchedAt": "2026-08-06T12:17:15.278Z"
+      "fetchedAt": "2026-08-06T13:51:48.195Z"
     },
     {
       "id": "c8b704ed4c48a626",
@@ -3878,31 +4083,7 @@
       "publishedAt": "2026-07-13T11:00:51.000Z",
       "summary": "Experts explain how they work, what they can do, and what's still unsettled.",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/cracking-open-world-model-500x500.jpg",
-      "fetchedAt": "2026-08-06T12:17:15.278Z"
-    },
-    {
-      "id": "a045ff217e25d2a0",
-      "title": "Minecraft Was Missing One Brilliant Idea",
-      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-07-12T15:48:43.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:03.646Z"
-    },
-    {
-      "id": "43f80b30036b8600",
-      "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
-      "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-07-10T12:40:15.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/mWlCituW7wo/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
+      "fetchedAt": "2026-08-06T13:51:48.195Z"
     },
     {
       "id": "5d48c451dd2bb6a7",
@@ -3914,7 +4095,7 @@
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "040b887fdbc1ae0c",
@@ -3926,7 +4107,7 @@
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "d7912f4b08a8b577",
@@ -3938,7 +4119,7 @@
       "publishedAt": "2026-07-09T13:00:00.000Z",
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "8b424f0b711104a2",
@@ -3950,7 +4131,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "d756a49cca06a43d",
@@ -3962,7 +4143,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "9147413fc603710d",
@@ -3974,7 +4155,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "summary": "Details about the OpenAI Bio Bounty program",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "415aacf5b58f367d",
@@ -3986,7 +4167,7 @@
       "publishedAt": "2026-07-08T21:42:44.000Z",
       "summary": "AI cheating leads to \"a failed society,\" professor says.",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-500x500.jpg",
-      "fetchedAt": "2026-08-06T12:17:15.278Z"
+      "fetchedAt": "2026-08-06T13:51:48.195Z"
     },
     {
       "id": "5c1127d7db1ecef0",
@@ -3998,7 +4179,7 @@
       "publishedAt": "2026-07-08T13:30:00.000Z",
       "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "8973376a13d7d51f",
@@ -4010,7 +4191,7 @@
       "publishedAt": "2026-07-08T13:00:00.000Z",
       "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "96020bf7612d4100",
@@ -4022,7 +4203,7 @@
       "publishedAt": "2026-07-08T10:00:00.000Z",
       "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "0800072bc5046143",
@@ -4034,7 +4215,7 @@
       "publishedAt": "2026-07-08T07:00:51.000Z",
       "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-500x500.jpg",
-      "fetchedAt": "2026-08-06T12:17:15.278Z"
+      "fetchedAt": "2026-08-06T13:51:48.195Z"
     },
     {
       "id": "8c920b29842f3b08",
@@ -4046,19 +4227,7 @@
       "publishedAt": "2026-07-08T00:00:00.000Z",
       "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
-    },
-    {
-      "id": "324b68d0bd3febbf",
-      "title": "DeepSeek's Absolutely Insane AI Speed Hack",
-      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-07-07T16:33:29.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:03.646Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "14453ad4ecdde2a2",
@@ -4070,7 +4239,7 @@
       "publishedAt": "2026-07-07T08:54:00.000Z",
       "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "1b4955dc8b5a5bc0",
@@ -4082,7 +4251,7 @@
       "publishedAt": "2026-07-07T00:00:00.000Z",
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "044e95faea1bf925",
@@ -4094,31 +4263,7 @@
       "publishedAt": "2026-07-07T00:00:00.000Z",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
-    },
-    {
-      "id": "e441a44a902e5600",
-      "title": "They Said This Will Never Run In Real Time",
-      "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-07-03T17:19:59.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/uO5cvkzh3P0/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:03.646Z"
-    },
-    {
-      "id": "0b53f3926cf1409b",
-      "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
-      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-07-02T16:27:26.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/y24lF1q4SFY/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "c62d4a345536991d",
@@ -4130,7 +4275,7 @@
       "publishedAt": "2026-07-01T18:15:00.000Z",
       "summary": "Here are Google’s latest AI updates from June 2026.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "65a748ce1a2434eb",
@@ -4142,19 +4287,7 @@
       "publishedAt": "2026-07-01T16:00:00.000Z",
       "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
-    },
-    {
-      "id": "0bd88080356e2382",
-      "title": "AI Just Entered A New Era",
-      "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-07-01T05:23:54.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/qks6dGQFd_c/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:03.646Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "cc43c1577277e052",
@@ -4166,7 +4299,7 @@
       "publishedAt": "2026-06-30T20:03:14.000Z",
       "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
       "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-500x500.jpg",
-      "fetchedAt": "2026-08-06T12:17:15.278Z"
+      "fetchedAt": "2026-08-06T13:51:48.195Z"
     },
     {
       "id": "f664756b8ca6cd39",
@@ -4178,7 +4311,7 @@
       "publishedAt": "2026-06-30T09:00:00.000Z",
       "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "3ef7ccd7e1aa7e6a",
@@ -4190,7 +4323,7 @@
       "publishedAt": "2026-06-30T06:00:00.000Z",
       "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "e12227b7a1f687bb",
@@ -4202,7 +4335,7 @@
       "publishedAt": "2026-06-30T00:00:00.000Z",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:15.759Z"
+      "fetchedAt": "2026-08-06T13:51:48.612Z"
     },
     {
       "id": "fb88ddff31dc5f7a",
@@ -4214,7 +4347,7 @@
       "publishedAt": "2026-06-29T16:00:00.000Z",
       "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "74ea7d4243774b1f",
@@ -4226,31 +4359,7 @@
       "publishedAt": "2026-06-25T16:00:00.000Z",
       "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
-    },
-    {
-      "id": "6e1e6bbbdddd8f0b",
-      "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
-      "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-06-22T15:53:06.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/mG4SmhWyeFA/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:03.646Z"
-    },
-    {
-      "id": "d05e6abaf371ce33",
-      "title": "Scientists Found A Better Language For AI Agents",
-      "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "agent",
-      "publishedAt": "2026-06-19T14:06:00.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/dUmT0OIGoqE/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:03.646Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "9faba5f340c064f4",
@@ -4262,19 +4371,7 @@
       "publishedAt": "2026-06-17T15:00:00.000Z",
       "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
-    },
-    {
-      "id": "0d0d8d0dd4d80986",
-      "title": "They Looked Inside Claudeâs AI's Mind. It Got Weird",
-      "url": "https://www.youtube.com/watch?v=l72ufA-4SzE",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-06-16T15:53:17.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/l72ufA-4SzE/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:03.646Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "c0539ad50c1d1ffb",
@@ -4286,31 +4383,7 @@
       "publishedAt": "2026-06-15T15:00:00.000Z",
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
       "thumbnail": null,
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
-    },
-    {
-      "id": "0cc5b1863afc6fde",
-      "title": "NVIDIA's New Free AI - A Gift To Humanity",
-      "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-06-14T15:27:17.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/zJvN8PDX1is/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:03.646Z"
-    },
-    {
-      "id": "649576d093125dd4",
-      "title": "Claude Fable Blocked - 11 Quiet Details on Whatâs Next",
-      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-06-14T14:52:27.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/Qj71N0tBzRo/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "ae8a93e95c07e4fe",
@@ -4322,31 +4395,7 @@
       "publishedAt": "2026-06-11T20:00:00.000Z",
       "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
-    },
-    {
-      "id": "23dd031fb488583f",
-      "title": "Claude Fable 5 - Full 319 page Breakdown",
-      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-06-10T18:43:12.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/haK1KoQWm18/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
-    },
-    {
-      "id": "eb0f7027615c3c79",
-      "title": "AI Agents as \"Games Masters\"? ð®ð¥",
-      "url": "https://www.youtube.com/shorts/82m7YqosdgU",
-      "source": "YouTube · Two Minute Papers",
-      "sourceType": "youtube",
-      "category": "agent",
-      "publishedAt": "2026-06-06T06:20:46.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/82m7YqosdgU/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:03.646Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "10eb49346e34c6f7",
@@ -4358,7 +4407,7 @@
       "publishedAt": "2026-06-05T14:45:00.000Z",
       "summary": "Here are Google’s latest AI updates from May 2026",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "62e3e67a3cd76f67",
@@ -4370,31 +4419,7 @@
       "publishedAt": "2026-06-03T13:00:00.000Z",
       "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
       "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp",
-      "fetchedAt": "2026-08-06T12:17:16.351Z"
-    },
-    {
-      "id": "4dd36b4d028659d9",
-      "title": "New Claude Opus 4.8: 15 Things You Mayâve Missed",
-      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-05-29T15:07:35.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/aJvP3nXWkwM/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
-    },
-    {
-      "id": "51091abc03e79374",
-      "title": "Two Rival Bets on AGI: Google I/O Highlights",
-      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-05-20T16:50:34.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/o_av1b9rs2g/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
+      "fetchedAt": "2026-08-06T13:51:49.197Z"
     },
     {
       "id": "9ed8fde6190f22eb",
@@ -4406,115 +4431,7 @@
       "publishedAt": "2026-05-19T17:45:00.000Z",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google a",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T12:17:08.183Z"
-    },
-    {
-      "id": "b01e986ec9015a8d",
-      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
-      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-04-24T18:45:02.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/jz0rNhfAKo8/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
-    },
-    {
-      "id": "21dfc17c4b7e5abf",
-      "title": "Claude Opus 4.7 - A New Frontier, in Performance â¦ and Drama",
-      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-04-17T18:07:46.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/QVJcdfkRpH8/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
-    },
-    {
-      "id": "39dfdc2cd9542913",
-      "title": "Claude Mythos: Highlights from 244-page Release",
-      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-04-08T17:39:20.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/txx6ec6MLNY/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
-    },
-    {
-      "id": "0be940022ae6da11",
-      "title": "Two AI Mode 3ec8 ls Set to âstir government urgencyâ, But Will This Challenge Undo Them?",
-      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-03-26T20:15:12.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/s4tptozUJ8Y/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
-    },
-    {
-      "id": "572788e81bc35123",
-      "title": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
-      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-03-06T22:07:33.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/xHi8PUIVyoo/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "9e8490938d218097",
-      "title": "What the New ChatGPT 5.4 Means for the World",
-      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-03-06T16:25:26.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/zizoDORjmlQ/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
-    },
-    {
-      "id": "e6ff92c07af1cfe4",
-      "title": "Deadline Day for Autonomous AI Weapons & Mass Surveillance",
-      "url": "https://www.youtube.com/watch?v=Cru804JMjPI",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-02-27T14:57:29.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/Cru804JMjPI/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
-    },
-    {
-      "id": "51cbf933a8af12e4",
-      "title": "Gemini 3.1 Pro and the Downfall of Benchmarks: Welcome to the Vibe Era of AI",
-      "url": "https://www.youtube.com/watch?v=2_DPnzoiHaY",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-02-20T17:01:21.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/2_DPnzoiHaY/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
-    },
-    {
-      "id": "a1f9364bb55b4acd",
-      "title": "The Two Best AI Models/Enemies Just Got Released Simultaneously",
-      "url": "https://www.youtube.com/watch?v=1PxEziv5XIU",
-      "source": "YouTube · AI Explained",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2026-02-06T17:01:30.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/1PxEziv5XIU/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:20.031Z"
+      "fetchedAt": "2026-08-06T13:51:41.096Z"
     },
     {
       "id": "51e9bf6966159bfb",
@@ -4526,7 +4443,7 @@
       "publishedAt": "2026-01-22T14:00:00.000Z",
       "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T12:17:08.183Z"
+      "fetchedAt": "2026-08-06T13:51:41.096Z"
     },
     {
       "id": "3f2170ebf2a7873c",
@@ -4538,7 +4455,7 @@
       "publishedAt": "2026-01-19T14:00:00.000Z",
       "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T12:17:08.183Z"
+      "fetchedAt": "2026-08-06T13:51:41.096Z"
     },
     {
       "id": "72b3d559d31b7e6c",
@@ -4550,7 +4467,7 @@
       "publishedAt": "2026-01-16T14:01:00.000Z",
       "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T12:17:08.183Z"
+      "fetchedAt": "2026-08-06T13:51:41.096Z"
     },
     {
       "id": "5b44069b02f37a50",
@@ -4562,7 +4479,7 @@
       "publishedAt": "2026-01-13T13:00:00.000Z",
       "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf ",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T12:17:08.183Z"
+      "fetchedAt": "2026-08-06T13:51:41.096Z"
     },
     {
       "id": "fb267f6bb272ebd8",
@@ -4574,7 +4491,7 @@
       "publishedAt": "2026-01-12T11:30:00.000Z",
       "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The laun",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T12:17:08.183Z"
+      "fetchedAt": "2026-08-06T13:51:41.096Z"
     },
     {
       "id": "98c64cffe41827be",
@@ -4586,199 +4503,7 @@
       "publishedAt": "2026-01-07T20:00:00.000Z",
       "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest B200 graphics pro",
       "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&amp;q=30",
-      "fetchedAt": "2026-08-06T12:17:08.183Z"
-    },
-    {
-      "id": "040ef01a2e8ee4d1",
-      "title": "Traditional X-Mas Stream",
-      "url": "https://www.youtube.com/watch?v=Dr6jw-WAd9E",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-12-29T03:44:20.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/Dr6jw-WAd9E/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "a3f60318a67f43ee",
-      "title": "Traditional Holiday Live Stream",
-      "url": "https://www.youtube.com/watch?v=DNajvkqfobY",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-12-28T12:41:54.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/DNajvkqfobY/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "d4a0d9e9194cba85",
-      "title": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
-      "url": "https://www.youtube.com/watch?v=taCVT5vDAk0",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-12-27T14:33:29.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/taCVT5vDAk0/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "50278c68df3a03e1",
-      "title": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
-      "url": "https://www.youtube.com/watch?v=v67plFw1nMw",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-12-14T16:22:15.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/v67plFw1nMw/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "e7d943a30312f492",
-      "title": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
-      "url": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-11-01T17:39:06.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/Nao16-6l6dQ/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "6af4a4770910d3d7",
-      "title": "[Video Response] What Cloudflare's code mode misses about MCP and tool calling",
-      "url": "https://www.youtube.com/watch?v=0bpYCxv2qhw",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "agent",
-      "publishedAt": "2025-10-19T10:58:51.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/0bpYCxv2qhw/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "934444fdc7ee7475",
-      "title": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
-      "url": "https://www.youtube.com/watch?v=zKohTkN0Fyk",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-10-11T16:07:41.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/zKohTkN0Fyk/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "d5e6af3c338c3526",
-      "title": "AGI is not coming!",
-      "url": "https://www.youtube.com/watch?v=hkAH7-u7t5k",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-08-09T10:39:28.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/hkAH7-u7t5k/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "f5ec4b4a0edcc340",
-      "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)",
-      "url": "https://www.youtube.com/watch?v=hpC4qjWu_aY",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-07-23T11:10:52.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/hpC4qjWu_aY/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "d908d42cbc209020",
-      "title": "Energy-Based Transformers are Scalable Learners and Thinkers (Paper Review)",
-      "url": "https://www.youtube.com/watch?v=RAEy3JZmIaA",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-07-19T15:19:45.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/RAEy3JZmIaA/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "a2bc1969ff506908",
-      "title": "On the Biology of a Large Language Model (Part 2)",
-      "url": "https://www.youtube.com/watch?v=V71AJoYAtBQ",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-05-03T16:16:29.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/V71AJoYAtBQ/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "a197841cca94f08b",
-      "title": "On the Biology of a Large Language Model (Part 1)",
-      "url": "https://www.youtube.com/watch?v=mU3g2YPKlsA",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-04-05T16:17:00.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/mU3g2YPKlsA/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "4ce0aac3bfa79551",
-      "title": "How I use LLMs",
-      "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-02-27T22:29:56.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "f5cd7b4d9ae5e192",
-      "title": "Deep Dive into LLMs like ChatGPT",
-      "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-02-05T18:23:47.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "f787eec1512e27bd",
-      "title": "[GRPO Explained] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
-      "url": "https://www.youtube.com/watch?v=bAWV_yrqx4w",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2025-01-26T14:03:48.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/bAWV_yrqx4w/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
-    },
-    {
-      "id": "5600d1c6ef369de4",
-      "title": "Traditional Holiday Live Stream",
-      "url": "https://www.youtube.com/watch?v=R3nQ7pGXJcA",
-      "source": "YouTube · Yannic Kilcher",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2024-12-27T00:48:00.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/R3nQ7pGXJcA/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:43.207Z"
+      "fetchedAt": "2026-08-06T13:51:41.096Z"
     },
     {
       "id": "fd75fb051b46a39a",
@@ -4790,7 +4515,7 @@
       "publishedAt": "2024-07-25T17:41:14.000Z",
       "summary": "",
       "thumbnail": "https://i3.ytimg.com/vi/J5bONkFCDlY/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:54.294Z"
+      "fetchedAt": "2026-08-06T13:53:32.773Z"
     },
     {
       "id": "b3e6dfd1f5ef8137",
@@ -4802,7 +4527,7 @@
       "publishedAt": "2024-07-25T17:38:21.000Z",
       "summary": "",
       "thumbnail": "https://i2.ytimg.com/vi/uLpVxEEMO8o/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:54.294Z"
+      "fetchedAt": "2026-08-06T13:53:32.773Z"
     },
     {
       "id": "21933013ac750fb7",
@@ -4814,7 +4539,7 @@
       "publishedAt": "2024-07-25T01:01:41.000Z",
       "summary": "",
       "thumbnail": "https://i1.ytimg.com/vi/81daMr11JPo/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:54.294Z"
+      "fetchedAt": "2026-08-06T13:53:32.773Z"
     },
     {
       "id": "e9b8d0d5592ca20d",
@@ -4826,343 +4551,7 @@
       "publishedAt": "2024-07-25T01:01:40.000Z",
       "summary": "",
       "thumbnail": "https://i1.ytimg.com/vi/tDn1QED3Ldw/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:54.294Z"
-    },
-    {
-      "id": "912a91adc5a79685",
-      "title": "Let's reproduce GPT-2 (124M)",
-      "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2024-06-09T23:31:35.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "cb630bf26332bbfb",
-      "title": "Let's build the GPT Tokenizer",
-      "url": "https://www.youtube.com/watch?v=zduSFxRajkE",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2024-02-20T17:11:35.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "b8b9fcbb655228de",
-      "title": "[1hr Talk] Intro to Large Language Models",
-      "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2023-11-23T02:27:48.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/zjkBMFhNj_g/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "1cdc4f0790207d26",
-      "title": "Let's build GPT: from scratch, in code, spelled out.",
-      "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2023-01-17T16:33:27.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/kCc8FmEb1nY/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "52eb09f78e6f0a04",
-      "title": "Building makemore Part 5: Building a WaveNet",
-      "url": "https://www.youtube.com/watch?v=t3YJ5hKiMQ0",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2022-11-21T00:32:48.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/t3YJ5hKiMQ0/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "fa5481e5f27d09bf",
-      "title": "Building makemore Part 4: Becoming a Backprop Ninja",
-      "url": "https://www.youtube.com/watch?v=q8SA3rM6ckI",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2022-10-11T17:56:19.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/q8SA3rM6ckI/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "15454a71a75e457e",
-      "title": "Building makemore Part 3: Activations & Gradients, BatchNorm",
-      "url": "https://www.youtube.com/watch?v=P6sfmUTpUmc",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2022-10-04T16:41:03.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/P6sfmUTpUmc/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "8cf9d40dee66b406",
-      "title": "Building makemore Part 2: MLP",
-      "url": "https://www.youtube.com/watch?v=TCH_1BHY58I",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2022-09-12T14:43:06.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/TCH_1BHY58I/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "01da64def2af0aaa",
-      "title": "The spelled-out intro to language modeling: building makemore",
-      "url": "https://www.youtube.com/watch?v=PaCmpygFfXo",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2022-09-07T19:14:47.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/PaCmpygFfXo/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "e928dd8c021410d7",
-      "title": "Stable diffusion dreams of psychedelic faces",
-      "url": "https://www.youtube.com/watch?v=kVpDARqZdrQ",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2022-08-19T18:32:25.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/kVpDARqZdrQ/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "df07020defeb5a8c",
-      "title": "Stable diffusion dreams of steampunk brains",
-      "url": "https://www.youtube.com/watch?v=2oKjtvYslMY",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2022-08-17T16:58:01.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/2oKjtvYslMY/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "2133a6732d7f2933",
-      "title": "Stable diffusion dreams of tattoos",
-      "url": "https://www.youtube.com/watch?v=sM9bozW295Q",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2022-08-16T23:02:58.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/sM9bozW295Q/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "06c03265f6279a3d",
-      "title": "The spelled-out intro to neural networks and backpropagation: building micrograd",
-      "url": "https://www.youtube.com/watch?v=VMj-3S1tku0",
-      "source": "YouTube · Andrej Karpathy",
-      "sourceType": "youtube",
-      "category": "ai",
-      "publishedAt": "2022-08-16T22:44:26.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/VMj-3S1tku0/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:18:31.527Z"
-    },
-    {
-      "id": "37609521ee44af8d",
-      "title": "Predictions of tech's future from 1992 | Michael Crichton",
-      "url": "https://www.youtube.com/watch?v=lu4jXldOZHM",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2021-03-23T18:37:31.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/lu4jXldOZHM/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "437309a7928a0adf",
-      "title": "Aerial imagery tech that illustrates new world threats | Dan Dubno",
-      "url": "https://www.youtube.com/watch?v=2e3_VyPlW1s",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2020-02-19T22:05:47.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/2e3_VyPlW1s/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "b801eb11f7ef6d58",
-      "title": "How EarthViewer changed the way we see the world -- from space | Dan Dubno",
-      "url": "https://www.youtube.com/watch?v=wBx8Vc4Jofs",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2020-02-19T22:00:31.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/wBx8Vc4Jofs/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "1898300437d14046",
-      "title": "What would you do if nothing could stop you? | Lisa Genova",
-      "url": "https://www.youtube.com/watch?v=_F3Fp40HAkQ",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-04-05T15:02:51.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/_F3Fp40HAkQ/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "29a2ae2f77ddb25f",
-      "title": "How glaciers impact community | M Jackson",
-      "url": "https://www.youtube.com/watch?v=QFNzKPVirt4",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-04-04T17:12:23.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/QFNzKPVirt4/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "2cf4607616f2e586",
-      "title": "The building of Brunelleschiâs cupola | David Battistella",
-      "url": "https://www.youtube.com/watch?v=ITfG2vospO8",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-04-02T20:05:08.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/ITfG2vospO8/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "868e9ff7d1ba3a73",
-      "title": "Designing for social spaces | Janet Echelman",
-      "url": "https://www.youtube.com/watch?v=cJpNM9et4F0",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-02-12T15:31:04.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/cJpNM9et4F0/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "7df68d38b2e0264a",
-      "title": "Helping small-scale farmers break the poverty cycle | Anushka Ratnayake",
-      "url": "https://www.youtube.com/watch?v=OQO-ptAaYFk",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-02-06T22:27:36.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/OQO-ptAaYFk/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "70d20684fa65295c",
-      "title": "The importance of self-representation for refugees | Sana Mustafa",
-      "url": "https://www.youtube.com/watch?v=daCRHNkBS_A",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-02-06T22:25:25.000Z",
-      "summary": "",
-      "thumbnail": "https://i1.ytimg.com/vi/daCRHNkBS_A/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "7361ea2859667b6d",
-      "title": "Lack of data is an issue of global injustice | Claire Melamed",
-      "url": "https://www.youtube.com/watch?v=vcTMUcUxMPQ",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-02-06T22:19:09.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/vcTMUcUxMPQ/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "3caf1ead164aa5d8",
-      "title": "Ending energy poverty and building credit | Lesley Marincola",
-      "url": "https://www.youtube.com/watch?v=GvKrVOW0wtQ",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-02-06T22:17:31.000Z",
-      "summary": "",
-      "thumbnail": "https://i4.ytimg.com/vi/GvKrVOW0wtQ/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "1df375314a150a9e",
-      "title": "How to build safer housing after a disaster | Elizabeth Hausler",
-      "url": "https://www.youtube.com/watch?v=RE6-O6t9N3s",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-02-06T22:16:24.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/RE6-O6t9N3s/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "7a8869013a14bb4b",
-      "title": "âBoom Boomâ, âLife is Realâ and other songs | Ayo with guitarist Marvin Dolly",
-      "url": "https://www.youtube.com/watch?v=jwgCUdPnEOU",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-02-06T22:15:07.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/jwgCUdPnEOU/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "37baabc21da59c10",
-      "title": "How can education foster ethical citizens? | Patrick Awuah",
-      "url": "https://www.youtube.com/watch?v=-BckS8D-opA",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-02-06T22:13:12.000Z",
-      "summary": "",
-      "thumbnail": "https://i2.ytimg.com/vi/-BckS8D-opA/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
-    },
-    {
-      "id": "587feac46c6eaafa",
-      "title": "A short musical performance bursting with energy | DJ Bill \"Blinky\" Bill Sellanga",
-      "url": "https://www.youtube.com/watch?v=zPD-Vpmp_6I",
-      "source": "演讲 · TED Talks",
-      "sourceType": "talk",
-      "category": "ai",
-      "publishedAt": "2019-01-23T21:56:58.000Z",
-      "summary": "",
-      "thumbnail": "https://i3.ytimg.com/vi/zPD-Vpmp_6I/hqdefault.jpg",
-      "fetchedAt": "2026-08-06T12:19:05.517Z"
+      "fetchedAt": "2026-08-06T13:53:32.773Z"
     }
   ]
 }

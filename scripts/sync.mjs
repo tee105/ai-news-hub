@@ -175,7 +175,8 @@ function fetchViaProxy(urlStr, timeoutMs) {
       const onSecure = () => {
         const pathAndQuery = target.pathname + target.search;
         const reqText = `GET ${pathAndQuery} HTTP/1.1\r\nHost: ${target.hostname}\r\nUser-Agent: ${USER_AGENT}\r\nAccept: application/rss+xml, application/atom+xml, application/xml, text/xml, */*\r\nConnection: close\r\n\r\n`;
-        let body = '';
+        const chunks = [];
+        let headBuffer = Buffer.alloc(0);
         let status = 0;
         let headDone = false;
         let settled = false;
@@ -189,20 +190,24 @@ function fetchViaProxy(urlStr, timeoutMs) {
         };
         const timer = setTimeout(() => done(new Error('代理抓取超时')), timeoutMs);
         tlsSocket.on('data', (d) => {
-          const s = d.toString('latin1');
           if (!headDone) {
-            const idx = s.indexOf('\r\n\r\n');
+            headBuffer = Buffer.concat([headBuffer, d]);
+            const idx = headBuffer.indexOf('\r\n\r\n');
             if (idx >= 0) {
               headDone = true;
-              const head = s.slice(0, idx);
+              const head = headBuffer.slice(0, idx).toString('latin1');
               status = Number((head.match(/^HTTP\/1\.[01] (\d+)/) || [])[1] || 0);
-              body += s.slice(idx + 4);
+              const rest = headBuffer.slice(idx + 4);
+              if (rest.length) chunks.push(rest);
             }
           } else {
-            body += s;
+            chunks.push(d);
           }
         });
-        tlsSocket.on('end', () => done(null, { status, text: () => body }));
+        tlsSocket.on('end', () => {
+          const body = Buffer.concat(chunks).toString('utf8');
+          done(null, { status, text: () => body });
+        });
         tlsSocket.on('error', (e) => done(new Error(`代理隧道错误: ${e.message}`)));
         tlsSocket.write(reqText);
       };
